@@ -1,4 +1,4 @@
-# Top-Blcokchain-paper
+# Top-Blockchain-paper
 
 ## S&P
 * ***OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding***
