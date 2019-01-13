@@ -19,8 +19,8 @@ Bartoletti (University of Cagliari), Roberto Zunino (University of Trento)
 * **BEAT: Asynchronous BFT Made Practical**<br>
 Sisi Duan (University of Maryland, Baltimore County), Michael K. Reiter (University of North Carolina at Chapel Hill), Haibin Zhang (University of Maryland, Baltimore County)
 
-* **A better method to analyze blockchain consistency Lucianna Kiffer**<br>
-(Northeastern University), Abhi Shelat (Northeastern University), Rajmohan Rajaraman (Northeastern University
+* **A better method to analyze blockchain consistency**<br>
+Lucianna Kiffer(Northeastern University), Abhi Shelat (Northeastern University), Rajmohan Rajaraman (Northeastern University)
 
 * **An End-to-End System for Large Scale P2P MPC-as-a-Service and Low-Bandwidth MPC for Weak Participants (MPC)**<br>
 Assi Barak (Bar-Ilan University), Martin Hirt (ETH Zurich), Lior Koskas (Bar-Ilan University), Yehuda Lindell (Bar-Ilan University)
