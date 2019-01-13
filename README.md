@@ -4,7 +4,8 @@
 
 * **OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding**<br>
 Eleftherios Kokoris-Kogias (EPFL), Philipp Jovanovic (EPFL), Linus Gasser (EPFL), Nicolas Gailly (EPFL), Ewa Syta (Trinity College), and Bryan Ford (EPFL)
- * **Routing Around Congestion: Defeating DDoS Attacks and Adverse Network Conditions via Reactive BGP Routing**<br>
+
+* **Routing Around Congestion: Defeating DDoS Attacks and Adverse Network Conditions via Reactive BGP Routing**<br>
 Jared M Smith (University of Tennessee) and Max Schuchard (University of Tennessee)
 
 ### CCS
@@ -12,25 +13,25 @@ Jared M Smith (University of Tennessee) and Max Schuchard (University of Tenness
 * **CHECKMATE: Practical Security Analysis of Smart Contracts**<br>
 Petar Tsankov (ETH Zurich), Andrei Marian Dan (ETH Zurich), Dana Drachsler Cohen (ETH Zurich), Arthur Gervais (Imperial College London), Florian Buenzli (ETH Zurich), Martin Vechev (ETH Zurich)
 
- * **BitML: a calculus for Bitcoin smart contracts Massimo**<br>
- Bartoletti (University of Cagliari), Roberto Zunino (University of Trento)
+* **BitML: a calculus for Bitcoin smart contracts Massimo**<br>
+Bartoletti (University of Cagliari), Roberto Zunino (University of Trento)
  
 * **BEAT: Asynchronous BFT Made Practical**<br>
 Sisi Duan (University of Maryland, Baltimore County), Michael K. Reiter (University of North Carolina at Chapel Hill), Haibin Zhang (University of Maryland, Baltimore County)
 
- * **A better method to analyze blockchain consistency Lucianna Kiffer**<br>
+* **A better method to analyze blockchain consistency Lucianna Kiffer**<br>
 (Northeastern University), Abhi Shelat (Northeastern University), Rajmohan Rajaraman (Northeastern University
 
 * **An End-to-End System for Large Scale P2P MPC-as-a-Service and Low-Bandwidth MPC for Weak Participants (MPC)**<br>
 Assi Barak (Bar-Ilan University), Martin Hirt (ETH Zurich), Lior Koskas (Bar-Ilan University), Yehuda Lindell (Bar-Ilan University)
 
- * **Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability**<br>
+* **Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability**<br>
 Christian Badertscher (ETH Zurich), Peter Gazi (IOHK), Aggelos Kiayias (University of Edinburgh and IOHK), Alexander Russell (University of Connecticut), Vassilis Zikas (University of Edinburgh and IOHK)
  
 * **nanoPI: Extreme-Scale Actively-Secure Multi-Party Computation (MPC)**<br>
 Ruiyu Zhu (Indiana University), Darion Cassel (Carnegie Mellon University), Amr Sabry (Indiana University), Yan Huang (Indiana University)
 
- * **Secure Computation with Differentially Private Access Patterns**<br>
+* **Secure Computation with Differentially Private Access Patterns**<br>
 Sahar Mazloom (George Mason University), S. Dov Gordon (George Mason University)
 
 * **RapidChain: Fast Blockchain Consensus via Full Sharding**<br>
@@ -42,7 +43,7 @@ Stefan Dziembowski (University of Warsaw), Lisa Eckey (TU Darmstadt), Sebastian 
 ### Usenix Security
 
 * **An Empirical Analysis of Anonymity in Zcash**<br>
-* George Kappos, Haaroon Yousaf, Mary Maller, and Sarah Meiklejohn, University College London
+George Kappos, Haaroon Yousaf, Mary Maller, and Sarah Meiklejohn, University College London
 
 * **teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts**<br>
 Johannes Krupp and Christian Rossow, CISPA
