@@ -103,7 +103,7 @@ Giulio Malavolta (Friedrich-Alexander University Erlangen-Nürnberg); Pedro More
 * **Seth: Protecting Existing Smart Contracts Against Re-Entrancy Attacks**<br>
 Michael Rodler (University of Duisburg-Essen); Wenting Li and Ghassan Karame (NEC Laboratories, Germany); Lucas Davi (University of Duisburg-Essen)
 
-* **OBFSCURO: A Commodity Obfuscation Engine on Intel SGX **<br>
+* **OBFSCURO: A Commodity Obfuscation Engine on Intel SGX**<br>
 Adil Ahmad (Purdue); Byunggill Joe (KAIST); Yuan Xiao and Yinqian Zhang (Ohio State University); Insik Shin (KAIST); Byoungyoung Lee (Purdue/SNU)
 
 ### ACSAC
