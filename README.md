@@ -60,7 +60,7 @@ Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, and Michael Ba
 * **DelegaTEE: Brokered Delegation Using Trusted Execution Environments (SGX)**<br>
 Sinisa Matetic and Moritz Schneider, ETH Zurich; Andrew Miller, UIUC; Ari Juels, Cornell Tech; Srdjan Capkun, ETH Zurich
 
-### NDSS
+### NDSS(2018)
 
 * **OBLIVIATE: A Data Oblivious Filesystem for Intel SGX**<br>
 Adil Ahmad (Purdue University), Kyungtae Kim(Purdue University), Muhammad Ihsanulhaq Sarfaraz (Purdue University), and Byoungyoung Lee (Purdue University)
@@ -80,6 +80,31 @@ Hubert Ritzdorf (ETH Zurich), Karl Wust (ETH Zurich), Arthur Gervais (Imperial C
 
 * **Consensual and Privacy-Preserving Sharing of Multi-Subject and Interdependent Data**<br>
 Alexandra-Mihaela Olteanu (EPFL and UNIL-HEC Lausanne), Kevin Huguenin (UNIL-HEC Lausanne), Italo Dacosta (EPFL), and Jean-Pierre Hubaux (EPFL)
+
+### NDSS(2019)
+* **Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing Gone Attribute-Based**<br>
+David Derler (DFINITY); Kai Samelin (TÜV Rheinland i-sec GmbH); Daniel Slamanig and Christoph Striecks (AIT Austrian Institute of Technology)
+
+* **YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes**<br>
+Sourav Das, Vinay Joseph Ribeiro, and Abhijeet Anand (Department of Computer Science and Engineering, Indian Institute of Technology Delhi)
+
+* **SABRE: Protecting Bitcoin against Routing Attacks**<br>
+Maria Apostolaki, Gian Marti, Jan Müller, and Laurent Vanbever (ETH Zurich)
+
+* **Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers**<br>
+Alberto Sonnino, Mustafa Al-Bassam, Shehar Bano, Sarah Meiklejohn, and George Danezis (University College London (UCL))
+
+* **Vault: Fast Bootstrapping for Cryptocurrencies**<br>
+Derek Leung, Adam Suhl, Yossi Gilad, and Nickolai Zeldovich (MIT CSAIL)
+
+* **Privacy-preserving Multi-hop Locks for Blockchain Scalability and Interoperability**<br>
+Giulio Malavolta (Friedrich-Alexander University Erlangen-Nürnberg); Pedro Moreno Sanchez (Purdue University); Clara Schneidewind and Matteo Maffei (TU Wien); Aniket Kate (Purdue University)
+
+* **Seth: Protecting Existing Smart Contracts Against Re-Entrancy Attacks**<br>
+Michael Rodler (University of Duisburg-Essen); Wenting Li and Ghassan Karame (NEC Laboratories, Germany); Lucas Davi (University of Duisburg-Essen)
+
+* **OBFSCURO: A Commodity Obfuscation Engine on Intel SGX **<br>
+Adil Ahmad (Purdue); Byunggill Joe (KAIST); Yuan Xiao and Yinqian Zhang (Ohio State University); Insik Shin (KAIST); Byoungyoung Lee (Purdue/SNU)
 
 ### ACSAC
 
