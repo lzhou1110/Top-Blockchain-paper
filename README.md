@@ -146,10 +146,15 @@ Peifang Ni, Hongda Li and Dongxue Pan (IIE, CAS, China)
 * **Application of public ledgers to revocation in distributed access control (Short)**<br>
 Thanh Bui and Tuomas Aura (Aalto University, Finland)
 
-### NSDI
+### NSDI(2018)
 
 * **zkLedger: Privacy-Preserving Auditing for Distributed Ledgers**<br>
 Neha Narula, Willy Vasquez, Madars Virza
+
+### NSDI(2019)
+
+* **Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones**<br>
+Jiaping Wang; Hao Wang, The Ohio State University
 
 ### OSDI
 
