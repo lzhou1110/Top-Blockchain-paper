@@ -392,7 +392,7 @@ Xiaoshuai Zhang, Stefan Poslad
 * **A Survey of Blockchain: Techniques, Applications, and Challenges**<br>
 Weichao Gao, William G. Hatcher, Wei Yu
 
-* ** Decentralizing Attribute-Based Signature for Healthcare Blockchain**<br>
+* **Decentralizing Attribute-Based Signature for Healthcare Blockchain**<br>
 You Sun, Rui Zhang, Xin Wang, Kaiqiang Gao, Ling Liu
 
 * **CoinExpress: A Fast Payment Routing Mechanism in Blockchain-Based Payment Channel Networks**<br>
