@@ -236,6 +236,17 @@ Elli Androulaki, Christian Cachin, Angelo De Caro, Eleftherios Kokoris-Kogias
 * **Dissemination of Authenticated Tree-Structured Data with Privacy Protection and Fine-Grained Control in Outsourced Databases**<br>
 Jianghua Liu, Jinhua Ma, Wanlei Zhou, Yang Xiang, Xinyi Huang
 
+### SRDC(B, 2018)
+
+* **A Requirements-Driven Methodology for the Proper Selection and Configuration of Blockchains**<br>
+Mirko Staderini, Enrico Schiavone, Andrea Bondavalli
+
+* **Crash-Resilient Decentralized Synchronous Runtime Verification**<br>
+Shokoufeh Kazemlou, Borzoo Bonakdarpour
+
+* **Decentralized Release of Self-Emerging Data using Smart Contracts**<br>
+Chao Li, Balaji Palanisamy
+
 ### ICDCS(B, 2018)
 
 * **ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain**<br>
@@ -329,6 +340,15 @@ Jiayuan Yin, Changren Wang, Zongyang Zhang, Jianwei Liu
 * **Decentralized Blacklistable Anonymous Credentials with Reputation**<br>
 Rupeng Yang, Man Ho Au, Qiuliang Xu, Zuoxia Yu
 
+### TIFS(A, 2016, Journal)
+
+* **Bitcoin Block Withholding Attack: Analysis and Mitigation**
+Samiran Bag, Sushmita Ruj, Kouichi Sakurai
+
+### TDSC(A, 2018, Journal)
+
+* **Security and Privacy in Decentralized Energy Trading Through Multi-Signatures, Blockchain and Anonymous Messaging Streams**
+Nurzhan Zhumabekuly Aitzhan, Davor Svetinovic
 
 ## Robber van Renesse的有关文章
 
