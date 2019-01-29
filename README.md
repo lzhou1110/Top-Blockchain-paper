@@ -128,6 +128,14 @@ Muoi Tran, National University of Singapore; Loi Luu, Kyber Network; Min Suk Kan
 * **Identifying Key Leakage of Bitcoin Users**<br>
 Sichael Brengel, Christian Rossow (CISPA, Saarland University)
 
+### ICNP(网络, B, 2018)
+
+* **A Fair Consensus Protocol for Transaction Ordering**<br>
+Avi Asayag, Gad Cohen, Ido Grayevsky, Maya Leshkowitz, Ori Rottenstreich, Ronen Tamari, David Yakira
+
+* **Shifter: A Consistent Multicast Routing Update Scheme in Software-Defined Networks**<br>
+Guanhao Wu, Xiaofeng Gao, Tao Chen, Hao Zhou, Linghe Kong, Guihai Chen
+
 ### ASIACCS(C, 2018)
 
 * **On the Strategy and Behavior of Bitcoin Mining with N-attackers**<br>
