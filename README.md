@@ -312,6 +312,24 @@ Bin Yu, Joseph K. Liu, Amin Sakzad, Surya Nepal, Ron Steinfeld, Paul Rimba, Man 
 * **Privacy in Crowdsourcing: A Systematic Review**<br>
 Abdulwhab Alkharashi, Karen Renaud
 
+### ACISP(C, 2018)
+
+* **Post-Quantum One-Time Linkable Ring Signature and Application to Ring Confidential Transactions in Blockchain**<br>
+Wilson Abel Alberto Torres, Ron Steinfeld, Amin Sakzad, Joseph K. Liu, Veronika Kuchta, Nandita Bhattacharjee, Man Ho Au, Jacob Cheng
+
+* **Fast Lottery-Based Micropayments for Decentralized Currencies**<br>
+Kexin Hu, Zhenfeng Zhang
+
+* **Z-Channel: Scalable and Efficient Scheme in Zerocash**<br>
+Yuncong Zhang, Yu Long, Zhen Liu, Zhiqiang Liu, Dawu Gu
+
+* **Revisiting the Incentive Mechanism of Bitcoin-NG**<br>
+Jiayuan Yin, Changren Wang, Zongyang Zhang, Jianwei Liu
+
+* **Decentralized Blacklistable Anonymous Credentials with Reputation**<br>
+Rupeng Yang, Man Ho Au, Qiuliang Xu, Zuoxia Yu
+
+
 ## Robber van Renesse的有关文章
 
 * Untethered: Deployable Blockchains for IoT Environments. SoCC 2018
