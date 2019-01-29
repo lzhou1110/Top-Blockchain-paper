@@ -40,6 +40,10 @@ Mahdi Zamani (Visa Research), Mahnush Movahedi (Dfinity), Mariana Raykova (Yale 
 * **FairSwap: How to fairly exchange digital goods**<br>
 Stefan Dziembowski (University of Warsaw), Lisa Eckey (TU Darmstadt), Sebastian Faust (TU Darmstadt)
 
+### AsiaCCS(2018)
+* **SALAD: Secure and Lightweight Attestation of Highly Dynamic and Disruptive Networks**<br>
+Florian Kohnhäuser, Niklas Büscher, Stefan Katzenbeisser
+
 ### Usenix Security(2018)
 
 * **An Empirical Analysis of Anonymity in Zcash**<br>
