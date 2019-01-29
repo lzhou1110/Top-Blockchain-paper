@@ -263,9 +263,21 @@ Sriram Sankaran, Sonam Sanju, Krishnashree Achuthan
 Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann
 
 ### FC(C类, 2019)
+
 * [**https://fc19.ifca.ai/program.html**](https://fc19.ifca.ai/program.html)
 
+### Trustcom(C类, 2018)
+
+* **BARS: A Blockchain-Based Anonymous Reputation System for Trust Management in VANETs**
+Zhaojun Lu, Qian Wang, Gang Qu, Zhenglin Liu:
+
+* **MPCSToken: Smart Contract Enabled Fault-Tolerant Incentivisation for Mobile P2P Crowd Services**
+Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann
+	Nisha Malik, Priyadarsi Nanda, Arushi Arora, Xiangjian He, Deepak Puthal:
+Blockchain Based Secured Identity Authentication and Expeditious Revocation Framework for Vehicular Networks
+
 ## Robber van Renesse的有关文章
+
 * Untethered: Deployable Blockchains for IoT Environments. SoCC 2018
 
 * Vegvisir: A Partition-Tolerant Blockchain for the Internet-of-Things. ICDCS 2018
@@ -281,10 +293,14 @@ Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann
 * The Miner's Dilemma. IEEE Symposium on Security and Privacy 2015: 89-103
 
 ## Interesting papers
+
 * Scalable Byzantine Consensus via Hardware-assisted Secret Sharing(fastBFT)
 Jian Liu, Wenting Li,Ghassan O. Karame, Member, IEEE, and N. Asokan, Fellow, IEEE
 
 * It’s Hard to Share: Joint Service Placement and Request Scheduling in Edge Clouds with Sharable and Non-sharable Resources
+
+* Towards Secure Blockchain-enabled Internet of Vehicles: Optimizing Consensus Management Using Reputation and Contract Theory
+Jiawen Kang, Zehui Xiong, Dusit Niyato, Fellow, IEEE, Dongdong Ye, Dong In Kim, Senior Member, IEEE,Jun Zhao, Member, IEEE
 
 ## License
 
