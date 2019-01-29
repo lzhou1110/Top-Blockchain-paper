@@ -340,6 +340,14 @@ Jiayuan Yin, Changren Wang, Zongyang Zhang, Jianwei Liu
 * **Decentralized Blacklistable Anonymous Credentials with Reputation**<br>
 Rupeng Yang, Man Ho Au, Qiuliang Xu, Zuoxia Yu
 
+### SecureComm(C, 2018)
+
+* **Augmented Chain of Ownership: Configuring IoT Devices with the Help of the Blockchain**<br>
+Sophie Dramé-Maigné, Maryline Laurent, Laurent Castillo, Hervé Ganem
+
+* **Towards a Reliable and Accountable Cyber Supply Chain in Energy Delivery System Using Blockchain**<br>
+	Xueping Liang, Sachin Shetty, Deepak K. Tosh, Yafei Ji, Danyi Li
+
 ### TIFS(A, 2016, Journal)
 
 * **Bitcoin Block Withholding Attack: Analysis and Mitigation**
