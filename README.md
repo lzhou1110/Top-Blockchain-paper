@@ -238,28 +238,28 @@ Jianghua Liu, Jinhua Ma, Wanlei Zhou, Yang Xiang, Xinyi Huang
 
 ### ICDCS(2018)
 
-* **ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain**
+* **ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain**<br>
 Yuan Lu, Qiang Tang, Guiling Wang
 
-* **Vegvisir: A Partition-Tolerant Blockchain for the Internet-of-Things**
+* **Vegvisir: A Partition-Tolerant Blockchain for the Internet-of-Things**<br>
 Kolbeinn Karlsson, Weitao Jiang, Stephen B. Wicker, Danny Adams, Edwin Ma, Robbert van Renesse, Hakim Weatherspoon
 
-* **Towards a Novel Architecture for Enabling Interoperability amongst Multiple Blockchains**
+* **Towards a Novel Architecture for Enabling Interoperability amongst Multiple Blockchains**<br>
 Hai Jin, Xiaohai Dai, Jiang Xiao
 
-* **Towards Dependable, Scalable, and Pervasive Distributed Ledgers with Blockchains.**
+* **Towards Dependable, Scalable, and Pervasive Distributed Ledgers with Blockchains**<br>
 Kaiwen Zhang, Hans-Arno Jacobsen
 
-* **A Flexible Network Approach to Privacy of Blockchain Transactions (short paper)**
+* **A Flexible Network Approach to Privacy of Blockchain Transactions (short paper)**<br>
 David Mödinger, Henning Kopp, Frank Kargl, Franz J. Hauck
 
-* **Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph (poster)**
+* **Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph (poster)**<br>
 Federico Matteo Bencic, Ivana Podnar Zarko
 
-* **Towards Realistic Energy Profiling of Blockchains for Securing Internet of Things (short paper)**
+* **Towards Realistic Energy Profiling of Blockchains for Securing Internet of Things (short paper)**<br>
 Sriram Sankaran, Sonam Sanju, Krishnashree Achuthan
 
-* **MPCSToken: Smart Contract Enabled Fault-Tolerant Incentivisation for Mobile P2P Crowd Services**
+* **MPCSToken: Smart Contract Enabled Fault-Tolerant Incentivisation for Mobile P2P Crowd Services**<br>
 Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann
 
 ### FC(C类, 2019)
@@ -268,13 +268,49 @@ Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann
 
 ### Trustcom(C类, 2018)
 
-* **BARS: A Blockchain-Based Anonymous Reputation System for Trust Management in VANETs**
-Zhaojun Lu, Qian Wang, Gang Qu, Zhenglin Liu:
+* **BARS: A Blockchain-Based Anonymous Reputation System for Trust Management in VANETs**<br>
+Zhaojun Lu, Qian Wang, Gang Qu, Zhenglin Liu
 
-* **MPCSToken: Smart Contract Enabled Fault-Tolerant Incentivisation for Mobile P2P Crowd Services**
-Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann
-	Nisha Malik, Priyadarsi Nanda, Arushi Arora, Xiangjian He, Deepak Puthal:
-Blockchain Based Secured Identity Authentication and Expeditious Revocation Framework for Vehicular Networks
+* **Blockchain Based Secured Identity Authentication and Expeditious Revocation Framework for Vehicular Networks**<br>
+Nisha Malik, Priyadarsi Nanda, Arushi Arora, Xiangjian He, Deepak Puthal
+
+* **RZKPB: A Privacy-Preserving Blockchain-Based Fair Transaction Method for Sharing Economy**<br>
+Bin Li, Yijie Wang
+
+* **Managed Blockchain Based Cryptocurrencies with Consensus Enforced Rules and Transparency**<br>
+Peter Mell
+
+* **A Blockchain-Based Decentralized Data Storage and Access Framework for PingER**<br>
+Saqib Ali, Guojun Wang, Bebo White, Roger Leslie Cottrell
+
+* **Blockchain as a Notarization Service for Data Sharing with Personal Data Store**<br>
+Mohammad Jabed Morshed Chowdhury, Alan Colman, Muhammad Ashad Kabir, Jun Han, Paul Sarda
+
+* **Fair and Transparent Blockchain Based Tendering Framework - A Step Towards Open Governance**<br>
+Freya Sheer Hardwick, Raja Naeem Akram, Konstantinos Markantonakis
+
+* **Blockchain Versus Database: A Critical Analysis**<br>
+Mohammad Jabed Morshed Chowdhury, Alan Colman, Muhammad Ashad Kabir, Jun Han, Paul Sarda
+
+* **FPPB: A Fast and Privacy-Preserving Method Based on the Permissioned Blockchain for Fair Transactions in Sharing Economy**<br>
+Bin Li, Yijie Wang, Peichang Shi, Huan Chen, Li Cheng
+
+* **On the Design of a Blockchain-Based System to Facilitate Healthcare Data Sharing**<br>
+Anastasia Theodouli, Stelios Arakliotis, Konstantinos Moschou, Konstantinos Votis, Dimitrios Tzovaras
+
+* **The Blockchain for Domain Based Static Sharding**<br>
+HyunKyung Yoo, Jongchoul Yim, Sunme Kim
+
+* **A Controllable Efficient Content Distribution Framework Based on Blockchain and ISODATA**<br>
+Yangxin Wu, Peijia Zheng, Jianting Guo, Wei Zhang, Jiwu Huang
+
+### ISC(C类, 2018)
+
+* **Platform-Independent Secure Blockchain-Based Voting System**<br>
+Bin Yu, Joseph K. Liu, Amin Sakzad, Surya Nepal, Ron Steinfeld, Paul Rimba, Man Ho Au
+
+* **Privacy in Crowdsourcing: A Systematic Review**<br>
+Abdulwhab Alkharashi, Karen Renaud
 
 ## Robber van Renesse的有关文章
 
@@ -294,12 +330,12 @@ Blockchain Based Secured Identity Authentication and Expeditious Revocation Fram
 
 ## Interesting papers
 
-* Scalable Byzantine Consensus via Hardware-assisted Secret Sharing(fastBFT)
+* Scalable Byzantine Consensus via Hardware-assisted Secret Sharing(fastBFT)<br>
 Jian Liu, Wenting Li,Ghassan O. Karame, Member, IEEE, and N. Asokan, Fellow, IEEE
 
 * It’s Hard to Share: Joint Service Placement and Request Scheduling in Edge Clouds with Sharable and Non-sharable Resources
 
-* Towards Secure Blockchain-enabled Internet of Vehicles: Optimizing Consensus Management Using Reputation and Contract Theory
+* Towards Secure Blockchain-enabled Internet of Vehicles: Optimizing Consensus Management Using Reputation and Contract Theory<br>
 Jiawen Kang, Zehui Xiong, Dusit Niyato, Fellow, IEEE, Dongdong Ye, Dong In Kim, Senior Member, IEEE,Jun Zhao, Member, IEEE
 
 ## License
