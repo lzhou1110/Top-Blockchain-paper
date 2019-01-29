@@ -239,6 +239,22 @@ Jianghua Liu, Jinhua Ma, Wanlei Zhou, Yang Xiang, Xinyi Huang
 ### FC (C类)
 * [**https://fc19.ifca.ai/program.html**](https://fc19.ifca.ai/program.html)
 
+## Robber van Renesse的有关文章
+* Untethered: Deployable Blockchains for IoT Environments. SoCC 2018
+
+* Vegvisir: A Partition-Tolerant Blockchain for the Internet-of-Things. ICDCS 2018
+
+* Decentralization in Bitcoin and Ethereum Networks. CoRR 2018
+
+* Ovid: A Software-Defined Distributed Systems Framework to support Consistency and Change. IEEE Data Eng
+
+* Teechain: Reducing Storage Costs on the Blockchain With Offline Payment Channels. SYSTOR 2018
+
+* An Analysis of Acceptance Policies For Blockchain Transactions. IACR Cryptology ePrint Archive 2018: 40 (2018)
+
+* The Miner's Dilemma. IEEE Symposium on Security and Privacy 2015: 89-103
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
