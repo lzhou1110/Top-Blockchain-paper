@@ -355,6 +355,38 @@ Sophie Dramé-Maigné, Maryline Laurent, Laurent Castillo, Hervé Ganem
 
 * **Towards a Reliable and Accountable Cyber Supply Chain in Energy Delivery System Using Blockchain**<br>
 	Xueping Liang, Sachin Shetty, Deepak K. Tosh, Yafei Ji, Danyi Li
+	
+### ICC(C, 2018)
+
+* **Analysis of the Communication Traffic for Blockchain Synchronization of IoT Devices**<br>
+Pietro Danzi, Anders Ellersgaard Kalør, Cedomir Stefanovic, Petar Popovski
+
+* **Optimal Pricing-Based Edge Computing Resource Management in Mobile Blockchain**<br>
+Zehui Xiong, Shaohan Feng, Dusit Niyato, Ping Wang, Zhu Han
+
+* **Decentralized Caching for Content Delivery Based on Blockchain: A Game Theoretic Perspective**<br>
+Wenbo Wang, Dusit Niyato, Ping Wang, Amir Leshem
+
+* **Making Big Data Open in Collaborative Edges: A Blockchain-Based Framework with Reduced Resource Requirements**<br>
+Chenhan Xu, Kun Wang, Guoliang Xu, Peng Li, Song Guo, Jiangtao Luo
+
+* **Social Welfare Maximization Auction in Edge Computing Resource Allocation for Mobile Blockchain**<br>
+Yutao Jiao, Ping Wang, Dusit Niyato, Zehui Xiong:
+
+* **An Privacy-Preserving Cross-Organizational Authentication/Authorization/Accounting System Using Blockchain Technology**<br>
+Peggy Joy Lu, Lo-Yao Yeh, Jiun-Long Huang
+
+* **Optimal Auction for Edge Computing Resource Management in Mobile Blockchain Networks: A Deep Learning Approach**<br>
+Nguyen Cong Luong, Zehui Xiong, Ping Wang, Dusit Niyato
+
+* **Blockchain Support for Flexible Queries with Granular Access Control to Electronic Medical Records (EMR)**<br>
+Xiaoshuai Zhang, Stefan Poslad
+
+* **Strengthening the Blockchain-Based Internet of Value with Trust**<br>
+Nguyen B. Truong, Tai-Won Um, Bo Zhou, Gyu Myoung Lee
+
+* **Blockchain Support for Flexible Queries with Granular Access Control to Electronic Medical Records (EMR)**<br>
+Xiaoshuai Zhang, Stefan Poslad
 
 ### TIFS(A, 2016, Journal)
 
