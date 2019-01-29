@@ -280,6 +280,11 @@ Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann
 
 * The Miner's Dilemma. IEEE Symposium on Security and Privacy 2015: 89-103
 
+## Interesting papers
+* Scalable Byzantine Consensus via Hardware-assisted Secret Sharing(fastBFT)
+Jian Liu, Wenting Li,Ghassan O. Karame, Member, IEEE, and N. Asokan, Fellow, IEEE
+
+* It’s Hard to Share: Joint Service Placement and Request Scheduling in Edge Clouds with Sharable and Non-sharable Resources
 
 ## License
 
