@@ -419,28 +419,28 @@ Nurzhan Zhumabekuly Aitzhan, Davor Svetinovic
 
 ## Robber van Renesse的有关文章
 
-* Untethered: Deployable Blockchains for IoT Environments. SoCC 2018
+* **Untethered: Deployable Blockchains for IoT Environments. SoCC 2018**
 
-* Vegvisir: A Partition-Tolerant Blockchain for the Internet-of-Things. ICDCS 2018
+* **Vegvisir: A Partition-Tolerant Blockchain for the Internet-of-Things. ICDCS 2018**
 
-* Decentralization in Bitcoin and Ethereum Networks. CoRR 2018
+* **Decentralization in Bitcoin and Ethereum Networks. CoRR 2018**
 
-* Ovid: A Software-Defined Distributed Systems Framework to support Consistency and Change. IEEE Data Eng
+* **Ovid: A Software-Defined Distributed Systems Framework to support Consistency and Change. IEEE Data Eng**
 
-* Teechain: Reducing Storage Costs on the Blockchain With Offline Payment Channels. SYSTOR 2018
+* **Teechain: Reducing Storage Costs on the Blockchain With Offline Payment Channels. SYSTOR 2018**
 
-* An Analysis of Acceptance Policies For Blockchain Transactions. IACR Cryptology ePrint Archive 2018: 40 (2018)
+* **An Analysis of Acceptance Policies For Blockchain Transactions. IACR Cryptology ePrint Archive 2018: 40 (2018)**
 
-* The Miner's Dilemma. IEEE Symposium on Security and Privacy 2015: 89-103
+* **The Miner's Dilemma. IEEE Symposium on Security and Privacy 2015: 89-103**
 
 ## Interesting papers
 
-* Scalable Byzantine Consensus via Hardware-assisted Secret Sharing(fastBFT)<br>
+* **Scalable Byzantine Consensus via Hardware-assisted Secret Sharing(fastBFT)**<br>
 Jian Liu, Wenting Li,Ghassan O. Karame, Member, IEEE, and N. Asokan, Fellow, IEEE
 
-* It’s Hard to Share: Joint Service Placement and Request Scheduling in Edge Clouds with Sharable and Non-sharable Resources
+* **It’s Hard to Share: Joint Service Placement and Request Scheduling in Edge Clouds with Sharable and Non-sharable Resources**
 
-* Towards Secure Blockchain-enabled Internet of Vehicles: Optimizing Consensus Management Using Reputation and Contract Theory<br>
+* **Towards Secure Blockchain-enabled Internet of Vehicles: Optimizing Consensus Management Using Reputation and Contract Theory**<br>
 Jiawen Kang, Zehui Xiong, Dusit Niyato, Fellow, IEEE, Dongdong Ye, Dong In Kim, Senior Member, IEEE,Jun Zhao, Member, IEEE
 
 ## License
