@@ -388,6 +388,25 @@ Nguyen B. Truong, Tai-Won Um, Bo Zhou, Gyu Myoung Lee
 * **Blockchain Support for Flexible Queries with Granular Access Control to Electronic Medical Records (EMR)**<br>
 Xiaoshuai Zhang, Stefan Poslad
 
+### ICCCN(C, 2018)
+* **A Survey of Blockchain: Techniques, Applications, and Challenges**<br>
+Weichao Gao, William G. Hatcher, Wei Yu
+
+* ** Decentralizing Attribute-Based Signature for Healthcare Blockchain**<br>
+You Sun, Rui Zhang, Xin Wang, Kaiqiang Gao, Ling Liu
+
+* **CoinExpress: A Fast Payment Routing Mechanism in Blockchain-Based Payment Channel Networks**<br>
+Ruozhou Yu, Guoliang Xue, Vishnu Teja Kilari, Dejun Yang, Jian Tang
+
+* **Towards Blockchain-Based Scalable and Trustworthy File Sharing**<br>
+Shujie Cui, Muhammad Rizwan Asghar, Giovanni Russello
+
+* **Blockchain-Based Security Layer for Identification and Isolation of Malicious Things in IoT: A Conceptual Design**<br>
+Mandrita Banerjee, Junghee Lee, Qian Chen, Kim-Kwang Raymond Choo
+
+* **A Blockchain-Based Authentication and Security Mechanism for IoT**<br>
+Dongxing Li, Wei Peng, Wenping Deng, Fangyu Gai
+
 ### TIFS(A, 2016, Journal)
 
 * **Bitcoin Block Withholding Attack: Analysis and Mitigation**<br>
