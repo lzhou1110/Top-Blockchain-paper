@@ -358,12 +358,12 @@ Sophie Dramé-Maigné, Maryline Laurent, Laurent Castillo, Hervé Ganem
 
 ### TIFS(A, 2016, Journal)
 
-* **Bitcoin Block Withholding Attack: Analysis and Mitigation**
+* **Bitcoin Block Withholding Attack: Analysis and Mitigation**<br>
 Samiran Bag, Sushmita Ruj, Kouichi Sakurai
 
 ### TDSC(A, 2018, Journal)
 
-* **Security and Privacy in Decentralized Energy Trading Through Multi-Signatures, Blockchain and Anonymous Messaging Streams**
+* **Security and Privacy in Decentralized Energy Trading Through Multi-Signatures, Blockchain and Anonymous Messaging Streams**<br>
 Nurzhan Zhumabekuly Aitzhan, Davor Svetinovic
 
 ## Robber van Renesse的有关文章
