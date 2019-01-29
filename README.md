@@ -435,7 +435,7 @@ Nurzhan Zhumabekuly Aitzhan, Davor Svetinovic
 
 ## Interesting papers
 
-* **Scalable Byzantine Consensus via Hardware-assisted Secret Sharing(fastBFT)**<br>
+* **Scalable Byzantine Consensus via Hardware-assisted Secret Sharing (FASTBFT)**<br>
 Jian Liu, Wenting Li,Ghassan O. Karame, Member, IEEE, and N. Asokan, Fellow, IEEE
 
 * **It’s Hard to Share: Joint Service Placement and Request Scheduling in Edge Clouds with Sharable and Non-sharable Resources**
