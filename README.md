@@ -8,6 +8,9 @@ Eleftherios Kokoris-Kogias (EPFL), Philipp Jovanovic (EPFL), Linus Gasser (EPFL)
 * **Routing Around Congestion: Defeating DDoS Attacks and Adverse Network Conditions via Reactive BGP Routing**<br>
 Jared M Smith (University of Tennessee) and Max Schuchard (University of Tennessee)
 
+* **Bulletproofs: Short Proofs for Confidential Transactions and More**<br>
+Benedikt Bünz (Stanford University), Jonathan Bootle (University College London), Dan Boneh (Stanford University), Andrew Poelstra (Blockstream), Pieter Wuille (Blockstream), and Greg Maxwell (None)
+
 ### CCS(A, 2018)
 
 * **CHECKMATE: Practical Security Analysis of Smart Contracts**<br>
