@@ -391,6 +391,9 @@ Nguyen B. Truong, Tai-Won Um, Bo Zhou, Gyu Myoung Lee
 * **Blockchain Support for Flexible Queries with Granular Access Control to Electronic Medical Records (EMR)**<br>
 Xiaoshuai Zhang, Stefan Poslad
 
+### ICC(C, 2017)
+* **Towards trustworthy and private keyword search in encrypted decentralized storage**<br>
+
 ### ICCCN(C, 2018)
 * **A Survey of Blockchain: Techniques, Applications, and Challenges**<br>
 Weichao Gao, William G. Hatcher, Wei Yu
