@@ -491,6 +491,9 @@ https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=bl
 ## The morning paper
 https://blog.acolyer.org/
 
+## IEEE
+https://www.computer.org/web/search
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
