@@ -2,6 +2,17 @@
 
 ### S&P(A, 2018)
 
+* **Redactable Blockchain in the Permissionless Setting**<br>
+Dominic Deuber (Friedrich-Alexander-University Erlangen-Nurnberg), Bernardo Magri (Aarhus University), Sri Aravinda Krishnan Thyagarajan (Friedrich-Alexander-University Erlangen-Nurnberg)
+
+* **Proof-of-Stake Sidechains**<br>
+Peter Gaži (IOHK), Aggelos Kiayias (University of Edinburgh, IOHK), Dionysis Zindros (University of Athens, IOHK)
+
+* **Perun: Virtual Payment Hubs over Cryptocurrencies**<br>
+Stefan Dziembowski (University of Warsaw), Lisa Eckey (TU Darmstadt), Sebastian Faust (TU Darmstadt), Daniel Malinowski (University of Warsaw)
+
+### S&P(A, 2018)
+
 * **OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding**<br>
 Eleftherios Kokoris-Kogias (EPFL), Philipp Jovanovic (EPFL), Linus Gasser (EPFL), Nicolas Gailly (EPFL), Ewa Syta (Trinity College), and Bryan Ford (EPFL)
 
@@ -448,6 +459,18 @@ Jian Liu, Wenting Li,Ghassan O. Karame, Member, IEEE, and N. Asokan, Fellow, IEE
 
 * **Towards Secure Blockchain-enabled Internet of Vehicles: Optimizing Consensus Management Using Reputation and Contract Theory**<br>
 Jiawen Kang, Zehui Xiong, Dusit Niyato, Fellow, IEEE, Dongdong Ye, Dong In Kim, Senior Member, IEEE,Jun Zhao, Member, IEEE
+
+* **A Survey on Security and Privacy Issues of Bitcoin**<br>
+Mauro Conti,Senior Member, IEEE,Sandeep Kumar E,Member, IEEE,Chhagan Lal,Member, IEEE,Sushmita Ruj,Senior Member, IEEE
+
+* **Provable Storage Mediumfor Data Storage Outsourcing**<br>
+Stefano Guarino,  Ey ̈up S. Canlar,  Mauro Conti,  Roberto Di Pietro,  and Agusti Solanas
+
+* **CONDENSER: A Graph-Based Approachfor Detecting Botnets**<br>
+
+* **Blindly Signed Contracts:Anonymous On-Blockchain and Off-Blockchain Bitcoin Transactions**<br>
+Ethan Heilman, Foteini Baldimtsi, and Sharon Goldberg
+
 
 ## License
 
