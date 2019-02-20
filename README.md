@@ -1,6 +1,6 @@
 # Top-Blockchain-paper: All 2018-current papers.
 
-### S&P(A, 2018)
+### S&P(A, 2019)
 
 * **Redactable Blockchain in the Permissionless Setting**<br>
 Dominic Deuber (Friedrich-Alexander-University Erlangen-Nurnberg), Bernardo Magri (Aarhus University), Sri Aravinda Krishnan Thyagarajan (Friedrich-Alexander-University Erlangen-Nurnberg)
@@ -433,6 +433,11 @@ Samiran Bag, Sushmita Ruj, Kouichi Sakurai
 
 * **Security and Privacy in Decentralized Energy Trading Through Multi-Signatures, Blockchain and Anonymous Messaging Streams**<br>
 Nurzhan Zhumabekuly Aitzhan, Davor Svetinovic
+
+### TPDS(A, 2018, Journal)
+
+* **Crowdbc: A blockchain-based decentralized framework for crowdsourcing**<br>
+M Li, J Weng, A Yang, W Lu, Y Zhang
 
 ## Robber van Renesse的有关文章
 
