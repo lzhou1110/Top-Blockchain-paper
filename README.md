@@ -22,7 +22,7 @@ Jared M Smith (University of Tennessee) and Max Schuchard (University of Tenness
 * **Bulletproofs: Short Proofs for Confidential Transactions and More**<br>
 Benedikt Bünz (Stanford University), Jonathan Bootle (University College London), Dan Boneh (Stanford University), Andrew Poelstra (Blockstream), Pieter Wuille (Blockstream), and Greg Maxwell (None)
 
-### EUROS&P(TOP, 20109)
+### EUROS&P(TOP, 2019)
 * **Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution**<br>
 Cheng, R. and Zhang, F. and Kos, J. and He, W. and Hynes, N. and Johnson, N. and Juels, A. and Miller, A. and Song, D
 
