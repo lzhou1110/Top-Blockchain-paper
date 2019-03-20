@@ -22,6 +22,10 @@ Jared M Smith (University of Tennessee) and Max Schuchard (University of Tenness
 * **Bulletproofs: Short Proofs for Confidential Transactions and More**<br>
 Benedikt Bünz (Stanford University), Jonathan Bootle (University College London), Dan Boneh (Stanford University), Andrew Poelstra (Blockstream), Pieter Wuille (Blockstream), and Greg Maxwell (None)
 
+### EUROS&P(TOP, 20109)
+* **Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution**<br>
+Cheng, R. and Zhang, F. and Kos, J. and He, W. and Hynes, N. and Johnson, N. and Juels, A. and Miller, A. and Song, D
+
 ### CCS(A, 2018)
 
 * **CHECKMATE: Practical Security Analysis of Smart Contracts**<br>
@@ -481,6 +485,9 @@ Z Xiong, Y Zhang, D Niyato, P Wang, Z Han
 IEEE Communications Magazine 56 (8), 33-39
 
 * **Blockchain-Based Secure Data Provenance for Cloud Storage**<br>
+
+* **TEX–A Securely Scalable Trustless Exchange R Khalil, A Gervais, G Felley**<br>
+
 
 * **SmartEdge: A Smart Contract for Edge Computinge**<br>
 Kwame-Lante Wright, Martin Martinez, Uday Chadha, Bhaskar Krishnamachari
