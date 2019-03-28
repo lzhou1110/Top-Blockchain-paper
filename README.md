@@ -521,7 +521,7 @@ https://dblp.uni-trier.de/search?q=blockchain
 https://dblp.uni-trier.de/db/conf/icbc/icbc2018.html
 
 * **Incentives in Ethereum's Hybrid Casper Protocol**<br>
-Vitalik Buterin, Daniel Reijsbergen, Stefanos Leonardos, Georgios Piliouras
+Vitalik Buterin(以太坊创始人), Daniel Reijsbergen, Stefanos Leonardos, Georgios Piliouras
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
