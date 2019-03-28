@@ -86,7 +86,7 @@ Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, and Michael Ba
 * **DelegaTEE: Brokered Delegation Using Trusted Execution Environments (SGX)**<br>
 Sinisa Matetic and Moritz Schneider, ETH Zurich; Andrew Miller, UIUC; Ari Juels, Cornell Tech; Srdjan Capkun, ETH Zurich
 
-### NDSS(B, 2018)
+### NDSS(B,2018)
 
 * **OBLIVIATE: A Data Oblivious Filesystem for Intel SGX**<br>
 Adil Ahmad (Purdue University), Kyungtae Kim(Purdue University), Muhammad Ihsanulhaq Sarfaraz (Purdue University), and Byoungyoung Lee (Purdue University)
