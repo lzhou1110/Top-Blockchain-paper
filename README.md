@@ -496,7 +496,7 @@ IEEE Communications Magazine 56 (8), 33-39
 
 * **TEX–A Securely Scalable Trustless Exchange R Khalil, A Gervais, G Felley**<br>
 
-* **FastFabric: Scaling Hyperledger Fabric to 20,000 Transactions per Second*<br>
+* **FastFabric: Scaling Hyperledger Fabric to 20,000 Transactions per Second**<br>
 Christian Gorenflo, Stephen Lee, Lukasz Golab, S. Keshav
 
 ## ARXIV
