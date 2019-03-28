@@ -146,7 +146,7 @@ Muoi Tran, National University of Singapore; Loi Luu, Kyber Network; Min Suk Kan
 * **Identifying Key Leakage of Bitcoin Users**<br>
 Sichael Brengel, Christian Rossow (CISPA, Saarland University)
 
-### DSN（B，2018）
+### DSN(B，2018)
 * **A Byzantine Fault-Tolerant Ordering Service for the Hyperledger Fabric Blockchain Platform（BFT-SMART）*<br>
 Joao Sousa Alysson Bessani Marko Vukoli LaSIGE, Faculdade de Cincias, Universidade de Lisboa IBM Research Zurich
 
