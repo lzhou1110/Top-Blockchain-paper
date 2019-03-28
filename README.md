@@ -517,11 +517,13 @@ https://www.iacr.org/
 ## Blockchain dblp
 https://dblp.uni-trier.de/search?q=blockchain
 
-### ICBC
+### ICBC(2019,2018)
 https://dblp.uni-trier.de/db/conf/icbc/icbc2018.html
 
-## License
+* **Incentives in Ethereum's Hybrid Casper Protocol**<br>
+Vitalik Buterin, Daniel Reijsbergen, Stefanos Leonardos, Georgios Piliouras
 
+## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released into the public domain.
