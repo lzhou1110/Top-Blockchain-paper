@@ -496,9 +496,8 @@ IEEE Communications Magazine 56 (8), 33-39
 
 * **TEX–A Securely Scalable Trustless Exchange R Khalil, A Gervais, G Felley**<br>
 
-
-* **SmartEdge: A Smart Contract for Edge Computinge**<br>
-Kwame-Lante Wright, Martin Martinez, Uday Chadha, Bhaskar Krishnamachari
+* **FastFabric: Scaling Hyperledger Fabric to 20,000 Transactions per Second*<br>
+Christian Gorenflo, Stephen Lee, Lukasz Golab, S. Keshav
 
 ## ARXIV
 https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=blockchain&terms-0-field=all&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first
