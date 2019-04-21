@@ -151,7 +151,7 @@ Muoi Tran, National University of Singapore; Loi Luu, Kyber Network; Min Suk Kan
 Sichael Brengel, Christian Rossow (CISPA, Saarland University)
 
 ### DSN(B，2018)
-* **A Byzantine Fault-Tolerant Ordering Service for the Hyperledger Fabric Blockchain Platform（BFT-SMART）*<br>
+* **A Byzantine Fault-Tolerant Ordering Service for the Hyperledger Fabric Blockchain Platform（BFT-SMART）**<br>
 Joao Sousa Alysson Bessani Marko Vukoli LaSIGE, Faculdade de Cincias, Universidade de Lisboa IBM Research Zurich
 
 ### ICNP(网络, B, 2018)
