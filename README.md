@@ -467,6 +467,8 @@ M Li, J Weng, A Yang, W Lu, Y Zhang
 
 * **The Miner's Dilemma. IEEE Symposium on Security and Privacy 2015: 89-103**
 
+* **A Survey on Security and Privacy Issues of Bitcoin**
+
 ## Interesting papers
 
 * **Scalable Byzantine Consensus via Hardware-assisted Secret Sharing (FASTBFT)**<br>
