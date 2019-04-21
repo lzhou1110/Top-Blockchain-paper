@@ -519,7 +519,7 @@ https://www.iacr.org/
 ## Blockchain dblp
 https://dblp.uni-trier.de/search?q=blockchain
 
-### ICBC(2019,2018)
+## ICBC(2019,2018)
 https://dblp.uni-trier.de/db/conf/icbc/icbc2018.html
 
 * **Incentives in Ethereum's Hybrid Casper Protocol**<br>
