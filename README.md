@@ -1,7 +1,7 @@
 # Top-Blockchain-paper: All 2018-current papers.
 
 ### Arxiv papers
-* **FlyClient: Super-Light Clients for Cryptocurrencies** *
+* **FlyClient: Super-Light Clients for Cryptocurrencies** <br>
 Benedikt Bunz, Lucianna Kiffer, Loi Luu, and Mahdi Zamani
 Stanford University, Northeastern University, Kyber Network, Visa Research
 
