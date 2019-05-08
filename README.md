@@ -1,5 +1,10 @@
 # Top-Blockchain-paper: All 2018-current papers.
 
+### Arxiv papers
+* **FlyClient: Super-Light Clients for Cryptocurrencies** *
+Benedikt Bunz, Lucianna Kiffer, Loi Luu, and Mahdi Zamani
+Stanford University, Northeastern University, Kyber Network, Visa Research
+
 ### S&P(A, 2019)
 
 * **Redactable Blockchain in the Permissionless Setting**<br>
@@ -310,6 +315,13 @@ Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann
 ### FC(C, 2019)
 
 * [**https://fc19.ifca.ai/program.html**](https://fc19.ifca.ai/program.html)
+
+### FC(C, 2018)
+
+* **Proof-of-Work Sidechains** *
+Aggelos Kiayias and Dionysis Zindros
+University of Edinburgh and IOHK
+National and Kapodistrian University of Athens and IOHK
 
 ### Trustcom(C, 2018)
 
