@@ -16,19 +16,19 @@ Peter Gaži (IOHK), Aggelos Kiayias (University of Edinburgh, IOHK), Dionysis Zi
 * **Perun: Virtual Payment Hubs over Cryptocurrencies**<br>
 Stefan Dziembowski (University of Warsaw), Lisa Eckey (TU Darmstadt), Sebastian Faust (TU Darmstadt), Daniel Malinowski (University of Warsaw)
 
-* **XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets**
+* **XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets**<br>
 Alexei Zamyatin (Imperial College London), Dominik Harz (Imperial College London), Joshua Lind (Imperial College London), Panayiotis Panayiotou (Imperial College London), Arthur Gervais (Imperial College London), William J. Knottenbelt (Imperial College London)
 
-* **Bitcoin vs. Bitcoin Cash: Coexistence or Downfall of Bitcoin Cash?**
+* **Bitcoin vs. Bitcoin Cash: Coexistence or Downfall of Bitcoin Cash?**<br>
 Yujin Kwon (KAIST), Hyoungshick Kim (Sungkyunkwan University), Jinwoo Shin (KAIST), Yongdae Kim (KAIST)
 
-* **Blind Certificate Authorities**   
+* **Blind Certificate Authorities**   <br>
 Liang Wang (UW Madison), Gilad Asharov (Cornell Tech), Rafael Pass (Cornell Tech), Thomas Ristenpart (Cornell Tech), Abhi Shelat (Northeastern University)
 
-* **Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake**
+* **Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake**<br>
 Thomas Kerber (The University of Edinburgh & IOHK), Aggelos Kiayias (The University of Edinburgh & IOHK), Markulf Kohlweiss (The University of Edinburgh & IOHK), Vassilis Zikas (The University of Edinburgh & IOHK)
 
-* **Lay Down the Common Metrics: Evaluating Proof-of-Work Consensus Protocols' Security**
+* **Lay Down the Common Metrics: Evaluating Proof-of-Work Consensus Protocols' Security**<br>
 Ren Zhang (Nervos and imec-COSIC, KU Leuven), Bart Preneel (imec-COSIC, KU Leuven)
 
 ### S&P(A, 2018)
