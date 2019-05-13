@@ -151,6 +151,11 @@ Michael Rodler (University of Duisburg-Essen); Wenting Li and Ghassan Karame (NE
 * **OBFSCURO: A Commodity Obfuscation Engine on Intel SGX**<br>
 Adil Ahmad (Purdue); Byunggill Joe (KAIST); Yuan Xiao and Yinqian Zhang (Ohio State University); Insik Shin (KAIST); Byoungyoung Lee (Purdue/SNU)
 
+### SIGSAC(A, 2017)
+* **Solidus: Confidential distributed ledger transactions via PVORM**<br>
+Ethan Cecchetti, Fan Zhang, Yan Ji, Ahmed Kosba, Ari Juels, Elaine Shi
+
+
 ### ACSAC(B, 2018)
 
 * **Finding The Greedy, Prodigal, and Suicidal Contracts at Scale**<br>
