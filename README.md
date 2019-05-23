@@ -483,6 +483,10 @@ Nurzhan Zhumabekuly Aitzhan, Davor Svetinovic
 * **Crowdbc: A blockchain-based decentralized framework for crowdsourcing**<br>
 M Li, J Weng, A Yang, W Lu, Y Zhang
 
+### Eurocropt(A, 2017)
+* **Decentralized Anonymous Micropayments**<br>
+
+
 ## Robber van Renesse的有关文章
 
 * **Untethered: Deployable Blockchains for IoT Environments. SoCC 2018**
