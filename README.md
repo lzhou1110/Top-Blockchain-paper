@@ -1,5 +1,10 @@
 # Top-Blockchain-paper: All 2018-current papers.
 
+### Arxiv papers
+* **FlyClient: Super-Light Clients for Cryptocurrencies** <br>
+Benedikt Bunz, Lucianna Kiffer, Loi Luu, and Mahdi Zamani
+Stanford University, Northeastern University, Kyber Network, Visa Research
+
 ### S&P(A, 2019)
 
 * **Redactable Blockchain in the Permissionless Setting**<br>
@@ -11,6 +16,21 @@ Peter Gaži (IOHK), Aggelos Kiayias (University of Edinburgh, IOHK), Dionysis Zi
 * **Perun: Virtual Payment Hubs over Cryptocurrencies**<br>
 Stefan Dziembowski (University of Warsaw), Lisa Eckey (TU Darmstadt), Sebastian Faust (TU Darmstadt), Daniel Malinowski (University of Warsaw)
 
+* **XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets**<br>
+Alexei Zamyatin (Imperial College London), Dominik Harz (Imperial College London), Joshua Lind (Imperial College London), Panayiotis Panayiotou (Imperial College London), Arthur Gervais (Imperial College London), William J. Knottenbelt (Imperial College London)
+
+* **Bitcoin vs. Bitcoin Cash: Coexistence or Downfall of Bitcoin Cash?**<br>
+Yujin Kwon (KAIST), Hyoungshick Kim (Sungkyunkwan University), Jinwoo Shin (KAIST), Yongdae Kim (KAIST)
+
+* **Blind Certificate Authorities**   <br>
+Liang Wang (UW Madison), Gilad Asharov (Cornell Tech), Rafael Pass (Cornell Tech), Thomas Ristenpart (Cornell Tech), Abhi Shelat (Northeastern University)
+
+* **Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake**<br>
+Thomas Kerber (The University of Edinburgh & IOHK), Aggelos Kiayias (The University of Edinburgh & IOHK), Markulf Kohlweiss (The University of Edinburgh & IOHK), Vassilis Zikas (The University of Edinburgh & IOHK)
+
+* **Lay Down the Common Metrics: Evaluating Proof-of-Work Consensus Protocols' Security**<br>
+Ren Zhang (Nervos and imec-COSIC, KU Leuven), Bart Preneel (imec-COSIC, KU Leuven)
+
 ### S&P(A, 2018)
 
 * **OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding**<br>
@@ -21,6 +41,14 @@ Jared M Smith (University of Tennessee) and Max Schuchard (University of Tenness
 
 * **Bulletproofs: Short Proofs for Confidential Transactions and More**<br>
 Benedikt Bünz (Stanford University), Jonathan Bootle (University College London), Dan Boneh (Stanford University), Andrew Poelstra (Blockstream), Pieter Wuille (Blockstream), and Greg Maxwell (None)
+
+### SIGMOD(A, 2019)
+* **vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases**<br>
+香港浸会大学徐建良教授团队
+
+### EUROS&P(TOP, 2019)
+* **Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution**<br>
+Cheng, R. and Zhang, F. and Kos, J. and He, W. and Hynes, N. and Johnson, N. and Juels, A. and Miller, A. and Song, D
 
 ### CCS(A, 2018)
 
@@ -78,7 +106,7 @@ Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, and Michael Ba
 * **DelegaTEE: Brokered Delegation Using Trusted Execution Environments (SGX)**<br>
 Sinisa Matetic and Moritz Schneider, ETH Zurich; Andrew Miller, UIUC; Ari Juels, Cornell Tech; Srdjan Capkun, ETH Zurich
 
-### NDSS(B, 2018)
+### NDSS(B,2018)
 
 * **OBLIVIATE: A Data Oblivious Filesystem for Intel SGX**<br>
 Adil Ahmad (Purdue University), Kyungtae Kim(Purdue University), Muhammad Ihsanulhaq Sarfaraz (Purdue University), and Byoungyoung Lee (Purdue University)
@@ -123,6 +151,11 @@ Michael Rodler (University of Duisburg-Essen); Wenting Li and Ghassan Karame (NE
 * **OBFSCURO: A Commodity Obfuscation Engine on Intel SGX**<br>
 Adil Ahmad (Purdue); Byunggill Joe (KAIST); Yuan Xiao and Yinqian Zhang (Ohio State University); Insik Shin (KAIST); Byoungyoung Lee (Purdue/SNU)
 
+### SIGSAC(A, 2017)
+* **Solidus: Confidential distributed ledger transactions via PVORM**<br>
+Ethan Cecchetti, Fan Zhang, Yan Ji, Ahmed Kosba, Ari Juels, Elaine Shi
+
+
 ### ACSAC(B, 2018)
 
 * **Finding The Greedy, Prodigal, and Suicidal Contracts at Scale**<br>
@@ -141,6 +174,10 @@ Muoi Tran, National University of Singapore; Loi Luu, Kyber Network; Min Suk Kan
 
 * **Identifying Key Leakage of Bitcoin Users**<br>
 Sichael Brengel, Christian Rossow (CISPA, Saarland University)
+
+### DSN(B，2018)
+* **A Byzantine Fault-Tolerant Ordering Service for the Hyperledger Fabric Blockchain Platform（BFT-SMART）**<br>
+Joao Sousa Alysson Bessani Marko Vukoli LaSIGE, Faculdade de Cincias, Universidade de Lisboa IBM Research Zurich
 
 ### ICNP(网络, B, 2018)
 
@@ -299,6 +336,13 @@ Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann
 
 * [**https://fc19.ifca.ai/program.html**](https://fc19.ifca.ai/program.html)
 
+### FC(C, 2018)
+
+* **Proof-of-Work Sidechains** *
+Aggelos Kiayias and Dionysis Zindros
+University of Edinburgh and IOHK
+National and Kapodistrian University of Athens and IOHK
+
 ### Trustcom(C, 2018)
 
 * **BARS: A Blockchain-Based Anonymous Reputation System for Trust Management in VANETs**<br>
@@ -439,6 +483,10 @@ Nurzhan Zhumabekuly Aitzhan, Davor Svetinovic
 * **Crowdbc: A blockchain-based decentralized framework for crowdsourcing**<br>
 M Li, J Weng, A Yang, W Lu, Y Zhang
 
+### Eurocropt(A, 2017)
+* **Decentralized Anonymous Micropayments**<br>
+
+
 ## Robber van Renesse的有关文章
 
 * **Untethered: Deployable Blockchains for IoT Environments. SoCC 2018**
@@ -454,6 +502,8 @@ M Li, J Weng, A Yang, W Lu, Y Zhang
 * **An Analysis of Acceptance Policies For Blockchain Transactions. IACR Cryptology ePrint Archive 2018: 40 (2018)**
 
 * **The Miner's Dilemma. IEEE Symposium on Security and Privacy 2015: 89-103**
+
+* **A Survey on Security and Privacy Issues of Bitcoin**
 
 ## Interesting papers
 
@@ -482,8 +532,10 @@ IEEE Communications Magazine 56 (8), 33-39
 
 * **Blockchain-Based Secure Data Provenance for Cloud Storage**<br>
 
-* **SmartEdge: A Smart Contract for Edge Computinge**<br>
-Kwame-Lante Wright, Martin Martinez, Uday Chadha, Bhaskar Krishnamachari
+* **TEX–A Securely Scalable Trustless Exchange R Khalil, A Gervais, G Felley**<br>
+
+* **FastFabric: Scaling Hyperledger Fabric to 20,000 Transactions per Second**<br>
+Christian Gorenflo, Stephen Lee, Lukasz Golab, S. Keshav
 
 ## ARXIV
 https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=blockchain&terms-0-field=all&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first
@@ -503,11 +555,13 @@ https://www.iacr.org/
 ## Blockchain dblp
 https://dblp.uni-trier.de/search?q=blockchain
 
-### ICBC
+## ICBC(2019,2018)
 https://dblp.uni-trier.de/db/conf/icbc/icbc2018.html
 
-## License
+* **Incentives in Ethereum's Hybrid Casper Protocol**<br>
+Vitalik Buterin(以太坊创始人), Daniel Reijsbergen, Stefanos Leonardos, Georgios Piliouras
 
+## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released into the public domain.
