@@ -86,6 +86,20 @@ Stefan Dziembowski (University of Warsaw), Lisa Eckey (TU Darmstadt), Sebastian 
 * **SALAD: Secure and Lightweight Attestation of Highly Dynamic and Disruptive Networks**<br>
 Florian Kohnhäuser, Niklas Büscher, Stefan Katzenbeisser
 
+### Usenix Secuity(A,2019)
+* **BITE: Bitcoin Lightweight Client Privacy using Trusted Execution**<br>
+Sinisa Matetic, Karl Wuest, Moritz Schneider, and Kari Kostiainen, ETH Zurich; Ghassan Karame, NEC Labs; Srdjan Capkun, ETH Zurich
+
+* **FastKitten: Practical Smart Contracts on Bitcoin**<br>
+Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi, Technische Universität Darmstadt, Germany
+
+* **StrongChain: Transparent and Collaborative Proof-of-Work Consensus**<br>
+Pawel Szalachowski, Daniel Reijsbergen, and Ivan Homoliak, SUTD; Siwei Sun, IIE and DCS, CAS
+
+* **Tracing Transactions Across Cryptocurrency Ledgers**<br>
+Haaroon Yousaf, George Kappos, and Sarah Meiklejohn, University College London
+
+
 ### Usenix Security(A, 2018)
 
 * **An Empirical Analysis of Anonymity in Zcash**<br>
