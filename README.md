@@ -166,6 +166,12 @@ Michael Rodler (University of Duisburg-Essen); Wenting Li and Ghassan Karame (NE
 * **OBFSCURO: A Commodity Obfuscation Engine on Intel SGX**<br>
 Adil Ahmad (Purdue); Byunggill Joe (KAIST); Yuan Xiao and Yinqian Zhang (Ohio State University); Insik Shin (KAIST); Byoungyoung Lee (Purdue/SNU)
 
+* **A Treasury System for Cryptocurrencies: Enabling Better Collaborative Intelligence**<br>
+Bingsheng Zhang (Lancaster University), Roman Oliynykov (IOHK Ltd.), Hamed Balogun (Lancaster University)
+
+* **Giving State to the Stateless: Augmenting Trustworthy Computation with Ledgers**<br>
+Gabriel Kaptchuk (Johns Hopkins University), Matthew Green (Johns Hopkins University), Ian Miers (Cornell Tech)
+
 ### SIGSAC(A, 2017)
 * **Solidus: Confidential distributed ledger transactions via PVORM**<br>
 Ethan Cecchetti, Fan Zhang, Yan Ji, Ahmed Kosba, Ari Juels, Elaine Shi
