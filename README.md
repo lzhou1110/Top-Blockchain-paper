@@ -6,7 +6,7 @@
 Benedikt Bunz, Lucianna Kiffer, Loi Luu, and Mahdi Zamani
 Stanford University, Northeastern University, Kyber Network, Visa Research
 
-### Usenix(A, 2019)
+### Usenix Security(A, 2019)
 
 * **BITE: Bitcoin Lightweight Client Privacy using Trusted Execution**<br>
 Sinisa Matetic, Karl Wuest, Moritz Schneider, and Kari Kostiainen, ETH Zurich; Ghassan Karame, NEC Labs; Srdjan Capkun, ETH Zurich
@@ -19,6 +19,39 @@ Pawel Szalachowski, Daniel Reijsbergen, and Ivan Homoliak, SUTD; Siwei Sun, IIE 
 
 * **Tracing Transactions Across Cryptocurrency Ledgers**<br>
 Haaroon Yousaf, George Kappos, and Sarah Meiklejohn, University College London
+
+### Usenix Secuity(A,2019)
+* **BITE: Bitcoin Lightweight Client Privacy using Trusted Execution**<br>
+Sinisa Matetic, Karl Wuest, Moritz Schneider, and Kari Kostiainen, ETH Zurich; Ghassan Karame, NEC Labs; Srdjan Capkun, ETH Zurich
+
+* **FastKitten: Practical Smart Contracts on Bitcoin**<br>
+Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi, Technische Universität Darmstadt, Germany
+
+* **StrongChain: Transparent and Collaborative Proof-of-Work Consensus**<br>
+Pawel Szalachowski, Daniel Reijsbergen, and Ivan Homoliak, SUTD; Siwei Sun, IIE and DCS, CAS
+
+* **Tracing Transactions Across Cryptocurrency Ledgers**<br>
+Haaroon Yousaf, George Kappos, and Sarah Meiklejohn, University College London
+
+### Usenix Security(A, 2018)
+
+* **An Empirical Analysis of Anonymity in Zcash**<br>
+George Kappos, Haaroon Yousaf, Mary Maller, and Sarah Meiklejohn, University College London
+
+* **teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts**<br>
+Johannes Krupp and Christian Rossow, CISPA
+
+* **Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts**<br>
+Lorenz Breindenbach, ETH Zurich; Phil Daian, Cornell Tech; Florian Tramer, Stanford University; Ari Juels, Cornell Tech Jacobs Institute
+
+* **Arbitrum: Scalable smart contracts**<br>
+Harry Kalodner, Steven Goldfeder, Xiaoqi Chen, Matt Weinberg, and Edward Felten, Princeton University
+
+* **Erays: Reverse Engineering Ethereum's Opaque Smart Contracts**<br>
+Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, and Michael Bailey, University of Illinois, Urbana-Champaign
+
+* **DelegaTEE: Brokered Delegation Using Trusted Execution Environments (SGX)**<br>
+Sinisa Matetic and Moritz Schneider, ETH Zurich; Andrew Miller, UIUC; Ari Juels, Cornell Tech; Srdjan Capkun, ETH Zurich
 
 ### S&P(A, 2019)
 
@@ -100,40 +133,6 @@ Stefan Dziembowski (University of Warsaw), Lisa Eckey (TU Darmstadt), Sebastian 
 ### AsiaCCS(C, 2018)
 * **SALAD: Secure and Lightweight Attestation of Highly Dynamic and Disruptive Networks**<br>
 Florian Kohnhäuser, Niklas Büscher, Stefan Katzenbeisser
-
-### Usenix Secuity(A,2019)
-* **BITE: Bitcoin Lightweight Client Privacy using Trusted Execution**<br>
-Sinisa Matetic, Karl Wuest, Moritz Schneider, and Kari Kostiainen, ETH Zurich; Ghassan Karame, NEC Labs; Srdjan Capkun, ETH Zurich
-
-* **FastKitten: Practical Smart Contracts on Bitcoin**<br>
-Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi, Technische Universität Darmstadt, Germany
-
-* **StrongChain: Transparent and Collaborative Proof-of-Work Consensus**<br>
-Pawel Szalachowski, Daniel Reijsbergen, and Ivan Homoliak, SUTD; Siwei Sun, IIE and DCS, CAS
-
-* **Tracing Transactions Across Cryptocurrency Ledgers**<br>
-Haaroon Yousaf, George Kappos, and Sarah Meiklejohn, University College London
-
-
-### Usenix Security(A, 2018)
-
-* **An Empirical Analysis of Anonymity in Zcash**<br>
-George Kappos, Haaroon Yousaf, Mary Maller, and Sarah Meiklejohn, University College London
-
-* **teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts**<br>
-Johannes Krupp and Christian Rossow, CISPA
-
-* **Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts**<br>
-Lorenz Breindenbach, ETH Zurich; Phil Daian, Cornell Tech; Florian Tramer, Stanford University; Ari Juels, Cornell Tech Jacobs Institute
-
-* **Arbitrum: Scalable smart contracts**<br>
-Harry Kalodner, Steven Goldfeder, Xiaoqi Chen, Matt Weinberg, and Edward Felten, Princeton University
-
-* **Erays: Reverse Engineering Ethereum's Opaque Smart Contracts**<br>
-Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, and Michael Bailey, University of Illinois, Urbana-Champaign
-
-* **DelegaTEE: Brokered Delegation Using Trusted Execution Environments (SGX)**<br>
-Sinisa Matetic and Moritz Schneider, ETH Zurich; Andrew Miller, UIUC; Ari Juels, Cornell Tech; Srdjan Capkun, ETH Zurich
 
 ### NDSS(B,2018)
 
