@@ -1,4 +1,4 @@
-# Top-Blockchain-paper: All 2018-current papers.
+# Top-Blockchain-paper: All 2018-2019 papers.
 - NEWS! update Usenix Security 2019
 
 ### Arxiv papers
