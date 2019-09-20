@@ -1,4 +1,4 @@
-# Top-Blockchain-paper: All 2018-2019 papers.
+# Top-Blockchain-paper: All 2018 - Now papers.
 - NEWS! update Esorics 2019
 - NEWS! update Usenix Security 2019
 
