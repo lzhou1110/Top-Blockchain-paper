@@ -1,4 +1,5 @@
 # Top-Blockchain-paper: All 2018-2019 papers.
+- NEWS! update Esorics 2019
 - NEWS! update Usenix Security 2019
 
 ### Arxiv papers
@@ -304,6 +305,23 @@ Jian Lin, Ming Li, Dejun Yang, Guoliang Xue
 
 * **Untethered: Deployable Blockchains for IoT Environments**<br>
 Kolbeinn Karlsson, Danny Adams, Gloire Rubambiza, Zangyueyang Xian, Robbert van Renesse, Hakim Weatherspoon, Stephen B. Wicker
+
+### ESORICS(B, 2019)
+
+* **Incentives for Harvesting Attack in Proof of Work mining pools**<br>
+Yevhen Zolotavkin and Veronika Kuchta
+
+* **A Lattice-Based Linkable Ring Signature Supporting Stealth Addresses**<br>
+Zhen Liu, Khoa Nguyen, Guomin Yang, Huaxiong Wang and Duncan S. Wong
+
+* **Annotary: A Concolic Execution System for Developing Secure Smart Contracts**<br>
+Konrad Weiss and Julian Schuette
+
+* **PDFS: Practical Data Feed Service for Smart Contracts**<br>
+Juan Guarnizo and Pawel Szalachowski
+
+* **Towards a Marketplace for Secure Outsourced Computations**<br>
+Hung Dang, Dat Le Tien and Ee-Chien Chang
 
 ### ESORICS(B, 2018)
 
