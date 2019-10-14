@@ -3,7 +3,7 @@
 - NEWS! update Esorics 2019
 - NEWS! update Usenix Security 2019
 
-- [目录](#top-blockchain-paper--all-2018---now-papers)
+- [Top-Blockchain-paper: All 2018 - Now papers.](#top-blockchain-paper--all-2018---now-papers)
     + [Arxiv papers](#arxiv-papers)
     + [Usenix Security(A, 2019)](#usenix-security-a--2019-)
     + [Usenix Security(A, 2018)](#usenix-security-a--2018-)
@@ -60,6 +60,7 @@
   * [ICBC(2019,2018)](#icbc-2019-2018-)
   * [License](#license)
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 
