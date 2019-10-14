@@ -1,70 +1,56 @@
-# Top-Blockchain-paper: All 2018 - Now papers.
+## Top-Blockchain-paper: All 2018 - Now papers.
 - NEWS! update CCS 2019
 - NEWS! update Esorics 2019
 - NEWS! update Usenix Security 2019
 
-## 目录
 - [Top-Blockchain-paper: All 2018 - Now papers.](#top-blockchain-paper--all-2018---now-papers)
-    + [Arxiv papers](#arxiv-papers)
-    + [Usenix Security(A, 2019)](#usenix-security-a--2019-)
-    + [Usenix Security(A, 2018)](#usenix-security-a--2018-)
-    + [S&P(A, 2019)](#s-p-a--2019-)
-    + [S&P(A, 2018)](#s-p-a--2018-)
-    + [SIGMOD(A, 2019)](#sigmod-a--2019-)
-    + [EUROS&P(TOP, 2019)](#euros-p-top--2019-)
-    + [CCS(A, 2019)](#ccs-a--2019-)
-    + [CCS(A, 2018)](#ccs-a--2018-)
-    + [AsiaCCS(C, 2018)](#asiaccs-c--2018-)
-    + [NDSS(B,2018)](#ndss-b-2018-)
-    + [NDSS(B, 2019)](#ndss-b--2019-)
-    + [SIGSAC(A, 2017)](#sigsac-a--2017-)
-    + [ACSAC(B, 2018)](#acsac-b--2018-)
-    + [RAID(B, 2018)](#raid-b--2018-)
-    + [DSN(B，2018)](#dsn-b-2018-)
-    + [ICNP(网络, B, 2018)](#icnp-----b--2018-)
-    + [ASIACCS(C, 2018)](#asiaccs-c--2018-)
-    + [ICICS(C, 2018)](#icics-c--2018-)
-    + [NSDI(B, 2018)](#nsdi-b--2018-)
-    + [NSDI(B, 2019)](#nsdi-b--2019-)
-    + [OSDI(A, 2018)](#osdi-a--2018-)
-    + [EUROSYS(B, 2018)](#eurosys-b--2018-)
-    + [SOSP(A, 2017)](#sosp-a--2017-)
-    + [DSN(B, 2018)](#dsn-b--2018-)
-    + [DSN workshop(B, 2018)](#dsn-workshop-b--2018-)
-    + [INFOCOM(A, 2018)](#infocom-a--2018-)
-    + [SOCC(B, 2018)](#socc-b--2018-)
-    + [ESORICS(B, 2019)](#esorics-b--2019-)
-    + [ESORICS(B, 2018)](#esorics-b--2018-)
-    + [SRDC(B, 2018)](#srdc-b--2018-)
-    + [ICDCS(B, 2018)](#icdcs-b--2018-)
-    + [FC(C, 2019)](#fc-c--2019-)
-    + [FC(C, 2018)](#fc-c--2018-)
-    + [Trustcom(C, 2018)](#trustcom-c--2018-)
-    + [ISC(C, 2018)](#isc-c--2018-)
-    + [ACISP(C, 2018)](#acisp-c--2018-)
-    + [SecureComm(C, 2018)](#securecomm-c--2018-)
-    + [ICC(C, 2018)](#icc-c--2018-)
-    + [ICC(C, 2017)](#icc-c--2017-)
-    + [ICCCN(C, 2018)](#icccn-c--2018-)
-    + [TIFS(A, 2016, Journal)](#tifs-a--2016--journal-)
-    + [TDSC(A, 2018, Journal)](#tdsc-a--2018--journal-)
-    + [TPDS(A, 2018, Journal)](#tpds-a--2018--journal-)
-    + [Eurocropt(A, 2017)](#eurocropt-a--2017-)
-  * [Robber van Renesse的有关文章](#robber-van-renesse-----)
-  * [Interesting papers](#interesting-papers)
-  * [ARXIV](#arxiv)
-  * [The morning paper](#the-morning-paper)
-  * [IEEE](#ieee)
-  * [DBLP](#dblp)
-  * [IACR](#iacr)
-  * [Blockchain dblp](#blockchain-dblp)
-  * [ICBC(2019,2018)](#icbc-2019-2018-)
-  * [License](#license)
+  * [Usenix Security(A, 2019)](#usenix-security-a--2019-)
+  * [Usenix Security(A, 2018)](#usenix-security-a--2018-)
+  * [S&P(A, 2019)](#s-p-a--2019-)
+  * [S&P(A, 2018)](#s-p-a--2018-)
+  * [CCS(A, 2019)](#ccs-a--2019-)
+  * [CCS(A, 2018)](#ccs-a--2018-)
+  * [NDSS(B, 2019)](#ndss-b--2019-)
+  * [NDSS(B,2018)](#ndss-b-2018-)
+- [A类会议](#a---)
+  * [NSDI(A, 2019，2018)](#nsdi-a--2019-2018-)
+  * [SIGMOD(A, 2019，数据库)](#sigmod-a--2019-----)
+  * [SIGSAC(A, 2017)](#sigsac-a--2017-)
+  * [OSDI(A, 2018)](#osdi-a--2018-)
+  * [SOSP(A, 2017)](#sosp-a--2017-)
+  * [INFOCOM(A, 2018)](#infocom-a--2018-)
+  * [TIFS(A, 2016, Journal)](#tifs-a--2016--journal-)
+  * [TDSC(A, 2018, Journal)](#tdsc-a--2018--journal-)
+  * [TPDS(A, 2018, Journal)](#tpds-a--2018--journal-)
+  * [Eurocropt(A, 2017)](#eurocropt-a--2017-)
+- [B类会议](#b---)
+  * [RAID(B, 2018)](#raid-b--2018-)
+  * [DSN(B, 2018)](#dsn-b--2018-)
+  * [ICNP(网络, B, 2018)](#icnp-----b--2018-)
+  * [ASIACCS(C, 2018)](#asiaccs-c--2018-)
+  * [ICICS(C, 2018)](#icics-c--2018-)
+  * [EUROSYS(B, 2018)](#eurosys-b--2018-)
+  * [ACSAC(B, 2018)](#acsac-b--2018-)
+  * [SOCC(B, 2018)](#socc-b--2018-)
+  * [ESORICS(B, 2019)](#esorics-b--2019-)
+  * [ESORICS(B, 2018)](#esorics-b--2018-)
+  * [SRDC(B, 2018)](#srdc-b--2018-)
+  * [ICDCS(B, 2018)](#icdcs-b--2018-)
+- [C类会议](#c---)
+  * [AsiaCCS(C, 2018)](#asiaccs-c--2018-)
+  * [FC(C, 2019，2018)](#fc-c--2019-2018-)
+  * [Trustcom(C, 2018)](#trustcom-c--2018-)
+  * [ISC(C, 2018)](#isc-c--2018-)
+  * [ACISP(C, 2018)](#acisp-c--2018-)
+  * [SecureComm(C, 2018)](#securecomm-c--2018-)
+  * [ICC(C, 2018，2017 )](#icc-c--2018-2017--)
+  * [ICCCN(C, 2018)](#icccn-c--2018-)
+- [其他](#--)
+  * [EUROS&P(2019)](#euros-p-2019-)
+- [Interesting papers](#interesting-papers)
+- [License](#license)
 
-### Arxiv papers
-* **FlyClient: Super-Light Clients for Cryptocurrencies** <br>
-Benedikt Bunz, Lucianna Kiffer, Loi Luu, and Mahdi Zamani
-Stanford University, Northeastern University, Kyber Network, Visa Research
+##信息安全四大会
 
 ### Usenix Security(A, 2019)
 
@@ -135,15 +121,7 @@ Eleftherios Kokoris-Kogias (EPFL), Philipp Jovanovic (EPFL), Linus Gasser (EPFL)
 Jared M Smith (University of Tennessee) and Max Schuchard (University of Tennessee)
 
 * **Bulletproofs: Short Proofs for Confidential Transactions and More**<br>
-Benedikt Bünz (Stanford University), Jonathan Bootle (University College London), Dan Boneh (Stanford University), Andrew Poelstra (Blockstream), Pieter Wuille (Blockstream), and Greg Maxwell (None)
-
-### SIGMOD(A, 2019)
-* **vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases**<br>
-香港浸会大学徐建良教授团队
-
-### EUROS&P(TOP, 2019)
-* **Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution**<br>
-Cheng, R. and Zhang, F. and Kos, J. and He, W. and Hynes, N. and Johnson, N. and Juels, A. and Miller, A. and Song, D
+Benedikt Bünz (Stanford University), Jonathan Bootle (University College London), Dan Boneh (Stanford University), Andrew Poelstra (Blockstream), Pieter Wuille (Blockstream), and Greg Maxwell (None)
 
 ### CCS(A, 2019)
 
@@ -193,7 +171,7 @@ Petar Tsankov (ETH Zurich), Andrei Marian Dan (ETH Zurich), Dana Drachsler Cohen
 
 * **BitML: a calculus for Bitcoin smart contracts Massimo**<br>
 Bartoletti (University of Cagliari), Roberto Zunino (University of Trento)
- 
+
 * **BEAT: Asynchronous BFT Made Practical**<br>
 Sisi Duan (University of Maryland, Baltimore County), Michael K. Reiter (University of North Carolina at Chapel Hill), Haibin Zhang (University of Maryland, Baltimore County)
 
@@ -205,7 +183,7 @@ Assi Barak (Bar-Ilan University), Martin Hirt (ETH Zurich), Lior Koskas (Bar-Ila
 
 * **Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability**<br>
 Christian Badertscher (ETH Zurich), Peter Gazi (IOHK), Aggelos Kiayias (University of Edinburgh and IOHK), Alexander Russell (University of Connecticut), Vassilis Zikas (University of Edinburgh and IOHK)
- 
+
 * **nanoPI: Extreme-Scale Actively-Secure Multi-Party Computation (MPC)**<br>
 Ruiyu Zhu (Indiana University), Darion Cassel (Carnegie Mellon University), Amr Sabry (Indiana University), Yan Huang (Indiana University)
 
@@ -217,30 +195,6 @@ Mahdi Zamani (Visa Research), Mahnush Movahedi (Dfinity), Mariana Raykova (Yale 
 
 * **FairSwap: How to fairly exchange digital goods**<br>
 Stefan Dziembowski (University of Warsaw), Lisa Eckey (TU Darmstadt), Sebastian Faust (TU Darmstadt)
-
-### AsiaCCS(C, 2018)
-* **SALAD: Secure and Lightweight Attestation of Highly Dynamic and Disruptive Networks**<br>
-Florian Kohnhäuser, Niklas Büscher, Stefan Katzenbeisser
-
-### NDSS(B,2018)
-
-* **OBLIVIATE: A Data Oblivious Filesystem for Intel SGX**<br>
-Adil Ahmad (Purdue University), Kyungtae Kim(Purdue University), Muhammad Ihsanulhaq Sarfaraz (Purdue University), and Byoungyoung Lee (Purdue University)
-
-* **ZEUS: Analyzing Safety of Smart Contracts**<br>
-Sukrit Kalra (IBM Research), Seep Goel (IBM Research), Mohan Dhawan (IBM Research), and Subodh Sharma (IIT Delhi)
-
-* **Chainspace: A Sharded Smart Contracts Platform**<br>
-Mustafa Al-Bassam (University College London), Alberto Sonnino (University College London), Shehar Bano (University College London), Dave Hrycyszyn(constructiveproof.com), and George Danezis (University College London)
-
-* **Settling Payments Fast and Private: Efficient Decentralized Routing for Path-Based Transactions**<br>
-Stefanie Roos (University of Waterloo), Pedro Moreno-Sanchez (Purdue University), Aniket Kate (Purdue University), and Ian Goldberg (University of Waterloo)
-
-* **TLS-N: Non-repudiation over TLS Enablign Ubiquitous Content Signing**<br>
-Hubert Ritzdorf (ETH Zurich), Karl Wust (ETH Zurich), Arthur Gervais (Imperial College London), Guillaume Felley (ETH Zurich), and Srdjan Capkun(ETH Zurich)
-
-* **Consensual and Privacy-Preserving Sharing of Multi-Subject and Interdependent Data**<br>
-Alexandra-Mihaela Olteanu (EPFL and UNIL-HEC Lausanne), Kevin Huguenin (UNIL-HEC Lausanne), Italo Dacosta (EPFL), and Jean-Pierre Hubaux (EPFL)
 
 ### NDSS(B, 2019)
 * **Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing Gone Attribute-Based**<br>
@@ -273,33 +227,111 @@ Bingsheng Zhang (Lancaster University), Roman Oliynykov (IOHK Ltd.), Hamed Balog
 * **Giving State to the Stateless: Augmenting Trustworthy Computation with Ledgers**<br>
 Gabriel Kaptchuk (Johns Hopkins University), Matthew Green (Johns Hopkins University), Ian Miers (Cornell Tech)
 
+### NDSS(B,2018)
+
+* **OBLIVIATE: A Data Oblivious Filesystem for Intel SGX**<br>
+Adil Ahmad (Purdue University), Kyungtae Kim(Purdue University), Muhammad Ihsanulhaq Sarfaraz (Purdue University), and Byoungyoung Lee (Purdue University)
+
+* **ZEUS: Analyzing Safety of Smart Contracts**<br>
+Sukrit Kalra (IBM Research), Seep Goel (IBM Research), Mohan Dhawan (IBM Research), and Subodh Sharma (IIT Delhi)
+
+* **Chainspace: A Sharded Smart Contracts Platform**<br>
+Mustafa Al-Bassam (University College London), Alberto Sonnino (University College London), Shehar Bano (University College London), Dave Hrycyszyn(constructiveproof.com), and George Danezis (University College London)
+
+* **Settling Payments Fast and Private: Efficient Decentralized Routing for Path-Based Transactions**<br>
+Stefanie Roos (University of Waterloo), Pedro Moreno-Sanchez (Purdue University), Aniket Kate (Purdue University), and Ian Goldberg (University of Waterloo)
+
+* **TLS-N: Non-repudiation over TLS Enablign Ubiquitous Content Signing**<br>
+Hubert Ritzdorf (ETH Zurich), Karl Wust (ETH Zurich), Arthur Gervais (Imperial College London), Guillaume Felley (ETH Zurich), and Srdjan Capkun(ETH Zurich)
+
+* **Consensual and Privacy-Preserving Sharing of Multi-Subject and Interdependent Data**<br>
+Alexandra-Mihaela Olteanu (EPFL and UNIL-HEC Lausanne), Kevin Huguenin (UNIL-HEC Lausanne), Italo Dacosta (EPFL), and Jean-Pierre Hubaux (EPFL)
+
+
+## A类会议
+
+### NSDI(A, 2019，2018)
+
+* **Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones**<br>
+  Jiaping Wang; Hao Wang, The Ohio State University
+
+  [TOC]
+  
+  
+  
+* **zkLedger: Privacy-Preserving Auditing for Distributed Ledgers**<br>
+Neha Narula, Willy Vasquez, Madars Virza
+
+### SIGMOD(A, 2019，数据库)
+* **vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases**<br>
+香港浸会大学徐建良教授团队
+
 ### SIGSAC(A, 2017)
 * **Solidus: Confidential distributed ledger transactions via PVORM**<br>
 Ethan Cecchetti, Fan Zhang, Yan Ji, Ahmed Kosba, Ari Juels, Elaine Shi
 
+### OSDI(A, 2018)
 
-### ACSAC(B, 2018)
+* **An Analysis of Network-Partitioning Failures in Cloud Systems**<br>
+Ahmed Alquraan, Hatem Takruri, Mohammed Alfatafta, Samer Al-Kiswany
 
-* **Finding The Greedy, Prodigal, and Suicidal Contracts at Scale**<br>
-Ivica Nikolic, School of Computing, NUS; Aashish Kolluri, School of Computing, NUS; Ilya Sergey, University College London; Prateek Saxena, School of Computing, NUS; Aquinas Hobor, Yale-NUS College and School of Computing, NUS
+### SOSP(A, 2017)
 
-* **Osiris: Hunting for Integer Bugs in Ethereum Smart Contracts**<br>
-Christof Ferreira Torres, SnT/University of Luxembourg; Julian Schütte, Fraunhofer AISEC; Radu State, SnT/University of Luxembourg
+* **Algorand: Scaling Byzantine Agreements for Cryptocurrencies**<br>
+Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich
 
-* **SmarTor: Smarter Tor with Smart Contracts**<br>
-Andre Greubel, University of Wuerzburg; Alexandra Dmitrienko, University of Wuerzburg; Samuel Kounev, University of Wuerzburg
+### INFOCOM(A, 2018)
 
-* **Obscuro: A Bitcoin Mixer using Trusted Execution Environments**<br>
-Muoi Tran, National University of Singapore; Loi Luu, Kyber Network; Min Suk Kang, National University of Singapore; Iddo Bentov, Cornell University; Prateek Saxena, National University of Singapore
+* **Understanding Ethereum via Graph Analysis (Best paper)**<br>
+Ting Chen, Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaosong Zhang
+
+* **Searching an Encrypted Cloud Meets Blockchain: A Decentralized, Reliable and Fair Realization**<br>
+Shengshan Hu, Chengjun Cai, Qian Wang, Cong Wang, Xiangyang Luo, Kui Ren
+
+* **CertChain: Public and Efficient Certificate Audit Based on Blockchain for TLS Connections**<br>
+Jing Chen, Shixiong Yao, Quan Yuan, Kun He, Shouling Ji, Ruiying Du
+
+* **Stochastic Models and Wide-Area Network Measurements for Blockchain Design and Analysis**<br>
+Nikolaos Papadis, Sem C. Borst, Anwar Walid, Mohamed Grissa, Leandros Tassiulas
+
+* **Randomized View Reconciliation in Permissionless Distributed Systems**<br>
+Ruomu Hou, Irvan Jahja, Loi Luu, Prateek Saxena, Haifeng Yu
+
+* **Sybil-Proof Online Incentive Mechanisms for Crowdsensing**<br>
+Jian Lin, Ming Li, Dejun Yang, Guoliang Xue
+
+### TIFS(A, 2016, Journal)
+
+* **Bitcoin Block Withholding Attack: Analysis and Mitigation**<br>
+Samiran Bag, Sushmita Ruj, Kouichi Sakurai
+
+### TDSC(A, 2018, Journal)
+
+* **Security and Privacy in Decentralized Energy Trading Through Multi-Signatures, Blockchain and Anonymous Messaging Streams**<br>
+Nurzhan Zhumabekuly Aitzhan, Davor Svetinovic
+
+### TPDS(A, 2018, Journal)
+
+* **Crowdbc: A blockchain-based decentralized framework for crowdsourcing**<br>
+M Li, J Weng, A Yang, W Lu, Y Zhang
+
+### Eurocropt(A, 2017)
+* **Decentralized Anonymous Micropayments**<br>
+
+## B类会议
 
 ### RAID(B, 2018)
 
 * **Identifying Key Leakage of Bitcoin Users**<br>
 Sichael Brengel, Christian Rossow (CISPA, Saarland University)
 
-### DSN(B，2018)
-* **A Byzantine Fault-Tolerant Ordering Service for the Hyperledger Fabric Blockchain Platform（BFT-SMART）**<br>
-Joao Sousa Alysson Bessani Marko Vukoli LaSIGE, Faculdade de Cincias, Universidade de Lisboa IBM Research Zurich
+### DSN(B, 2018)
+
+* **A Byzantine Fault-Tolerant Ordering Service for the Hyperledger Fabric Blockchain Platform**<br>
+João Sousa, Alysson Bessani, Marko Vukolic
+
+* **IBBE-SGX: Cryptographic Group Access Control Using Trusted Execution Environments**<br>
+Stefan Contiu, Rafael Pires, Sébastien Vaucher, Marcelo Pasin, Pascal Felber, Laurent Réveillère 
 
 ### ICNP(网络, B, 2018)
 
@@ -328,83 +360,29 @@ Peifang Ni, Hongda Li and Dongxue Pan (IIE, CAS, China)
 * **Application of public ledgers to revocation in distributed access control (Short)**<br>
 Thanh Bui and Tuomas Aura (Aalto University, Finland)
 
-### NSDI(B, 2018)
-
-* **zkLedger: Privacy-Preserving Auditing for Distributed Ledgers**<br>
-Neha Narula, Willy Vasquez, Madars Virza
-
-### NSDI(B, 2019)
-
-* **Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones**<br>
-Jiaping Wang; Hao Wang, The Ohio State University
-
-### OSDI(A, 2018)
-
-* **An Analysis of Network-Partitioning Failures in Cloud Systems**<br>
-Ahmed Alquraan, Hatem Takruri, Mohammed Alfatafta, Samer Al-Kiswany
-
 ### EUROSYS(B, 2018)
 
 * **Hyperledger fabric: a distributed operating system for permissioned blockchains**<br>
-Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolic, Sharon Weed Cocco, Jason Yellick
+Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolic, Sharon Weed Cocco, Jason Yellick
 
-### SOSP(A, 2017)
+### ACSAC(B, 2018)
 
-* **Algorand: Scaling Byzantine Agreements for Cryptocurrencies**<br>
-Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich
+* **Finding The Greedy, Prodigal, and Suicidal Contracts at Scale**<br>
+Ivica Nikolic, School of Computing, NUS; Aashish Kolluri, School of Computing, NUS; Ilya Sergey, University College London; Prateek Saxena, School of Computing, NUS; Aquinas Hobor, Yale-NUS College and School of Computing, NUS
 
-### DSN(B, 2018)
+* **Osiris: Hunting for Integer Bugs in Ethereum Smart Contracts**<br>
+Christof Ferreira Torres, SnT/University of Luxembourg; Julian Schütte, Fraunhofer AISEC; Radu State, SnT/University of Luxembourg
 
-* **A Byzantine Fault-Tolerant Ordering Service for the Hyperledger Fabric Blockchain Platform**<br>
-João Sousa, Alysson Bessani, Marko Vukolic
+* **SmarTor: Smarter Tor with Smart Contracts**<br>
+Andre Greubel, University of Wuerzburg; Alexandra Dmitrienko, University of Wuerzburg; Samuel Kounev, University of Wuerzburg
 
-* **IBBE-SGX: Cryptographic Group Access Control Using Trusted Execution Environments**<br>
-Stefan Contiu, Rafael Pires, Sébastien Vaucher, Marcelo Pasin, Pascal Felber, Laurent Réveillère 
-
-### DSN workshop(B, 2018)
-
-* **Protecting Early Stage Proof-of-Work Based Public Blockchain**<br>
-Lin Chen, Lei Xu, Zhimin Gao, Yang Lu, Weidong Shi
-
-* **Challenges and Pitfalls of Partitioning Blockchains**<br>
-Enrique Fynn, Fernando Pedone
-
-* **Random Mining Group Selection to Prevent 51% Attacks on Bitcoin (workshop)**<br>
-Jaewon Bae, Hyuk Lim
-
-* **Latency-Aware Leader Selection for Geo-Replicated Byzantine Fault-Tolerant Systems**<br>
-Michael Eischer, Tobias Distler
-
-* **Towards Model-Driven Engineering of Smart Contracts for Cyber-Physical Systems**<br>
-Peter Garamvolgyi, Imre Kocsis, Benjamin Gehl, Attila Klenik
-
-* **Towards Low-Latency Byzantine Agreement Protocols Using RDMA**<br>
-Signe Rüsch, Ines Messadi, Rüdiger Kapitza
-
-### INFOCOM(A, 2018)
-
-* **Understanding Ethereum via Graph Analysis (Best paper)**<br>
-Ting Chen, Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaosong Zhang
-
-* **Searching an Encrypted Cloud Meets Blockchain: A Decentralized, Reliable and Fair Realization**<br>
-Shengshan Hu, Chengjun Cai, Qian Wang, Cong Wang, Xiangyang Luo, Kui Ren
-
-* **CertChain: Public and Efficient Certificate Audit Based on Blockchain for TLS Connections**<br>
-Jing Chen, Shixiong Yao, Quan Yuan, Kun He, Shouling Ji, Ruiying Du
-
-* **Stochastic Models and Wide-Area Network Measurements for Blockchain Design and Analysis**<br>
-Nikolaos Papadis, Sem C. Borst, Anwar Walid, Mohamed Grissa, Leandros Tassiulas
-
-* **Randomized View Reconciliation in Permissionless Distributed Systems**<br>
-Ruomu Hou, Irvan Jahja, Loi Luu, Prateek Saxena, Haifeng Yu
-
-* **Sybil-Proof Online Incentive Mechanisms for Crowdsensing**<br>
-Jian Lin, Ming Li, Dejun Yang, Guoliang Xue
+* **Obscuro: A Bitcoin Mixer using Trusted Execution Environments**<br>
+Muoi Tran, National University of Singapore; Loi Luu, Kyber Network; Min Suk Kang, National University of Singapore; Iddo Bentov, Cornell University; Prateek Saxena, National University of Singapore
 
 ### SOCC(B, 2018)
 
 * **Untethered: Deployable Blockchains for IoT Environments**<br>
-Kolbeinn Karlsson, Danny Adams, Gloire Rubambiza, Zangyueyang Xian, Robbert van Renesse, Hakim Weatherspoon, Stephen B. Wicker
+Kolbeinn Karlsson, Danny Adams, Gloire Rubambiza, Zangyueyang Xian, Robbert van Renesse, Hakim Weatherspoon, Stephen B. Wicker
 
 ### ESORICS(B, 2019)
 
@@ -426,13 +404,13 @@ Hung Dang, Dat Le Tien and Ee-Chien Chang
 ### ESORICS(B, 2018)
 
 * **A Secure Auction for Blockchains**<br>
-Erik-Oliver Blass, Florian Kerschbaum:Strain
+Erik-Oliver Blass, Florian Kerschbaum:Strain
 
 * **Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains**<br>
-Elli Androulaki, Christian Cachin, Angelo De Caro, Eleftherios Kokoris-Kogias
+Elli Androulaki, Christian Cachin, Angelo De Caro, Eleftherios Kokoris-Kogias
 
 * **Dissemination of Authenticated Tree-Structured Data with Privacy Protection and Fine-Grained Control in Outsourced Databases**<br>
-Jianghua Liu, Jinhua Ma, Wanlei Zhou, Yang Xiang, Xinyi Huang
+Jianghua Liu, Jinhua Ma, Wanlei Zhou, Yang Xiang, Xinyi Huang
 
 ### SRDC(B, 2018)
 
@@ -448,39 +426,47 @@ Chao Li, Balaji Palanisamy
 ### ICDCS(B, 2018)
 
 * **ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain**<br>
-Yuan Lu, Qiang Tang, Guiling Wang
+Yuan Lu, Qiang Tang, Guiling Wang
 
 * **Vegvisir: A Partition-Tolerant Blockchain for the Internet-of-Things**<br>
-Kolbeinn Karlsson, Weitao Jiang, Stephen B. Wicker, Danny Adams, Edwin Ma, Robbert van Renesse, Hakim Weatherspoon
+Kolbeinn Karlsson, Weitao Jiang, Stephen B. Wicker, Danny Adams, Edwin Ma, Robbert van Renesse, Hakim Weatherspoon
 
 * **Towards a Novel Architecture for Enabling Interoperability amongst Multiple Blockchains**<br>
-Hai Jin, Xiaohai Dai, Jiang Xiao
+Hai Jin, Xiaohai Dai, Jiang Xiao
 
 * **Towards Dependable, Scalable, and Pervasive Distributed Ledgers with Blockchains**<br>
-Kaiwen Zhang, Hans-Arno Jacobsen
+Kaiwen Zhang, Hans-Arno Jacobsen
 
 * **A Flexible Network Approach to Privacy of Blockchain Transactions (short paper)**<br>
-David Mödinger, Henning Kopp, Frank Kargl, Franz J. Hauck
+David Mödinger, Henning Kopp, Frank Kargl, Franz J. Hauck
 
 * **Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph (poster)**<br>
-Federico Matteo Bencic, Ivana Podnar Zarko
+Federico Matteo Bencic, Ivana Podnar Zarko
 
 * **Towards Realistic Energy Profiling of Blockchains for Securing Internet of Things (short paper)**<br>
-Sriram Sankaran, Sonam Sanju, Krishnashree Achuthan
+Sriram Sankaran, Sonam Sanju, Krishnashree Achuthan
 
 * **MPCSToken: Smart Contract Enabled Fault-Tolerant Incentivisation for Mobile P2P Crowd Services**<br>
-Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann
+Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann
 
-### FC(C, 2019)
+## C类会议
+
+### AsiaCCS(C, 2018)
+* **SALAD: Secure and Lightweight Attestation of Highly Dynamic and Disruptive Networks**<br>
+Florian Kohnhäuser, Niklas Büscher, Stefan Katzenbeisser
+
+### FC(C, 2019，2018)
 
 * [**https://fc19.ifca.ai/program.html**](https://fc19.ifca.ai/program.html)
 
-### FC(C, 2018)
+* **Proof-of-Work 
 
-* **Proof-of-Work Sidechains** *
-Aggelos Kiayias and Dionysis Zindros
-University of Edinburgh and IOHK
-National and Kapodistrian University of Athens and IOHK
+  [TOC]
+
+  Sidechains** *
+  Aggelos Kiayias and Dionysis Zindros
+  University of Edinburgh and IOHK
+  National and Kapodistrian University of Athens and IOHK
 
 ### Trustcom(C, 2018)
 
@@ -553,39 +539,38 @@ Sophie Dramé-Maigné, Maryline Laurent, Laurent Castillo, Hervé Ganem
 * **Towards a Reliable and Accountable Cyber Supply Chain in Energy Delivery System Using Blockchain**<br>
 	Xueping Liang, Sachin Shetty, Deepak K. Tosh, Yafei Ji, Danyi Li
 	
-### ICC(C, 2018)
+### ICC(C, 2018，2017 )
 
 * **Analysis of the Communication Traffic for Blockchain Synchronization of IoT Devices**<br>
-Pietro Danzi, Anders Ellersgaard Kalør, Cedomir Stefanovic, Petar Popovski
+Pietro Danzi, Anders Ellersgaard Kalør, Cedomir Stefanovic, Petar Popovski
 
 * **Optimal Pricing-Based Edge Computing Resource Management in Mobile Blockchain**<br>
-Zehui Xiong, Shaohan Feng, Dusit Niyato, Ping Wang, Zhu Han
+Zehui Xiong, Shaohan Feng, Dusit Niyato, Ping Wang, Zhu Han
 
 * **Decentralized Caching for Content Delivery Based on Blockchain: A Game Theoretic Perspective**<br>
-Wenbo Wang, Dusit Niyato, Ping Wang, Amir Leshem
+Wenbo Wang, Dusit Niyato, Ping Wang, Amir Leshem
 
 * **Making Big Data Open in Collaborative Edges: A Blockchain-Based Framework with Reduced Resource Requirements**<br>
-Chenhan Xu, Kun Wang, Guoliang Xu, Peng Li, Song Guo, Jiangtao Luo
+Chenhan Xu, Kun Wang, Guoliang Xu, Peng Li, Song Guo, Jiangtao Luo
 
 * **Social Welfare Maximization Auction in Edge Computing Resource Allocation for Mobile Blockchain**<br>
-Yutao Jiao, Ping Wang, Dusit Niyato, Zehui Xiong:
+Yutao Jiao, Ping Wang, Dusit Niyato, Zehui Xiong:
 
 * **An Privacy-Preserving Cross-Organizational Authentication/Authorization/Accounting System Using Blockchain Technology**<br>
-Peggy Joy Lu, Lo-Yao Yeh, Jiun-Long Huang
+Peggy Joy Lu, Lo-Yao Yeh, Jiun-Long Huang
 
 * **Optimal Auction for Edge Computing Resource Management in Mobile Blockchain Networks: A Deep Learning Approach**<br>
-Nguyen Cong Luong, Zehui Xiong, Ping Wang, Dusit Niyato
+Nguyen Cong Luong, Zehui Xiong, Ping Wang, Dusit Niyato
 
 * **Blockchain Support for Flexible Queries with Granular Access Control to Electronic Medical Records (EMR)**<br>
-Xiaoshuai Zhang, Stefan Poslad
+Xiaoshuai Zhang, Stefan Poslad
 
 * **Strengthening the Blockchain-Based Internet of Value with Trust**<br>
-Nguyen B. Truong, Tai-Won Um, Bo Zhou, Gyu Myoung Lee
+Nguyen B. Truong, Tai-Won Um, Bo Zhou, Gyu Myoung Lee
 
 * **Blockchain Support for Flexible Queries with Granular Access Control to Electronic Medical Records (EMR)**<br>
-Xiaoshuai Zhang, Stefan Poslad
+Xiaoshuai Zhang, Stefan Poslad
 
-### ICC(C, 2017)
 * **Towards trustworthy and private keyword search in encrypted decentralized storage**<br>
 
 ### ICCCN(C, 2018)
@@ -605,44 +590,17 @@ Shujie Cui, Muhammad Rizwan Asghar, Giovanni Russello
 Mandrita Banerjee, Junghee Lee, Qian Chen, Kim-Kwang Raymond Choo
 
 * **A Blockchain-Based Authentication and Security Mechanism for IoT**<br>
-Dongxing Li, Wei Peng, Wenping Deng, Fangyu Gai
+  Dongxing Li, Wei Peng, Wenping Deng, Fangyu Gai
 
-### TIFS(A, 2016, Journal)
+  [TOC]
 
-* **Bitcoin Block Withholding Attack: Analysis and Mitigation**<br>
-Samiran Bag, Sushmita Ruj, Kouichi Sakurai
+  
 
-### TDSC(A, 2018, Journal)
+## 其他
 
-* **Security and Privacy in Decentralized Energy Trading Through Multi-Signatures, Blockchain and Anonymous Messaging Streams**<br>
-Nurzhan Zhumabekuly Aitzhan, Davor Svetinovic
-
-### TPDS(A, 2018, Journal)
-
-* **Crowdbc: A blockchain-based decentralized framework for crowdsourcing**<br>
-M Li, J Weng, A Yang, W Lu, Y Zhang
-
-### Eurocropt(A, 2017)
-* **Decentralized Anonymous Micropayments**<br>
-
-
-## Robber van Renesse的有关文章
-
-* **Untethered: Deployable Blockchains for IoT Environments. SoCC 2018**
-
-* **Vegvisir: A Partition-Tolerant Blockchain for the Internet-of-Things. ICDCS 2018**
-
-* **Decentralization in Bitcoin and Ethereum Networks. CoRR 2018**
-
-* **Ovid: A Software-Defined Distributed Systems Framework to support Consistency and Change. IEEE Data Eng**
-
-* **Teechain: Reducing Storage Costs on the Blockchain With Offline Payment Channels. SYSTOR 2018**
-
-* **An Analysis of Acceptance Policies For Blockchain Transactions. IACR Cryptology ePrint Archive 2018: 40 (2018)**
-
-* **The Miner's Dilemma. IEEE Symposium on Security and Privacy 2015: 89-103**
-
-* **A Survey on Security and Privacy Issues of Bitcoin**
+### EUROS&P(2019)
+* **Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution**<br>
+Cheng, R. and Zhang, F. and Kos, J. and He, W. and Hynes, N. and Johnson, N. and Juels, A. and Miller, A. and Song, D
 
 ## Interesting papers
 
@@ -675,30 +633,6 @@ IEEE Communications Magazine 56 (8), 33-39
 
 * **FastFabric: Scaling Hyperledger Fabric to 20,000 Transactions per Second**<br>
 Christian Gorenflo, Stephen Lee, Lukasz Golab, S. Keshav
-
-## ARXIV
-https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=blockchain&terms-0-field=all&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first
-
-## The morning paper
-https://blog.acolyer.org/
-
-## IEEE
-https://www.computer.org/web/search
-
-## DBLP
-https://dblp.uni-trier.de
-
-## IACR
-https://www.iacr.org/
-
-## Blockchain dblp
-https://dblp.uni-trier.de/search?q=blockchain
-
-## ICBC(2019,2018)
-https://dblp.uni-trier.de/db/conf/icbc/icbc2018.html
-
-* **Incentives in Ethereum's Hybrid Casper Protocol**<br>
-Vitalik Buterin(以太坊创始人), Daniel Reijsbergen, Stefanos Leonardos, Georgios Piliouras
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
