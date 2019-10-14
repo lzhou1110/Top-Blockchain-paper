@@ -1,4 +1,6 @@
-## Top-Blockchain-paper: All 2018 - Now papers.
+## Top-Blockchain-paper
+
+Collect blockchain academic papers and welcome your contributions.
 
 ------
 
