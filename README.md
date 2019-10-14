@@ -22,7 +22,6 @@ Collect blockchain academic papers and welcome your contributions.
 —— | —— | —— | [SRDC B](#srdc-b), [2018](#2018-16) | [ICCCN C](#icccn-c), [2018](#2018-25)
 —— | —— | —— | [ICDCS B](#icdcs-b), [2018](#2018-17) | ——
 
-------
 
   * [EUROSP 2019](#eurosp-2019)
   * [Interesting papers](#interesting-papers)
