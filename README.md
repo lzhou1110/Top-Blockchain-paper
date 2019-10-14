@@ -1,4 +1,5 @@
 # Top-Blockchain-paper: All 2018 - Now papers.
+- NEWS! update CCS 2019
 - NEWS! update Esorics 2019
 - NEWS! update Usenix Security 2019
 
@@ -87,6 +88,47 @@ Benedikt Bünz (Stanford University), Jonathan Bootle (University College Londo
 ### EUROS&P(TOP, 2019)
 * **Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution**<br>
 Cheng, R. and Zhang, F. and Kos, J. and He, W. and Hynes, N. and Johnson, N. and Juels, A. and Miller, A. and Song, D
+
+### CCS(A, 2019)
+
+* **A Formal Treatment of Deterministic Wallets**<br>
+Poulami Das (Technische Universität Darmstadt, Germany); Sebastian Faust (Technische Universität Darmstadt, Germany); Julian Loss (Ruhr-Universität Bochum, Germany);
+
+* **Atomic Multi-Channel Updates with Constant Collateral in Bitcoin-Compatible Payment-Channel Networks**<br>
+Christoph Egger (Friedrich-Alexander-Universität Erlangen-Nürnberg); Pedro Moreno-Sanchez (TU Wien); Matteo Maffei (TU Wien);
+
+* **Balance: Dynamic Adjustment of Cryptocurrency Deposits**<br>
+Dominik Harz (Imperial College London); Lewis Gudgeon (Imperial College London); Arthur Gervais (Imperial College London); William J. Knottenbelt (Imperial College London);
+
+* **Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations**<br>
+Ruiyu Zhu (Indiana University Bloomington); Changchang Ding (Indiana University Bloomington); Yan Huang (Indiana University Bloomington);
+
+* **Erlay: Efficient Transaction Relay for Bitcoin**<br>
+Gleb Naumenko (University of British Columbia);Gregory Maxwell (Independent);Pieter Wuille (Blockstream);Alexandra (Sasha) Fedorova (University of British Columbia);Ivan Beschastnikh (University of British Columbia);
+
+* **MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol**<br>
+Muhammed F. Esgin (Monash University and Data61, CSIRO); Raymond K. Zhao (Monash University); Ron Steinfeld (Monash University); Joseph K. Liu (Monash University); Dongxi Liu (Data61, CSIRO);
+
+* **Omniring: Scaling Private Payments Without Trusted Setup**<br>
+Russell W. F. Lai (Friedrich Alexander University Erlangen-Nuremberg); Viktoria Ronge (Friedrich Alexander University Erlangen-Nuremberg); Tim Ruffing (Blockstream); Dominique Schröder (Friedrich Alexander University Erlangen-Nuremberg); Sri Aravinda Krishnan Thyagarajan (Friedrich Alexander University Erlangen-Nuremberg); Jiafan Wang (Chinese University of Hong Kong);
+
+* **Power Adjusting and Bribery Racing: Novel Mining Attacks in the Bitcoin System**<br>
+Shang Gao (The Hong Kong Polytechnic University); Zecheng Li (The Hong Kong Polytechnic University); Zhe Peng (The Hong Kong Polytechnic University); Bin Xiao (The Hong Kong Polytechnic University); Shang Gao (Microsoft Research);
+
+* **Prism: Deconstructing the Blockchain to Approach Physical Limits**<br>
+Vivek Bagaria (Stanford University); Sreeram Kannan (University of Washington Seattle); David Tse (Stanford University); Giulia Fanti (Carnegie Mellon University); Pramod Viswanath (University of Illinois Urbana-Champaign);
+
+* **Privacy Aspects and Subliminal Channels in Zcash**<br>
+Alex Biryukov (University of Luxembourg); Daniel Feher (University of Luxembourg); Giuseppe Vitto (University of Luxembourg);
+
+* **SecTEE: A Software-based Approach to Secure Enclave Architecture Using TEE（SGX）**<br>
+Shijun Zhao (Institute of Software Chinese Academy of Sciences); Qianying Zhang (Capital Normal University Information Engineering Colleg); Qin Yu (Institute of Software Chinese Academy of Sciences); Wei Feng (Institute of Software Chinese Academy of Sciences); Dengguo Feng (Institute of Software Chinese Academy of Sciences);
+
+* **Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware**<br>
+Iddo Bentov (Cornell Tech);Ari Juels (Cornell Tech);Fan Zhang (Cornell Tech);Yan Ji (Cornell Tech);Phil Daian (Cornell Tech);Lorenz Breindenbach (ETH Zurich);
+
+* **TokenScope: Automatically Detecting Inconsistent Behaviors of Cryptocurrency Tokens in Ethereum**<br>	
+Ting Chen (University of Electronic Science and Technology of China); Yufei Zhang (University of Electronic Science and Technology of China); Zihao Li (University of Electronic Science and Technology of China); Xiapu Luo (The Hong Kong Polytechnic University); Ting Wang (Lehigh University); Rong Cao (University of Electronic Science and Technology of China); Xiuzhuo Xiao (University of Electronic Science and Technology of China); Xiaosong Zhang (University of Electronic Science and Technology of China);
 
 ### CCS(A, 2018)
 
