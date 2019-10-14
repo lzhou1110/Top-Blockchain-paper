@@ -60,9 +60,6 @@
   * [ICBC(2019,2018)](#icbc-2019-2018-)
   * [License](#license)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 
 ### Arxiv papers
 * **FlyClient: Super-Light Clients for Cryptocurrencies** <br>
