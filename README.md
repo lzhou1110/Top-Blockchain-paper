@@ -4,7 +4,7 @@
 - NEWS! update Usenix Security 2019
 
 - [Top-Blockchain-paper: All 2018 - Now papers.](#top-blockchain-paper--all-2018---now-papers)
-  * [Usenix Security A, 2019](#usenix-security-a--2019)
+  * [Usenix Security A 2019](#usenix-security-a-2019)
   * [Usenix Security(A, 2018)](#usenix-security-a--2018-)
   * [S&P(A, 2019)](#s-p-a--2019-)
   * [S&P(A, 2018)](#s-p-a--2018-)
@@ -52,7 +52,7 @@
 
 ##信息安全四大会
 
-### Usenix Security A, 2019
+### Usenix Security A 2019
 
 * **BITE: Bitcoin Lightweight Client Privacy using Trusted Execution**<br>
 Sinisa Matetic, Karl Wuest, Moritz Schneider, and Kari Kostiainen, ETH Zurich; Ghassan Karame, NEC Labs; Srdjan Capkun, ETH Zurich
