@@ -59,6 +59,8 @@ Collect blockchain academic papers and welcome your contributions.
 - **DelegaTEE: Brokered Delegation Using Trusted Execution Environments (SGX)**<br>
   Sinisa Matetic and Moritz Schneider, ETH Zurich; Andrew Miller, UIUC; Ari Juels, Cornell Tech; Srdjan Capkun, ETH Zurich
 
+------
+
 ### SP A
 
 #### 2019
@@ -88,6 +90,8 @@ Collect blockchain academic papers and welcome your contributions.
   Jared M Smith (University of Tennessee) and Max Schuchard (University of Tennessee)
 - **Bulletproofs: Short Proofs for Confidential Transactions and More**<br>
   Benedikt Bünz (Stanford University), Jonathan Bootle (University College London), Dan Boneh (Stanford University), Andrew Poelstra (Blockstream), Pieter Wuille (Blockstream), and Greg Maxwell (None)
+  
+------
 
 ### CCS A
 
@@ -143,6 +147,8 @@ Collect blockchain academic papers and welcome your contributions.
 - **FairSwap: How to fairly exchange digital goods**<br>
   Stefan Dziembowski (University of Warsaw), Lisa Eckey (TU Darmstadt), Sebastian Faust (TU Darmstadt)
 
+------
+
 ### NDSS B
 
 #### 2019
@@ -183,6 +189,8 @@ Collect blockchain academic papers and welcome your contributions.
 - **Consensual and Privacy-Preserving Sharing of Multi-Subject and Interdependent Data**<br>
   Alexandra-Mihaela Olteanu (EPFL and UNIL-HEC Lausanne), Kevin Huguenin (UNIL-HEC Lausanne), Italo Dacosta (EPFL), and Jean-Pierre Hubaux (EPFL)
 
+------
+
 ## A类会议
 
 ### NSDI A
@@ -196,11 +204,15 @@ Collect blockchain academic papers and welcome your contributions.
 
 - **zkLedger: Privacy-Preserving Auditing for Distributed Ledgers**<br>
   Neha Narula, Willy Vasquez, Madars Virza
+  
+------
 
 ### SIGMOD A
 
 - **vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases**<br>
   香港浸会大学徐建良教授团队
+  
+------
 
 ### SIGSAC A
 
@@ -208,6 +220,8 @@ Collect blockchain academic papers and welcome your contributions.
 
 - **Solidus: Confidential distributed ledger transactions via PVORM**<br>
   Ethan Cecchetti, Fan Zhang, Yan Ji, Ahmed Kosba, Ari Juels, Elaine Shi
+  
+------  
 
 ### OSDI A
 
@@ -215,6 +229,8 @@ Collect blockchain academic papers and welcome your contributions.
 
 - **An Analysis of Network-Partitioning Failures in Cloud Systems**<br>
   Ahmed Alquraan, Hatem Takruri, Mohammed Alfatafta, Samer Al-Kiswany
+  
+------  
 
 ### SOSP A
 
@@ -222,6 +238,8 @@ Collect blockchain academic papers and welcome your contributions.
 
 - **Algorand: Scaling Byzantine Agreements for Cryptocurrencies**<br>
   Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich
+  
+------  
 
 ### INFOCOM A
 
@@ -239,12 +257,16 @@ Collect blockchain academic papers and welcome your contributions.
   Ruomu Hou, Irvan Jahja, Loi Luu, Prateek Saxena, Haifeng Yu
 - **Sybil-Proof Online Incentive Mechanisms for Crowdsensing**<br>
   Jian Lin, Ming Li, Dejun Yang, Guoliang Xue
+  
+------  
 
 ### Eurocropt A
 
 #### 2017
 
 - **Decentralized Anonymous Micropayments**<br>
+
+------
 
 ## A类期刊
 
@@ -254,6 +276,8 @@ Collect blockchain academic papers and welcome your contributions.
 
 - **Bitcoin Block Withholding Attack: Analysis and Mitigation**<br>
   Samiran Bag, Sushmita Ruj, Kouichi Sakurai
+  
+------  
 
 ### TDSC A
 
@@ -261,11 +285,15 @@ Collect blockchain academic papers and welcome your contributions.
 
 - **Security and Privacy in Decentralized Energy Trading Through Multi-Signatures, Blockchain and Anonymous Messaging Streams**<br>
   Nurzhan Zhumabekuly Aitzhan, Davor Svetinovic
+  
+------  
 
 ### TPDS A
 
 - **Crowdbc: A blockchain-based decentralized framework for crowdsourcing**<br>
   M Li, J Weng, A Yang, W Lu, Y Zhang
+  
+------  
 
 ## B类会议
 
@@ -276,6 +304,8 @@ Collect blockchain academic papers and welcome your contributions.
 - **Decentralized Anonymous Micropayments**<br>
 - **Identifying Key Leakage of Bitcoin Users**<br>
   Sichael Brengel, Christian Rossow (CISPA, Saarland University)
+  
+------  
 
 ### DSN B
 
@@ -285,6 +315,8 @@ Collect blockchain academic papers and welcome your contributions.
   João Sousa, Alysson Bessani, Marko Vukolic
 - **IBBE-SGX: Cryptographic Group Access Control Using Trusted Execution Environments**<br>
   Stefan Contiu, Rafael Pires, Sébastien Vaucher, Marcelo Pasin, Pascal Felber, Laurent Réveillère 
+  
+------  
 
 ### ICNP B
 
@@ -294,6 +326,8 @@ Collect blockchain academic papers and welcome your contributions.
   Avi Asayag, Gad Cohen, Ido Grayevsky, Maya Leshkowitz, Ori Rottenstreich, Ronen Tamari, David Yakira
 - **Shifter: A Consistent Multicast Routing Update Scheme in Software-Defined Networks**<br>
   Guanhao Wu, Xiaofeng Gao, Tao Chen, Hao Zhou, Linghe Kong, Guihai Chen
+  
+------  
 
 ### EUROSYS B
 
@@ -301,6 +335,8 @@ Collect blockchain academic papers and welcome your contributions.
 
 - **Hyperledger fabric: a distributed operating system for permissioned blockchains**<br>
   Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolic, Sharon Weed Cocco, Jason Yellick
+  
+------  
 
 ### ACSAC B
 
@@ -314,6 +350,8 @@ Collect blockchain academic papers and welcome your contributions.
   Andre Greubel, University of Wuerzburg; Alexandra Dmitrienko, University of Wuerzburg; Samuel Kounev, University of Wuerzburg
 - **Obscuro: A Bitcoin Mixer using Trusted Execution Environments**<br>
   Muoi Tran, National University of Singapore; Loi Luu, Kyber Network; Min Suk Kang, National University of Singapore; Iddo Bentov, Cornell University; Prateek Saxena, National University of Singapore
+  
+------  
 
 ### SRDS B
 
@@ -326,12 +364,16 @@ Collect blockchain academic papers and welcome your contributions.
 - **Trusted Computing meets Blockchain: Rollback Attacks and a Solution for Hyperledger Fabric**<br>
   Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniotti
 
+------
+
 ### SOCC B
 
 #### 2018
 
 - **Untethered: Deployable Blockchains for IoT Environments**<br>
   Kolbeinn Karlsson, Danny Adams, Gloire Rubambiza, Zangyueyang Xian, Robbert van Renesse, Hakim Weatherspoon, Stephen B. Wicker
+  
+------
 
 ### ESORICS B
 
@@ -357,6 +399,8 @@ Collect blockchain academic papers and welcome your contributions.
 - **Dissemination of Authenticated Tree-Structured Data with Privacy Protection and Fine-Grained Control in Outsourced Databases**<br>
   Jianghua Liu, Jinhua Ma, Wanlei Zhou, Yang Xiang, Xinyi Huang
 
+------
+
 ### SRDC B
 
 #### 2018
@@ -367,6 +411,8 @@ Collect blockchain academic papers and welcome your contributions.
   Shokoufeh Kazemlou, Borzoo Bonakdarpour
 - **Decentralized Release of Self-Emerging Data using Smart Contracts**<br>
   Chao Li, Balaji Palanisamy
+
+------
 
 ### ICDCS B
 
@@ -396,9 +442,7 @@ Collect blockchain academic papers and welcome your contributions.
 - **MPCSToken: Smart Contract Enabled Fault-Tolerant Incentivisation for Mobile P2P Crowd Services**<br>
   Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann
 
-  [TOC]
-
-  
+------
 
 ## C类会议
 
@@ -408,12 +452,16 @@ Collect blockchain academic papers and welcome your contributions.
 
 - [**Link**](https://fc19.ifca.ai/program.html)
 
+------
+
 ### ASIACCS C
 
 #### 2018
 
 - **On the Strategy and Behavior of Bitcoin Mining with N-attackers**<br>
   Hanqing Liu, Na Ruan, Rongtian Du, and Weijia Jia (Shanghai Jiao Tong University)
+
+------
 
 ### ICICS C
 
@@ -427,6 +475,8 @@ Collect blockchain academic papers and welcome your contributions.
   Peifang Ni, Hongda Li and Dongxue Pan (IIE, CAS, China)
 - **Application of public ledgers to revocation in distributed access control (Short)**<br>
   Thanh Bui and Tuomas Aura (Aalto University, Finland)
+
+------
 
 ### Trustcom C
 
@@ -457,6 +507,8 @@ Collect blockchain academic papers and welcome your contributions.
 - **A Controllable Efficient Content Distribution Framework Based on Blockchain and ISODATA**<br>
   Yangxin Wu, Peijia Zheng, Jianting Guo, Wei Zhang, Jiwu Huang
 
+------
+
 ### ISC C
 
 #### 2018
@@ -465,6 +517,8 @@ Collect blockchain academic papers and welcome your contributions.
   Bin Yu, Joseph K. Liu, Amin Sakzad, Surya Nepal, Ron Steinfeld, Paul Rimba, Man Ho Au
 - **Privacy in Crowdsourcing: A Systematic Review**<br>
   Abdulwhab Alkharashi, Karen Renaud
+
+------
 
 ### ACISP C
 
@@ -481,6 +535,8 @@ Collect blockchain academic papers and welcome your contributions.
 - **Decentralized Blacklistable Anonymous Credentials with Reputation**<br>
   Rupeng Yang, Man Ho Au, Qiuliang Xu, Zuoxia Yu
 
+------
+
 ### SecureComm C
 
 #### 2018
@@ -489,6 +545,8 @@ Collect blockchain academic papers and welcome your contributions.
   Sophie Dramé-Maigné, Maryline Laurent, Laurent Castillo, Hervé Ganem
 - **Towards a Reliable and Accountable Cyber Supply Chain in Energy Delivery System Using Blockchain**<br>
   Xueping Liang, Sachin Shetty, Deepak K. Tosh, Yafei Ji, Danyi Li
+
+------
 
 ### ICC C
 
@@ -519,6 +577,8 @@ Collect blockchain academic papers and welcome your contributions.
   Xiaoshuai Zhang, Stefan Poslad
 - **Towards trustworthy and private keyword search in encrypted decentralized storage**<br>
 
+------
+
 ### ICCCN C
 
 #### 2018
@@ -536,12 +596,16 @@ Collect blockchain academic papers and welcome your contributions.
 - **A Blockchain-Based Authentication and Security Mechanism for IoT**<br>
   Dongxing Li, Wei Peng, Wenping Deng, Fangyu Gai
 
+------
+
 ## 无分类论文
 
 ### EUROSP 2019
 
 - **Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution**<br>
   Cheng, R. and Zhang, F. and Kos, J. and He, W. and Hynes, N. and Johnson, N. and Juels, A. and Miller, A. and Song, D
+
+------
 
 ### Interesting papers
 
