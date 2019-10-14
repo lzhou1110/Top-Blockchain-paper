@@ -1,71 +1,33 @@
 ## Top-Blockchain-paper: All 2018 - Now papers.
 
+------
+
 - NEWS! update SRDS 2019
 - NEWS! update CCS 2019
 - NEWS! update Esorics 2019
 - NEWS! update Usenix Security 2019
 
+------
 
-信息安全4大会 | A类会议 | A类期刊 | B类会议 | C类会议 
+[信息安全四大会](#-------) | [A类会议](#a---) | [A类期刊](#a---) | [B类会议](#b---) | [C类会议](#c---)
 --- | --- | --- | --- | ---
-[Usenix Security A](#usenix-security-a), [2019](#2019), [2018](#2018) | [NSDI A](#nsdi-a), [2019](#2019-4), 2018](#2018-4) | [TIFS A](#tifs-a), [2018](#2018-7) | Content Cell  | Content Cell
-[S&P A](#s-p-a), [2019](#2019-1), [2018](#2018-1) | [SIGMOD A](#sigmod-a) | [TDSC A](#tdsc-a), [2018](#2018-8) | Content Cell  | Content Cell
-[CCS A](#ccs-a), [2019](#2019-2), [2018](#2018-2) | [SIGSAC A](#sigsac-a), [2017](#2017) | [TPDS A](#tpds-a) | Content Cell  | Content Cell
-[NDSS B](#ndss-b), [2019](#2019-3), [2018](#2018-3) | [OSDI A](#osdi-a), [2018](#2018-5) | Content Cell | Content Cell  | Content Cell
-—— | [SOSP A](#sosp-a), [2017](#2017-1) | Content Cell | Content Cell  | Content Cell
-—— | [INFOCOM A](#infocom-a), [2018](#2018-6) | Content Cell | Content Cell  | Content Cell
-—— | [Eurocropt A](#eurocropt-a), [2017](#2017-2) | Content Cell | Content Cell  | Content Cell
-—— | —— | Content Cell | Content Cell  | Content Cell
+[Usenix Security A](#usenix-security-a), [2019](#2019), [2018](#2018) | [NSDI A](#nsdi-a), [2019](#2019-4), [2018](#2018-4) | [TIFS A](#tifs-a), [2018](#2018-7) | [RAID B](#raid-b), [2018](#2018-9) | [FC C](#fc-c), [2019](#2019-7)
+[S&P A](#s-p-a), [2019](#2019-1), [2018](#2018-1) | [SIGMOD A](#sigmod-a) | [TDSC A](#tdsc-a), [2018](#2018-8) | [DSN B](#dsn-b), [2018](#2018-10) | [ASIACCS C](#asiaccs-c), [2018](#2018-18)
+[CCS A](#ccs-a), [2019](#2019-2), [2018](#2018-2) | [SIGSAC A](#sigsac-a), [2017](#2017) | [TPDS A](#tpds-a) | [ICNP B](#icnp-b), [2018](#2018-11) | [ICICS C](#icics-c), [2018](#2018-19)
+[NDSS B](#ndss-b), [2019](#2019-3), [2018](#2018-3) | [OSDI A](#osdi-a), [2018](#2018-5) | —— | [EUROSYS B](#eurosys-b), [2018](#2018-12) | [Trustcom C](#trustcom-c), [2018](#2018-20)
+—— | [SOSP A](#sosp-a), [2017](#2017-1) | Content Cell | [ACSAC B](#acsac-b), [2018](#2018-13) | [ISC C](#isc-c), [2018](#2018-21)
+—— | [INFOCOM A](#infocom-a), [2018](#2018-6) | Content Cell | [SRDS B](#srds-b), [2019](#2019-5) | [ACISP C](#acisp-c), [2018](#2018-22)
+—— | [Eurocropt A](#eurocropt-a), [2017](#2017-2) | Content Cell | [SOCC B](#socc-b), [2018](#2018-14) | [SecureComm C](#securecomm-c), [2018](#2018-23)
+—— | —— | —— | [ESORICS B](#esorics-b), [2019](#2019-6), [2018](#2018-15) | [ICC C](#icc-c), [2018](#2018-24), [2017](#2017-3)
+—— | —— | —— | [SRDC B](#srdc-b), [2018](#2018-16) | [ICCCN C](#icccn-c), [2018](#2018-25)
+—— | —— | —— | [ICDCS B](#icdcs-b), [2018](#2018-17) | Content Cell
 
+------
 
-
-
-- [B类会议](#b---)
-  * [RAID B](#raid-b)
-    + [2018](#2018-9)
-  * [DSN B](#dsn-b)
-    + [2018](#2018-10)
-  * [ICNP B](#icnp-b)
-    + [2018](#2018-11)
-  * [EUROSYS B](#eurosys-b)
-    + [2018](#2018-12)
-  * [ACSAC B](#acsac-b)
-    + [2018](#2018-13)
-  * [SRDS B](#srds-b)
-    + [2019](#2019-5)
-  * [SOCC B](#socc-b)
-    + [2018](#2018-14)
-  * [ESORICS B](#esorics-b)
-    + [2019](#2019-6)
-    + [2018](#2018-15)
-  * [SRDC B](#srdc-b)
-    + [2018](#2018-16)
-  * [ICDCS B](#icdcs-b)
-    + [2018](#2018-17)
-- [C类会议](#c---)
-  * [FC C](#fc-c)
-    + [2019](#2019-7)
-  * [ASIACCS C](#asiaccs-c)
-    + [2018](#2018-18)
-  * [ICICS C](#icics-c)
-    + [2018](#2018-19)
-  * [Trustcom C](#trustcom-c)
-    + [2018](#2018-20)
-  * [ISC C](#isc-c)
-    + [2018](#2018-21)
-  * [ACISP C](#acisp-c)
-    + [2018](#2018-22)
-  * [SecureComm C](#securecomm-c)
-    + [2018](#2018-23)
-  * [ICC C](#icc-c)
-    + [2018](#2018-24)
-    + [2017](#2017-3)
-  * [ICCCN C](#icccn-c)
-    + [2018](#2018-25)
-- [无分类论文](#-----)
   * [EUROS&P(2019)](#euros-p-2019-)
   * [Interesting papers](#interesting-papers)
-- [License](#license)
+  
+------
 
 ## 信息安全四大会
 
