@@ -2,8 +2,6 @@
 
 Collect blockchain academic papers and welcome your contributions.
 
-------
-
 - NEWS! update SRDS 2019
 - NEWS! update CCS 2019
 - NEWS! update Esorics 2019
