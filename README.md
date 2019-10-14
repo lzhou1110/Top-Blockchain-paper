@@ -6,47 +6,20 @@
 - NEWS! update Usenix Security 2019
 
 
-| A类 | A类期刊 | B类 | C类 |
-| ------------- | ------------- |
-| * [Usenix Security A](#usenix-security-a)* [Usenix Security A](#usenix-security-a) + [2019](#2019)+ [2018](#2018)| Content Cell  |
-| Content Cell  | Content Cell  |
+信息安全4大会 | A类会议 | A类期刊 | B类会议 | C类会议 
+--- | --- | --- | --- | ---
+[Usenix Security A](#usenix-security-a), [2019](#2019), [2018](#2018) | [NSDI A](#nsdi-a), [2019](#2019-4), 2018](#2018-4) | [TIFS A](#tifs-a), [2018](#2018-7) | Content Cell  | Content Cell
+[S&P A](#s-p-a), [2019](#2019-1), [2018](#2018-1) | [SIGMOD A](#sigmod-a) | [TDSC A](#tdsc-a), [2018](#2018-8) | Content Cell  | Content Cell
+[CCS A](#ccs-a), [2019](#2019-2), [2018](#2018-2) | [SIGSAC A](#sigsac-a), [2017](#2017) | [TPDS A](#tpds-a) | Content Cell  | Content Cell
+[NDSS B](#ndss-b), [2019](#2019-3), [2018](#2018-3) | [OSDI A](#osdi-a), [2018](#2018-5) | Content Cell | Content Cell  | Content Cell
+—— | [SOSP A](#sosp-a), [2017](#2017-1) | Content Cell | Content Cell  | Content Cell
+—— | [INFOCOM A](#infocom-a), [2018](#2018-6) | Content Cell | Content Cell  | Content Cell
+—— | [Eurocropt A](#eurocropt-a), [2017](#2017-2) | Content Cell | Content Cell  | Content Cell
+—— | —— | Content Cell | Content Cell  | Content Cell
 
 
-- [目录](#top-blockchain-paper--all-2018---now-papers)
-- [信息安全四大会](#-------)
-  * [Usenix Security A](#usenix-security-a)
-    + [2019](#2019)
-    + [2018](#2018)
-  * [S&P A](#s-p-a)
-    + [2019](#2019-1)
-    + [2018](#2018-1)
-  * [CCS A](#ccs-a)
-    + [2019](#2019-2)
-    + [2018](#2018-2)
-  * [NDSS B](#ndss-b)
-    + [2019](#2019-3)
-    + [2018](#2018-3)
-- [A类会议](#a---)
-  * [NSDI A](#nsdi-a)
-    + [2019](#2019-4)
-    + [2018](#2018-4)
-  * [SIGMOD A](#sigmod-a)
-  * [SIGSAC A](#sigsac-a)
-    + [2017](#2017)
-  * [OSDI A](#osdi-a)
-    + [2018](#2018-5)
-  * [SOSP A](#sosp-a)
-    + [2017](#2017-1)
-  * [INFOCOM A](#infocom-a)
-    + [2018](#2018-6)
-  * [Eurocropt A](#eurocropt-a)
-    + [2017](#2017-2)
-- [A类期刊](#a---)
-  * [TIFS A](#tifs-a)
-    + [2018](#2018-7)
-  * [TDSC A](#tdsc-a)
-    + [2018](#2018-8)
-  * [TPDS A](#tpds-a)
+
+
 - [B类会议](#b---)
   * [RAID B](#raid-b)
     + [2018](#2018-9)
