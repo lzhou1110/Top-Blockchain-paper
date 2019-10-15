@@ -20,7 +20,7 @@ Collect blockchain academic papers and welcome your contributions.
 —— | [Eurocropt A](#eurocropt-a), [2017](#2017-2) | —— | [SOCC B](#socc-b), [2018](#2018-14) | [SecureComm C](#securecomm-c), [2018](#2018-23)
 —— | —— | —— | [ESORICS B](#esorics-b), [2019](#2019-6), [2018](#2018-15) | [ICC C](#icc-c), [2018](#2018-24), [2017](#2017-3)
 —— | —— | —— | [SRDC B](#srdc-b), [2018](#2018-16) | [ICCCN C](#icccn-c), [2018](#2018-25)
-—— | —— | —— | [ICDCS B](#icdcs-b), [2018](#2018-17) | ——
+—— | —— | —— | [ICDCS B](#icdcs-b), [2018](#2018-17) | [SecureComm C](#securecomm-c), 2019
 
 
   * [EUROSP 2019](#eurosp-2019)
@@ -594,6 +594,25 @@ Collect blockchain academic papers and welcome your contributions.
   Mandrita Banerjee, Junghee Lee, Qian Chen, Kim-Kwang Raymond Choo
 - **A Blockchain-Based Authentication and Security Mechanism for IoT**<br>
   Dongxing Li, Wei Peng, Wenping Deng, Fangyu Gai
+  
+  
+------
+
+### SecureComm C
+
+#### 2019
+
+- **Towards a Multi-Chain Future of Proof-of-Space**<br>
+Yao Deng (Shanghai Jiao Tong University) Shuyang Tang (Shanghai Jiao Tong University) Jilai Zheng (Shanghai Jiao Tong University) Zhiqiang Liu (Shanghai Jiao Tong University) Zhen Liu (Shanghai Jiao Tong University) Yu Long (Shanghai Jiao Tong University) Dawu Gu (Shanghai Jiao Tong University)
+
+- **An Enhanced Verifiable Inter-domain Routing Protocol based on Blockchain**<br>
+Yaping Liu (Guangzhou University) Shuo Zhang (Guangzhou University) Haojin Zhu (Shanghai Jiao Tong University) Peng-Jun Wan (Illinois Institute of Technology) Lixin Gao (University of Massachusetts at Amherst) Yaoxue Zhang (Tsinghua University)
+
+- **Secure Consistency Verification for Untrusted Cloud Storage by Public Blockchains**<br>
+Kai Li (Syracuse University) Yuzhe Tang (Syracuse University) Beom Heyn Kim (University of Toronto) Jianliang Xu (Hong Kong Baptist University)
+
+- **Trustless Double Auction Framework on Blockchain**<br>
+Truc Nguyen (University of Florida) My Thai (University of Florida)
 
 ------
 
