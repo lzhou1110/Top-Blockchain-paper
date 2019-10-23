@@ -16,7 +16,7 @@ Collect blockchain academic papers and welcome your contributions.
 [S&P](#sp-a), [2019](#2019-1), [2018](#2018-1) | [SIGMOD](#sigmod-a), 2019 | [TDSC](#tdsc-a) [2018](#2018-8) | [DSN](#dsn-b), [2018](#2018-10) | [ASIACCS](#asiaccs-c), [2018](#2018-18)
 [CCS](#ccs-a), [2019](#2019-2), [2018](#2018-2) | [SIGSAC](#sigsac-a), [2017](#2017) | [TPDS](#tpds-a), 2018 | [ICNP](#icnp-b), [2018](#2018-11) | [ICICS](#icics-c), [2018](#2018-19)
 [NDSS](#ndss-b), [2019](#2019-3), [2018](#2018-3) | [OSDI](#osdi-a), [2018](#2018-5) | —— | [EUROSYS](#eurosys-b), [2018](#2018-12) | [Trustcom](#trustcom-c), [2018](#2018-20)
-—— | [SOSP](#sosp-a), [2017](#2017-1) | —— | [ACSAC](#acsac-b), [2018](#2018-13) | [ISC](#isc-c), [2018](#2018-21)
+—— | [SOSP](#sosp-a), 2019, [2017](#2017-1) | —— | [ACSAC](#acsac-b), [2018](#2018-13) | [ISC](#isc-c), [2018](#2018-21)
 —— | [INFOCOM](#infocom-a), [2018](#2018-6) | —— | [SRDS](#srds-b), [2019](#2019-5) | [ACISP](#acisp-c), [2018](#2018-22)
 —— | [Eurocropt](#eurocropt-a), [2017](#2017-2) | —— | [SOCC](#socc-b), [2018](#2018-14) | [SecureComm](#securecomm-c), 2019, [2018](#2018-23)
 —— | —— | —— | [ESORICS](#esorics-b), [2019](#2019-6), [2018](#2018-15) | [ICC](#icc-c), [2018](#2018-24), [2017](#2017-3)
@@ -235,6 +235,17 @@ Collect blockchain academic papers and welcome your contributions.
 ------  
 
 ### SOSP A
+
+#### 2019 
+
+- **Teechain: A Secure Payment Network with Asynchronous Blockchain Access**<br>
+Joshua Lind (Imperial College London), Oded Naor (Technion), Ittay Eyal (Technion), Florian Kelbert (Imperial College London), Emin Gun Sirer (Cornell University), Peter Pietzuch (Imperial College London)
+
+- **Fast and Secure Global Payments with Stellar**<br>
+Marta Lokhava (Stellar), Giuliano Losa (Galois), David Mazières (Stanford), Graydon Hoare (Stellar), Nicolas Barry (Stellar), Eliezer Gafni (UCLA), Jonathan Jove (Stellar), Rafał Malinowski (Stellar), Jed McCaleb (Stellar)
+
+- **Notary: A Device for Secure Transaction Approval**<br>
+Anish Athalye (MIT CSAIL), Adam Belay (MIT CSAIL), Frans Kaashoek (MIT CSAIL), Robert Morris (MIT CSAIL), Nickolai Zeldovich (MIT CSAIL),
 
 #### 2017
 
