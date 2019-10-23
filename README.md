@@ -2,6 +2,7 @@
 
 Collect blockchain academic papers and welcome your contributions.
 
+- NEWS! update SOSP 2019（Oct 23 2019）
 - NEWS! update SecureComm 2019（Oct 15 2019）
 - NEWS! update SRDS 2019
 - NEWS! update CCS 2019
