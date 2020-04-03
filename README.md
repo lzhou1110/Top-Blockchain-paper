@@ -5,7 +5,6 @@ Collect blockchain academic papers and welcome your contributions.
 - NEWS! update NDSS 2020（Mar 02 2020）
 - NEWS! update FC 2020（Nov 29 2019）
 - NEWS! update SOSP 2019（Oct 23 2019）
-- NEWS! update SecureComm 2019（Oct 15 2019）
 
 ------
 
