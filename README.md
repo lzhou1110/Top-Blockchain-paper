@@ -15,7 +15,7 @@ Collect blockchain academic papers and welcome your contributions.
 [Security 20](#usenix-security-a)| [NSDI 19](#nsdi-a)| [TIFS 18](#tifs-a)| [RAID 18](#raid-b)| [FC 20](#fc-c)
 [S&P 20](#sp-a)| [SIGMOD 19](#sigmod-a)| [TDSC 18](#tdsc-a)| [DSN 18](#dsn-b)| [ASIACCS 18](#asiaccs-c)
 [CCS 19](#ccs-a)| [SIGSAC 17](#sigsac-a)| [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
-[NDSS 20](#ndss-b)| [OSDI 18](#osdi-a)| —— | [EUROSYS](#eurosys-b)| [Trustcom 18](#trustcom-c)
+[NDSS 20](#ndss-b)| [OSDI 18](#osdi-a)| —— | [EUROSYS 18](#eurosys-b)| [Trustcom 18](#trustcom-c)
 —— | [SOSP 19](#sosp-a) | —— | [ACSAC](#acsac-b)| [ISC 18](#isc-c)
 —— | [INFOCOM 18](#infocom-a)| —— | [SRDS 19](#srds-b)| [ACISP 18](#acisp-c)
 —— | [Eurocropt 17](#eurocropt-a)| —— | [SOCC 18](#socc-b)| [SecureComm 18](#securecomm-c)
