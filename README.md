@@ -14,7 +14,7 @@ Collect blockchain academic papers and welcome your contributions.
 :---: | :---: | :---: | :---: | :---:
 [Security 20](#usenix-security-a)| [NSDI 20](#nsdi-a)| [TIFS 18](#tifs-a)| [RAID 18](#raid-b)| [FC 20](#fc-c)
 [S&P 20](#sp-a)| [SIGMOD 19](#sigmod-a)| [TDSC 18](#tdsc-a)| [DSN 19](#dsn-b)| [ASIACCS 18](#asiaccs-c)
-[CCS 19](#ccs-a)| [SIGSAC 17](#sigsac-a)| [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
+[CCS 19](#ccs-a)|-| [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
 [NDSS 20](#ndss-b)| [OSDI 18](#osdi-a)| —— | [EUROSYS 18](#eurosys-b)| [Trustcom 18](#trustcom-c)
 —— | [SOSP 19](#sosp-a) | —— | [ACSAC 19](#-b)| [ISC 18](#isc-c)
 —— | [INFOCOM 18](#infocom-a)| —— | [SRDS 19](#srds-b)| [ACISP 18](#acisp-c)
@@ -179,6 +179,10 @@ by Alin Tomescu, Robert Chen, Yiming Zheng, Ittai Abraham, Benny Pinkas, Guy Gol
 - **FairSwap: How to fairly exchange digital goods**<br>
   Stefan Dziembowski (University of Warsaw), Lisa Eckey (TU Darmstadt), Sebastian Faust (TU Darmstadt)
 
+#### 2017
+- **Solidus: Confidential distributed ledger transactions via PVORM**<br>
+Ethan Cecchetti, Fan Zhang, Yan Ji, Ahmed Kosba, Ari Juels, Elaine Shi
+
 ------
 
 ### NDSS B
@@ -270,15 +274,6 @@ Mohammad Alizadeh, Massachusetts Institute of Technology
 
 - **vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases**<br>
   香港浸会大学徐建良教授团队
-  
-------
-
-### SIGSAC A
-
-#### 2017
-
-- **Solidus: Confidential distributed ledger transactions via PVORM**<br>
-  Ethan Cecchetti, Fan Zhang, Yan Ji, Ahmed Kosba, Ari Juels, Elaine Shi
   
 ------  
 
