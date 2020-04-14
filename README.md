@@ -71,28 +71,28 @@ Collect blockchain academic papers and welcome your contributions.
 
 #### 2020 
 
-- **OHIE: Blockchain Scaling Made Simplepp. 112-127**<br>
+- **OHIE: Blockchain Scaling Made Simple**<br>
 by Haifeng Yu, Ivica Nikolic, Ruomu Hou, Prateek Saxena
 
-- **VerX: Safety Verification of Smart Contractspp. 414-430**<br>
+- **VerX: Safety Verification of Smart Contracts**<br>
 by Anton Permenev, Dimitar Dimitrov, Petar Tsankov, Dana Drachsler-Cohen, Martin Vechev
 
-- **A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Networkpp. 515-530**<br>
+- **A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Network**<br>
 by Muoi Tran, Inho Choi, Gi Jun Moon, Anh V. Vu, Min Suk Kang
 
-- **SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-Assisted TEE Systemspp. 636-652**<br>
+- **SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-Assisted TEE Systems**<br>
 by David Cerdeira, Nuno Santos, Pedro Fonseca, Sandro Pinto
 
-- **VeriSmart: A Highly Precise Safety Verifier for Ethereum Smart Contractspp. 825-841**<br>
+- **VeriSmart: A Highly Precise Safety Verifier for Ethereum Smart Contracts**<br>
 by Sunbeom So, Myungho Lee, Jisu Park, Heejo Lee, Hakjoo Oh
 
-- **FlyClient: Super-Light Clients for Cryptocurrenciespp. 1059-1077**<br>
+- **FlyClient: Super-Light Clients for Cryptocurrencies**<br>
 by Benedikt Bünz, Lucianna Kiffer, Loi Luu, Mahdi Zamani
 
-- **ZEXE: Enabling Decentralized Private Computationpp. 1114-1131**<br>
+- **ZEXE: Enabling Decentralized Private Computation**<br>
 by Sean Bowe, Alessandro Chiesa, Matthew Green, Ian Miers, Pratyush Mishra, Howard Wu
 
-- **Towards Scalable Threshold Cryptosystemspp. 1348-1364**<br>
+- **Towards Scalable Threshold Cryptosystems**<br>
 by Alin Tomescu, Robert Chen, Yiming Zheng, Ittai Abraham, Benny Pinkas, Guy Golan Gueta, Srinivas Devadas
 
 #### 2019
