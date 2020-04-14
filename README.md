@@ -14,10 +14,10 @@ Collect blockchain academic papers and welcome your contributions.
 :---: | :---: | :---: | :---: | :---:
 [Security 20](#usenix-security-a)| [NSDI 20](#nsdi-a)| [TIFS 18](#tifs-a)| [RAID 18](#raid-b)| [FC 20](#fc-c)
 [S&P 20](#sp-a)| [SIGMOD 19](#sigmod-a)| [TDSC 18](#tdsc-a)| [DSN 19](#dsn-b)| [ASIACCS 18](#asiaccs-c)
-[CCS 19](#ccs-a)|-| [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
+[CCS 19](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
 [NDSS 20](#ndss-b)| [OSDI 18](#osdi-a)| —— | [EUROSYS 18](#eurosys-b)| [Trustcom 18](#trustcom-c)
 —— | [SOSP 19](#sosp-a) | —— | [ACSAC 19](#-b)| [ISC 18](#isc-c)
-—— | [INFOCOM 18](#infocom-a)| —— | [SRDS 19](#srds-b)| [ACISP 18](#acisp-c)
+—— | [INFOCOM 20](#infocom-a)| —— | [SRDS 19](#srds-b)| [ACISP 18](#acisp-c)
 —— | [Eurocropt 17](#eurocropt-a)| —— | [SOCC 18](#socc-b)| [SecureComm 18](#securecomm-c)
 —— | —— | —— | [ESORICS 19](#esorics-b)| [ICC 18](#icc-c)
 —— | —— | —— | [SRDC 18](#srdc-b)| [ICCCN 18](#icccn-c)
@@ -308,18 +308,43 @@ Anish Athalye (MIT CSAIL), Adam Belay (MIT CSAIL), Frans Kaashoek (MIT CSAIL), R
 
 ### INFOCOM A
 
+#### 2020
+
+- **Modeling the Impact of Network Connectivity on Consensus Security of Proof-of-Work Blockchain**<br>
+Yang Xiao (Virginia Tech, USA); Ning Zhang (Washington University in St. Louis, USA); Wenjing Lou and Thomas Hou (Virginia Tech, USA)
+
+- **Secure Balance Planning of Off-blockchain Payment Channel Networks**<br>
+Peng Li and Toshiaki Miyazaki (The University of Aizu, Japan); Wanlei Zhou (University of Technology Sydney, Australia)
+
+#### 2019
+
+- **Corking by Forking: Vulnerability Analysis of Blockchain**<br>
+Shengling Wang, Chenyu Wang, Qin Hu
+
+- **A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement**<br>
+Huan Zhou, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat, Zhiming Zhao
+
+- **ACCEL: Accelerating the Bitcoin Blockchain for High-throughput, Low-latency Applications**<br>
+Adiseshu Hari, Murali S. Kodialam, T. V. Lakshman
+
+
 #### 2018
 
 - **Understanding Ethereum via Graph Analysis (Best paper)**<br>
   Ting Chen, Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaosong Zhang
+  
 - **Searching an Encrypted Cloud Meets Blockchain: A Decentralized, Reliable and Fair Realization**<br>
   Shengshan Hu, Chengjun Cai, Qian Wang, Cong Wang, Xiangyang Luo, Kui Ren
+  
 - **CertChain: Public and Efficient Certificate Audit Based on Blockchain for TLS Connections**<br>
   Jing Chen, Shixiong Yao, Quan Yuan, Kun He, Shouling Ji, Ruiying Du
+  
 - **Stochastic Models and Wide-Area Network Measurements for Blockchain Design and Analysis**<br>
   Nikolaos Papadis, Sem C. Borst, Anwar Walid, Mohamed Grissa, Leandros Tassiulas
+  
 - **Randomized View Reconciliation in Permissionless Distributed Systems**<br>
   Ruomu Hou, Irvan Jahja, Loi Luu, Prateek Saxena, Haifeng Yu
+  
 - **Sybil-Proof Online Incentive Mechanisms for Crowdsensing**<br>
   Jian Lin, Ming Li, Dejun Yang, Guoliang Xue
   
