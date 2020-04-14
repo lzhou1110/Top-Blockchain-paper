@@ -2,6 +2,8 @@
 
 Collect blockchain academic papers and welcome your contributions.
 
+- NEWS! update S&P 2020（April 13 2020）
+- NEWS! update USENIX security 2020（April 13 2020）
 - NEWS! update NDSS 2020（Mar 02 2020）
 - NEWS! update FC 2020（Nov 29 2019）
 - NEWS! update SOSP 2019（Oct 23 2019）
@@ -10,8 +12,8 @@ Collect blockchain academic papers and welcome your contributions.
 
 信息安全四大会 | A类会议 | A类期刊 | B类会议 | C类会议
 :---: | :---: | :---: | :---: | :---:
-[Security](#usenix-security-a)| [NSDI](#nsdi-a)| [TIFS](#tifs-a)| [RAID](#raid-b)| [FC](#fc-c)
-[S&P](#sp-a)| [SIGMOD](#sigmod-a)| [TDSC](#tdsc-a)| [DSN](#dsn-b)| [ASIACCS](#asiaccs-c)
+[Security 20](#usenix-security-a)| [NSDI](#nsdi-a)| [TIFS](#tifs-a)| [RAID](#raid-b)| [FC](#fc-c)
+[S&P 20](#sp-a)| [SIGMOD](#sigmod-a)| [TDSC](#tdsc-a)| [DSN](#dsn-b)| [ASIACCS](#asiaccs-c)
 [CCS](#ccs-a)| [SIGSAC](#sigsac-a)| [TPDS](#tpds-a)| [ICNP](#icnp-b)| [ICICS](#icics-c)
 [NDSS](#ndss-b)| [OSDI](#osdi-a)| —— | [EUROSYS](#eurosys-b)| [Trustcom](#trustcom-c)
 —— | [SOSP](#sosp-a) | —— | [ACSAC](#acsac-b)| [ISC](#isc-c)
@@ -30,6 +32,12 @@ Collect blockchain academic papers and welcome your contributions.
 ## 信息安全四大会
 
 ### Usenix Security A
+
+#### 2020
+
+- **Pixel: Multi-signatures for Consensus**<br>
+ Manu Drijvers, DFINITY; Sergey Gorbunov, Algorand and University of Waterloo; Gregory Neven, DFINITY; Hoeteck Wee, Algorand and CNRS, ENS, PSL
+
 
 #### 2019
 
@@ -60,6 +68,32 @@ Collect blockchain academic papers and welcome your contributions.
 ------
 
 ### SP A
+
+#### 2020 
+
+- **OHIE: Blockchain Scaling Made Simplepp. 112-127**<br>
+by Haifeng Yu, Ivica Nikolic, Ruomu Hou, Prateek Saxena
+
+- **VerX: Safety Verification of Smart Contractspp. 414-430**<br>
+by Anton Permenev, Dimitar Dimitrov, Petar Tsankov, Dana Drachsler-Cohen, Martin Vechev
+
+- **A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Networkpp. 515-530**<br>
+by Muoi Tran, Inho Choi, Gi Jun Moon, Anh V. Vu, Min Suk Kang
+
+- **SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-Assisted TEE Systemspp. 636-652**<br>
+by David Cerdeira, Nuno Santos, Pedro Fonseca, Sandro Pinto
+
+- **VeriSmart: A Highly Precise Safety Verifier for Ethereum Smart Contractspp. 825-841**<br>
+by Sunbeom So, Myungho Lee, Jisu Park, Heejo Lee, Hakjoo Oh
+
+- **FlyClient: Super-Light Clients for Cryptocurrenciespp. 1059-1077**<br>
+by Benedikt Bünz, Lucianna Kiffer, Loi Luu, Mahdi Zamani
+
+- **ZEXE: Enabling Decentralized Private Computationpp. 1114-1131**<br>
+by Sean Bowe, Alessandro Chiesa, Matthew Green, Ian Miers, Pratyush Mishra, Howard Wu
+
+- **Towards Scalable Threshold Cryptosystemspp. 1348-1364**<br>
+by Alin Tomescu, Robert Chen, Yiming Zheng, Ittai Abraham, Benny Pinkas, Guy Golan Gueta, Srinivas Devadas
 
 #### 2019
 
