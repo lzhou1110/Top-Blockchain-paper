@@ -15,13 +15,13 @@ Collect blockchain academic papers and welcome your contributions.
 [Security 20](#usenix-security-a)| [NSDI 20](#nsdi-a)| [TIFS 18](#tifs-a)| [RAID 18](#raid-b)| [FC 20](#fc-c)
 [S&P 20](#sp-a)| [SIGMOD 19](#sigmod-a)| [TDSC 18](#tdsc-a)| [DSN 19](#dsn-b)| [ASIACCS 18](#asiaccs-c)
 [CCS 19](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
-[NDSS 20](#ndss-b)| [OSDI 18](#osdi-a)| —— | [EUROSYS 18](#eurosys-b)| [Trustcom 18](#trustcom-c)
+[NDSS 20](#ndss-b)| [OSDI 18](#osdi-a)| —— | [EUROSYS 19](#eurosys-b)| [Trustcom 18](#trustcom-c)
 —— | [SOSP 19](#sosp-a) | —— | [ACSAC 19](#acsac-b)| [ISC 18](#isc-c)
 —— | [INFOCOM 20](#infocom-a)| —— | [SRDS 19](#srds-b)| [ACISP 18](#acisp-c)
-—— | [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 18](#socc-b)| [SecureComm 18](#securecomm-c)
+—— | [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 19](#socc-b)| [SecureComm 18](#securecomm-c)
 —— | —— | —— | [ESORICS 19](#esorics-b)| [ICC 18](#icc-c)
 —— | —— | —— | [SRDC 18](#srdc-b)| [ICCCN 18](#icccn-c)
-—— | —— | —— | [ICDCS 18](#icdcs-b)| ——
+—— | —— | —— | [ICDCS 19](#icdcs-b)| ——
 
 
   * [EUROSP 2019](#eurosp-2019)
@@ -500,6 +500,10 @@ Guanhao Wu, Xiaofeng Gao, Tao Chen, Hao Zhou, Linghe Kong, Guihai Chen
 
 ### EUROSYS B
 
+#### 2019
+
+None
+
 #### 2018
 
 - **Hyperledger fabric: a distributed operating system for permissioned blockchains**<br>
@@ -545,6 +549,10 @@ Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniott
 ------
 
 ### SOCC B
+
+#### 2019
+
+None
 
 #### 2018
 
@@ -601,6 +609,23 @@ Chao Li, Balaji Palanisamy
 ------
 
 ### ICDCS B
+
+#### 2019
+
+- **Selfish Mining in Ethereum**<br>
+
+- **- **Jidar: A Jigsaw-like Data Reduction Approach Without Trust Assumptions for Bitcoin System**<br>
+
+- **Hierarchical Edge-Cloud Computing for Mobile Blockchain Mining Game**<br>
+
+- **ParBlockchain: Leveraging Transaction Parallelism in Permissioned Blockchain Systems.**<br>
+
+- **B-IoT: Blockchain Driven Internet of Things with Credit-Based Consensus Mechanism**<br>
+
+- **Trust Mends Blockchains: Living up to Expectations**<br>
+
+- **DataEther: Data Exploration Framework For Ethereum**<br>
+
 
 #### 2018
 
