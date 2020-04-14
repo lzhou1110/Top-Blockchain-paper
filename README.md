@@ -18,7 +18,7 @@ Collect blockchain academic papers and welcome your contributions.
 [NDSS 20](#ndss-b)| [OSDI 18](#osdi-a)| —— | [EUROSYS 18](#eurosys-b)| [Trustcom 18](#trustcom-c)
 —— | [SOSP 19](#sosp-a) | —— | [ACSAC 19](#-b)| [ISC 18](#isc-c)
 —— | [INFOCOM 20](#infocom-a)| —— | [SRDS 19](#srds-b)| [ACISP 18](#acisp-c)
-—— | [Eurocrypt 19](#eurocrypt-a)| —— | [SOCC 18](#socc-b)| [SecureComm 18](#securecomm-c)
+—— | [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 18](#socc-b)| [SecureComm 18](#securecomm-c)
 —— | —— | —— | [ESORICS 19](#esorics-b)| [ICC 18](#icc-c)
 —— | —— | —— | [SRDC 18](#srdc-b)| [ICCCN 18](#icccn-c)
 —— | —— | —— | [ICDCS 18](#icdcs-b)| ——
@@ -393,7 +393,7 @@ Adiseshu Hari, Murali S. Kodialam, T. V. Lakshman
   
 ------  
 
-### Eurocroyt A
+### Eurocrypt A
 
 #### 2019
 
