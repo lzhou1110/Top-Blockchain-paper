@@ -36,8 +36,7 @@ Collect blockchain academic papers and welcome your contributions.
 #### 2020
 
 - **Pixel: Multi-signatures for Consensus**<br>
-Manu Drijvers, DFINITY; Sergey Gorbunov, Algorand and University of Waterloo; Gregory Neven, DFINITY; Hoeteck Wee, Algorand and CNRS, ENS, PSL
-
+Manu Drijvers, DFINITY; Sergey Gorbunov, Algorand and University of Waterloo; Gregory Neven, DFINITY; Hoeteck Wee, Algorand
 
 #### 2019
 
