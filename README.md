@@ -2,25 +2,26 @@
 
 Collect blockchain academic papers and welcome your contributions.
 
+- NEWS! update Esorics 2020（Oct 2 2020）
+
+- NEWS! update Sigmod 2020（Oct 2 2020）
 - NEWS! update CSS 2020（Oct 2 2020）
 - NEWS! update S&P 2020（April 13 2020）
 - NEWS! update USENIX security 2020（April 13 2020）
 - NEWS! update NDSS 2020（Mar 02 2020）
-- NEWS! update FC 2020（Nov 29 2019）
-
 
 ------
 
 信息安全四大会 | A类会议 | A类期刊 | B类会议 | C类会议
 :---: | :---: | :---: | :---: | :---:
 [Security 20](#usenix-security-a)| [NSDI 20](#nsdi-a)| [TIFS 18](#tifs-a)| [RAID 18](#raid-b)| [FC 20](#fc-c)
-[S&P 20](#sp-a)| [SIGMOD 19](#sigmod-a)| [TDSC 19](#tdsc-a)| [DSN 19](#dsn-b)| [ASIACCS 18](#asiaccs-c)
+[S&P 20](#sp-a)| [SIGMOD 20](#sigmod-a)| [TDSC 19](#tdsc-a)| [DSN 19](#dsn-b)| [ASIACCS 18](#asiaccs-c)
 [CCS 20](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
 [NDSS 20](#ndss-b)| [OSDI 18](#osdi-a)| —— | [EUROSYS 19](#eurosys-b)| [Trustcom 18](#trustcom-c)
 —— | [SOSP 19](#sosp-a) | —— | [ACSAC 19](#acsac-b)| [ISC 18](#isc-c)
 —— | [INFOCOM 20](#infocom-a)| —— | [SRDS 19](#srds-b)| [ACISP 18](#acisp-c)
 —— | [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 19](#socc-b)| [SecureComm 18](#securecomm-c)
-—— | —— | —— | [ESORICS 19](#esorics-b)| [ICC 18](#icc-c)
+—— | —— | —— | [ESORICS 20](#esorics-b)| [ICC 18](#icc-c)
 —— | —— | —— | [SRDC 18](#srdc-b)| [ICCCN 18](#icccn-c)
 —— | —— | —— | [ICDCS 19](#icdcs-b)| ——
 
@@ -326,6 +327,13 @@ Mohammad Alizadeh, Massachusetts Institute of Technology
 
 ### SIGMOD A
 
+#### 2020
+
+- **zFalconDB: Blockchain-based Collaborative Database**<br>
+
+- **zA Transactional Perspective on Execute-order-validate Blockchains**<br>
+
+
 #### 2019
 
 - **vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases**<br>
@@ -579,6 +587,21 @@ Kolbeinn Karlsson, Danny Adams, Gloire Rubambiza, Zangyueyang Xian, Robbert van 
 ------
 
 ### ESORICS B
+
+#### 2020
+
+- **How to Model the Bribery Attack: A Practical Quantification Method in Blockchain**<br>
+
+- **Updatable Blockchains**<br>
+
+- **PrivacyGuard: Enforcing Private Data Usage Control with Blockchain and Off-chain Contract Execution**<br>
+
+- **2-hop Blockchain: Combining Proof-of-Work and Proof-of-Stake Securely**<br>
+
+- **Generic Superlight Client for Permissionless Blockchains**<br>
+
+- **LNBot: A Covert Hybrid Botnet on Bitcoin Lightning Network for Fun and Profit**<br>
+
 
 #### 2019
 
