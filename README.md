@@ -2,6 +2,8 @@
 
 Collect blockchain academic papers and welcome your contributions.
 
+- NEWS! update SRDS 2020（Oct 2 2020）
+- NEWS! update DSN 2020（Oct 2 2020）
 - NEWS! update SOCC 2020（Oct 2 2020）
 - NEWS! update OSDI 2020（Oct 2 2020）
 - NEWS! update ESORICS 2020（Oct 2 2020）
@@ -17,11 +19,11 @@ Collect blockchain academic papers and welcome your contributions.
 信息安全四大会 | A类会议 | A类期刊 | B类会议 | C类会议
 :---: | :---: | :---: | :---: | :---:
 [Security 20](#usenix-security-a)| [NSDI 20](#nsdi-a)| [TIFS 18](#tifs-a)| [RAID 18](#raid-b)| [FC 20](#fc-c)
-[S&P 20](#sp-a)| [SIGMOD 20](#sigmod-a)| [TDSC 19](#tdsc-a)| [DSN 19](#dsn-b)| [ASIACCS 18](#asiaccs-c)
+[S&P 20](#sp-a)| [SIGMOD 20](#sigmod-a)| [TDSC 19](#tdsc-a)| [DSN 20](#dsn-b)| [ASIACCS 18](#asiaccs-c)
 [CCS 20](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
 [NDSS 20](#ndss-b)| [OSDI 20](#osdi-a)| —— | [EUROSYS 20](#eurosys-b)| [Trustcom 18](#trustcom-c)
 —— | [SOSP 19](#sosp-a) | —— | [ACSAC 20](#acsac-b)| [ISC 18](#isc-c)
-—— | [INFOCOM 20](#infocom-a)| —— | [SRDS 19](#srds-b)| [ACISP 18](#acisp-c)
+—— | [INFOCOM 20](#infocom-a)| —— | [SRDS 20](#-b)| [ACISP 18](#acisp-c)
 —— | [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 20](#socc-b)| [SecureComm 18](#securecomm-c)
 —— | —— | —— | [ESORICS 20](#esorics-b)| [ICC 18](#icc-c)
 —— | —— | —— | [SRDC 18](#srdc-b)| [ICCCN 18](#icccn-c)
@@ -507,6 +509,29 @@ None
 
 ### DSN B
 
+#### 2020 
+
+- **Data-Driven Model-Based Analysis of the Ethereum Verifier's Dilemma**<br>
+Maher Alharby (Newcastle University), Roben Lunardi (PUCRS), Amjad Aldweesh (Newcastle University), Aad van Moorsel (Newcastle University)
+
+- **SMACS: Smart Contract Access Control Service**<br>
+Bowen Liu (Singapore University of Technology and Design), Siwei Sun (Chinese Academy of Sciences), Pawel Szalachowski (Singapore University of Technology and Design)
+
+- **Smart Contracts on the Move**<br>
+Enrique Fynn (Università della Svizzera Italiana), Alysson Bessani (FCUL, University of Lisboa), Fernando Pedone (Università della Svizzera Italiana)
+
+- **From Byzantine Replication to Blockchain: Consensus is only the Beginning**<br>
+Alysson Bessani (FCUL, University of Lisboa), Eduardo Alchieri (University of Brasilia), João Sousa (FCUL, University of Lisboa), André Oliveira (FCUL, University of Lisboa), Fernando Pedone (University of Lugano)
+
+- **EPIC: Efficient Asynchronous BFT with Adaptive Security**<br>
+Chao Liu (UMBC) Sisi Duan (UMBC) Haibin Zhang (UMBC)
+
+- **On Incentive Compatible Role-based Reward Distribution in Algorand**<br>
+Mehdi Fooladgar (Isfahan University of Technology), Mohammad Hossein Manshaei (Florida International University), Murtuza Jadliwala (University of Texas at San Antonio), Mohammad Ashiqur Rahman (Florida International University)
+
+- **FSTR: Funds Skewness aware Transaction Routing for Payment Channel Networks**<br>
+Siyi Lin (SUN YAT-SEN UNIVERSITY), Jingjing Zhang (SUN YAT-SEN UNIVERSITY), Weigang Wu (SUN YAT-SEN UNIVERSITY)
+
 #### 2019
 
 - **FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric**<br>
@@ -595,6 +620,20 @@ Muoi Tran, National University of Singapore; Loi Luu, Kyber Network; Min Suk Kan
 ------  
 
 ### SRDS B
+
+#### 2020
+
+- **NF-Crowd: Nearly-free Blockchain-based Crowdsourcing**<br>
+Chao Li, Balaji Palanisamy, Runhua Xu, Jian Wang and Jiqiang Liu.
+
+- **An Efficient Query Scheme for Hybrid Storage Blockchains Based on Merkle Semantic Trie**<br>
+Qingqi Pei, Enyuan Zhou, Yang Xiao, Deyu Zhang and Dongxiao Zhao.
+
+- **Protect Your Smart Contract Against Unfair Payment**<br>
+Yue Li, Han Liu, Zhiqiang Yang, Bin Wang, Qian Ren, Lei Wang and Bangdao Chen.
+
+- **TZ4Fabric: Executing Smart Contracts with ARM TrustZone (Practical Experience Report)**<br>
+Christina Müller, Marcus Brandenburger, Christian Cachin, Pascal Felber, Christian Göttel and Valerio Schiavoni.
 
 #### 2019 
 
