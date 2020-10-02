@@ -26,7 +26,7 @@ Collect blockchain academic papers and welcome your contributions.
 —— | [INFOCOM 20](#infocom-a)| —— | [SRDS 20](#srds-b)| [ACISP 18](#acisp-c)
 —— | [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 20](#socc-b)| [SecureComm 18](#securecomm-c)
 —— | —— | —— | [ESORICS 20](#esorics-b)| [ICC 18](#icc-c)
-—— | —— | —— | [SRDC 18](#srdc-b)| [ICCCN 18](#icccn-c)
+—— | —— | —— | —— | [ICCCN 18](#icccn-c)
 —— | —— | —— | [ICDCS 19](#icdcs-b)| ——
 
 
@@ -646,6 +646,17 @@ Signe Rüsch, Rüdiger Kapitza and Kai Bleeke
 - **Trusted Computing meets Blockchain: Rollback Attacks and a Solution for Hyperledger Fabric**<br>
 Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniotti
 
+#### 2018
+
+- **A Requirements-Driven Methodology for the Proper Selection and Configuration of Blockchains**<br>
+Mirko Staderini, Enrico Schiavone, Andrea Bondavalli
+
+- **Crash-Resilient Decentralized Synchronous Runtime Verification**<br>
+Shokoufeh Kazemlou, Borzoo Bonakdarpour
+
+- **Decentralized Release of Self-Emerging Data using Smart Contracts**<br>
+Chao Li, Balaji Palanisamy
+
 ------
 
 ### SOCC B
@@ -713,21 +724,6 @@ Elli Androulaki, Christian Cachin, Angelo De Caro, Eleftherios Kokoris-Kogias
 
 - **Dissemination of Authenticated Tree-Structured Data with Privacy Protection and Fine-Grained Control in Outsourced Databases**<br>
 Jianghua Liu, Jinhua Ma, Wanlei Zhou, Yang Xiang, Xinyi Huang
-
-------
-
-### SRDC B
-
-#### 2018
-
-- **A Requirements-Driven Methodology for the Proper Selection and Configuration of Blockchains**<br>
-Mirko Staderini, Enrico Schiavone, Andrea Bondavalli
-
-- **Crash-Resilient Decentralized Synchronous Runtime Verification**<br>
-Shokoufeh Kazemlou, Borzoo Bonakdarpour
-
-- **Decentralized Release of Self-Emerging Data using Smart Contracts**<br>
-Chao Li, Balaji Palanisamy
 
 ------
 
