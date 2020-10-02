@@ -3,9 +3,10 @@
 Collect blockchain academic papers and welcome your contributions.
 
 - NEWS! update OSDI 2020（Oct 2 2020）
-- NEWS! update Esorics 2020（Oct 2 2020）
+- NEWS! update ESORICS 2020（Oct 2 2020）
 - NEWS! update Sigmod 2020（Oct 2 2020）
 - NEWS! update CSS 2020（Oct 2 2020）
+- NEWS! update ACSAC 2020（Oct 2 2020）
 - NEWS! update S&P 2020（April 13 2020）
 - NEWS! update USENIX security 2020（April 13 2020）
 - NEWS! update NDSS 2020（Mar 02 2020）
@@ -18,7 +19,7 @@ Collect blockchain academic papers and welcome your contributions.
 [S&P 20](#sp-a)| [SIGMOD 20](#sigmod-a)| [TDSC 19](#tdsc-a)| [DSN 19](#dsn-b)| [ASIACCS 18](#asiaccs-c)
 [CCS 20](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
 [NDSS 20](#ndss-b)| [OSDI 20](#osdi-a)| —— | [EUROSYS 19](#eurosys-b)| [Trustcom 18](#trustcom-c)
-—— | [SOSP 19](#sosp-a) | —— | [ACSAC 19](#acsac-b)| [ISC 18](#isc-c)
+—— | [SOSP 19](#sosp-a) | —— | [ACSAC 20](#acsac-b)| [ISC 18](#isc-c)
 —— | [INFOCOM 20](#infocom-a)| —— | [SRDS 19](#srds-b)| [ACISP 18](#acisp-c)
 —— | [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 19](#socc-b)| [SecureComm 18](#securecomm-c)
 —— | —— | —— | [ESORICS 20](#esorics-b)| [ICC 18](#icc-c)
@@ -557,6 +558,16 @@ Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Ch
 ------  
 
 ### ACSAC B
+
+#### 2020
+
+- **Policy-based Chameleon Hash for Blockchain Rewriting with Black-box Accountability**<br>
+Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo
+Yangguang Tian, Pawel Szalachowski, Jianying Zhou (Singapore University of Technology and Design), Yingjiu Li (University of Oregon), Nan Li (University of Newcastle)
+
+- **Privacy-Preserving Production Process Parameter Exchange**<br>
+Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo
+Jan Pennekamp, Erik Buchholz, Yannik Lockner, Markus Dahlmanns, Tiandong Xi, Marcel Fey, Christian Brecher, Christian Hopmann, Klaus Wehrle (RWTH Aachen University)
 
 #### 2019 
 
