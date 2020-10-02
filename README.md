@@ -23,7 +23,7 @@ Collect blockchain academic papers and welcome your contributions.
 [CCS 20](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
 [NDSS 20](#ndss-b)| [OSDI 20](#osdi-a)| —— | [EUROSYS 20](#eurosys-b)| [Trustcom 18](#trustcom-c)
 —— | [SOSP 19](#sosp-a) | —— | [ACSAC 20](#acsac-b)| [ISC 18](#isc-c)
-—— | [INFOCOM 20](#infocom-a)| —— | [SRDS 20](#-b)| [ACISP 18](#acisp-c)
+—— | [INFOCOM 20](#infocom-a)| —— | [SRDS 20](#srds-b)| [ACISP 18](#acisp-c)
 —— | [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 20](#socc-b)| [SecureComm 18](#securecomm-c)
 —— | —— | —— | [ESORICS 20](#esorics-b)| [ICC 18](#icc-c)
 —— | —— | —— | [SRDC 18](#srdc-b)| [ICCCN 18](#icccn-c)
