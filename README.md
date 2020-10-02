@@ -2,11 +2,12 @@
 
 Collect blockchain academic papers and welcome your contributions.
 
+- NEWS! update CSS 2020（Oct 2 2020）
 - NEWS! update S&P 2020（April 13 2020）
 - NEWS! update USENIX security 2020（April 13 2020）
 - NEWS! update NDSS 2020（Mar 02 2020）
 - NEWS! update FC 2020（Nov 29 2019）
-- NEWS! update SOSP 2019（Oct 23 2019）
+
 
 ------
 
@@ -14,7 +15,7 @@ Collect blockchain academic papers and welcome your contributions.
 :---: | :---: | :---: | :---: | :---:
 [Security 20](#usenix-security-a)| [NSDI 20](#nsdi-a)| [TIFS 18](#tifs-a)| [RAID 18](#raid-b)| [FC 20](#fc-c)
 [S&P 20](#sp-a)| [SIGMOD 19](#sigmod-a)| [TDSC 19](#tdsc-a)| [DSN 19](#dsn-b)| [ASIACCS 18](#asiaccs-c)
-[CCS 19](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
+[CCS 20](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
 [NDSS 20](#ndss-b)| [OSDI 18](#osdi-a)| —— | [EUROSYS 19](#eurosys-b)| [Trustcom 18](#trustcom-c)
 —— | [SOSP 19](#sosp-a) | —— | [ACSAC 19](#acsac-b)| [ISC 18](#isc-c)
 —— | [INFOCOM 20](#infocom-a)| —— | [SRDS 19](#srds-b)| [ACISP 18](#acisp-c)
@@ -142,6 +143,19 @@ Benedikt Bünz (Stanford University), Jonathan Bootle (University College London
 ------
 
 ### CCS A
+
+#### 2020
+
+- **DECO: Liberating Web Data Using Decentralized Oracles for TLS**<br>
+
+- **ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts**<br>
+
+- **BDoS: Blockchain Denial-of-Service Attacks**<br>
+
+- **eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts**<br>
+
+- **Dumbo: Faster Asynchronous BFT Protocols**<br>
+
 
 #### 2019
 
