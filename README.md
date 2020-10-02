@@ -10,9 +10,6 @@ Collect blockchain academic papers and welcome your contributions.
 - NEWS! update Sigmod 2020（Oct 2 2020）
 - NEWS! update CSS 2020（Oct 2 2020）
 - NEWS! update ACSAC 2020（Oct 2 2020）
-- NEWS! update S&P 2020（April 13 2020）
-- NEWS! update USENIX security 2020（April 13 2020）
-- NEWS! update NDSS 2020（Mar 02 2020）
 
 ------
 
