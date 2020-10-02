@@ -27,7 +27,6 @@ Collect blockchain academic papers and welcome your contributions.
 
 
   * [EUROSP 2019](#eurosp-2019)
-  * [Interesting papers](#interesting-papers)
   
 ------
 
@@ -911,37 +910,6 @@ Dongxing Li, Wei Peng, Wenping Deng, Fangyu Gai
   Cheng, R. and Zhang, F. and Kos, J. and He, W. and Hynes, N. and Johnson, N. and Juels, A. and Miller, A. and Song, D
 
 ------
-
-### Interesting papers
-
-- **Scalable Byzantine Consensus via Hardware-assisted Secret Sharing (FASTBFT)**<br>
-Jian Liu, Wenting Li,Ghassan O. Karame, Member, IEEE, and N. Asokan, Fellow, IEEE
-
-- **It’s Hard to Share: Joint Service Placement and Request Scheduling in Edge Clouds with Sharable and Non-sharable Resources**
-
-- **Towards Secure Blockchain-enabled Internet of Vehicles: Optimizing Consensus Management Using Reputation and Contract Theory**<br>
- Jiawen Kang, Zehui Xiong, Dusit Niyato, Fellow, IEEE, Dongdong Ye, Dong In Kim, Senior Member, IEEE,Jun Zhao, Member, IEEE
-
-- **A Survey on Security and Privacy Issues of Bitcoin**<br>
-Mauro Conti,Senior Member, IEEE,Sandeep Kumar E,Member, IEEE,Chhagan Lal,Member, IEEE,Sushmita Ruj,Senior Member, IEEE
-
-- **Provable Storage Mediumfor Data Storage Outsourcing**<br>
-Stefano Guarino,  Ey ̈up S. Canlar,  Mauro Conti,  Roberto Di Pietro,  and Agusti Solanas
-
-- **CONDENSER: A Graph-Based Approachfor Detecting Botnets**<br>
-
-- **Blindly Signed Contracts:Anonymous On-Blockchain and Off-Blockchain Bitcoin Transactions**<br>
-Ethan Heilman, Foteini Baldimtsi, and Sharon Goldberg
-
-- **When mobile blockchain meets edge computing**<br>
-Z Xiong, Y Zhang, D Niyato, P Wang, Z Han IEEE Communications Magazine 56 (8), 33-39
-
-- **Blockchain-Based Secure Data Provenance for Cloud Storage**<br>
-
-- **TEX–A Securely Scalable Trustless Exchange R Khalil, A Gervais, G Felley**<br>
-
-- **FastFabric: Scaling Hyperledger Fabric to 20,000 Transactions per Second**<br>
-  Christian Gorenflo, Stephen Lee, Lukasz Golab, S. Keshav
 
 ## License
 
