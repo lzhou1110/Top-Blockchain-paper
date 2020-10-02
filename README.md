@@ -2,6 +2,7 @@
 
 Collect blockchain academic papers and welcome your contributions.
 
+- NEWS! update SOCC 2020（Oct 2 2020）
 - NEWS! update OSDI 2020（Oct 2 2020）
 - NEWS! update ESORICS 2020（Oct 2 2020）
 - NEWS! update Sigmod 2020（Oct 2 2020）
@@ -18,10 +19,10 @@ Collect blockchain academic papers and welcome your contributions.
 [Security 20](#usenix-security-a)| [NSDI 20](#nsdi-a)| [TIFS 18](#tifs-a)| [RAID 18](#raid-b)| [FC 20](#fc-c)
 [S&P 20](#sp-a)| [SIGMOD 20](#sigmod-a)| [TDSC 19](#tdsc-a)| [DSN 19](#dsn-b)| [ASIACCS 18](#asiaccs-c)
 [CCS 20](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
-[NDSS 20](#ndss-b)| [OSDI 20](#osdi-a)| —— | [EUROSYS 19](#eurosys-b)| [Trustcom 18](#trustcom-c)
+[NDSS 20](#ndss-b)| [OSDI 20](#osdi-a)| —— | [EUROSYS 20](#eurosys-b)| [Trustcom 18](#trustcom-c)
 —— | [SOSP 19](#sosp-a) | —— | [ACSAC 20](#acsac-b)| [ISC 18](#isc-c)
 —— | [INFOCOM 20](#infocom-a)| —— | [SRDS 19](#srds-b)| [ACISP 18](#acisp-c)
-—— | [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 19](#socc-b)| [SecureComm 18](#securecomm-c)
+—— | [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 20](#socc-b)| [SecureComm 18](#securecomm-c)
 —— | —— | —— | [ESORICS 20](#esorics-b)| [ICC 18](#icc-c)
 —— | —— | —— | [SRDC 18](#srdc-b)| [ICCCN 18](#icccn-c)
 —— | —— | —— | [ICDCS 19](#icdcs-b)| ——
@@ -546,6 +547,10 @@ Guanhao Wu, Xiaofeng Gao, Tao Chen, Hao Zhou, Linghe Kong, Guihai Chen
 
 ### EUROSYS B
 
+#### 2020
+
+None
+
 #### 2019
 
 None
@@ -605,6 +610,14 @@ Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniott
 ------
 
 ### SOCC B
+
+#### 2020 
+
+- **Gosig: A Scalable and High-Performance Byzantine Consensus System for Consortium Blockchains on Wide Area Network**<br>
+Peilun Li, Guosai Wang(Tsinghua University); Xiaoqi Chen(Princeton); Fan Long(University of Toronto); Wei Xu(Tsinghua University)
+
+- **Shrec: Bandwidth-Efficient Transaction Relay in High-Throughput Blockchain Systems**<br>
+Yilin Han(Conflux Foundation); Chenxing Li, Peilun Li(Tsinghua University); Ming Wu(Conflux Foundation); Dong Zhou(Tsinghua University); Fan Long(University of Toronto)
 
 #### 2019
 
