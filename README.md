@@ -2,8 +2,8 @@
 
 Collect blockchain academic papers and welcome your contributions.
 
+- NEWS! update OSDI 2020（Oct 2 2020）
 - NEWS! update Esorics 2020（Oct 2 2020）
-
 - NEWS! update Sigmod 2020（Oct 2 2020）
 - NEWS! update CSS 2020（Oct 2 2020）
 - NEWS! update S&P 2020（April 13 2020）
@@ -17,7 +17,7 @@ Collect blockchain academic papers and welcome your contributions.
 [Security 20](#usenix-security-a)| [NSDI 20](#nsdi-a)| [TIFS 18](#tifs-a)| [RAID 18](#raid-b)| [FC 20](#fc-c)
 [S&P 20](#sp-a)| [SIGMOD 20](#sigmod-a)| [TDSC 19](#tdsc-a)| [DSN 19](#dsn-b)| [ASIACCS 18](#asiaccs-c)
 [CCS 20](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
-[NDSS 20](#ndss-b)| [OSDI 18](#osdi-a)| —— | [EUROSYS 19](#eurosys-b)| [Trustcom 18](#trustcom-c)
+[NDSS 20](#ndss-b)| [OSDI 20](#osdi-a)| —— | [EUROSYS 19](#eurosys-b)| [Trustcom 18](#trustcom-c)
 —— | [SOSP 19](#sosp-a) | —— | [ACSAC 19](#acsac-b)| [ISC 18](#isc-c)
 —— | [INFOCOM 20](#infocom-a)| —— | [SRDS 19](#srds-b)| [ACISP 18](#acisp-c)
 —— | [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 19](#socc-b)| [SecureComm 18](#securecomm-c)
@@ -341,6 +341,27 @@ Mohammad Alizadeh, Massachusetts Institute of Technology
 ------  
 
 ### OSDI A
+
+#### 2020
+
+- **Write Dependency Disentanglement with HORAE**<br>
+Xiaojian Liao, Youyou Lu, Erci Xu, and Jiwu Shu, Tsinghua University
+
+- **Blockene: A High-throughput Blockchain Over Mobile Devices**<br>
+Sambhav Satija and Apurv Mehra, Microsoft Research, India; Sudheesh Singanamalla, Univ of Washington; Karan Grover, Muthian Sivathanu, Nishanth Chandran, Divya Gupta, and Satya Lokam, Microsoft Research, India
+
+- **Tolerating Slowdowns in Replicated State Machines using Copilots**<br>
+Khiem Ngo, Princeton University; Siddhartha Sen, Microsoft Research; Wyatt Lloyd, Princeton University
+
+- **Microsecond Consensus for Microsecond Applications**<br>
+Marcos K. Aguilera, VMware Research; Naama Ben-David, Carnegie Mellon University; Rachid Guerraoui, EPFL; Virendra Marathe, Oracle; Athanasios Xygkis and Igor Zablotchi, EPFL
+
+- **Virtual Consensus in Delos**<br>
+Mahesh Balakrishnan, Jason Flinn, Chen Shen, Mihir Dharamshi, Ahmed Jafri, Xiao Shi, Santosh Ghosh, Hazem Hassan, Aaryaman Sagar, Rhed Shi, Jingming Liu, Filip Gruszczynski, Xianan Zhang, Huy Hoang, Ahmed Yossef, Francois Richard, and Yee Jiun Song, Facebook
+
+- **Byzantine ordered consensus without Byzantine oligarchy**<br>
+Yunhao Zhang, Cornell University; Srinath Setty, Qi Chen, and Lidong Zhou, Microsoft Research; Lorenzo Alvisi, Cornell University
+
 
 #### 2018
 
