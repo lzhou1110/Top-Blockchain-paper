@@ -26,12 +26,10 @@ Collect blockchain academic papers and welcome your contributions.
 —— | [INFOCOM 20](#infocom-a)| —— | [SRDS 20](#srds-b)| [ACISP 18](#acisp-c)
 —— | [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 20](#socc-b)| [SecureComm 18](#securecomm-c)
 —— | —— | —— | [ESORICS 20](#esorics-b)| [ICC 18](#icc-c)
-—— | —— | —— | —— | [ICCCN 18](#icccn-c)
+—— | —— | —— | [EUROSP 201](#eurosp-2019) | [ICCCN 18](#icccn-c)
 —— | —— | —— | [ICDCS 19](#icdcs-b)| ——
 
 
-  * [EUROSP 2019](#eurosp-2019)
-  
 ------
 
 ## 信息安全四大会
