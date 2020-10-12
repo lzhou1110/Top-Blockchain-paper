@@ -16,7 +16,7 @@ Collect blockchain academic papers and welcome your contributions.
 信息安全四大会 | A类会议 | A类期刊 | B类会议 | C类会议
 :---: | :---: | :---: | :---: | :---:
 [Security 20](#usenix-security-a)| [NSDI 20](#nsdi-a)| [TIFS 18](#tifs-a)| [RAID 18](#raid-b)| [FC 20](#fc-c)
-[S&P 20](#sp-a)| [SIGMOD 20](#sigmod-a)| [TDSC 19](#tdsc-a)| [DSN 20](#dsn-b)| [ASIACCS 18](#asiaccs-c)
+[S&P 21](#sp-a)| [SIGMOD 20](#sigmod-a)| [TDSC 19](#tdsc-a)| [DSN 20](#dsn-b)| [ASIACCS 18](#asiaccs-c)
 [CCS 20](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
 [NDSS 20](#ndss-b)| [OSDI 20](#osdi-a)| —— | [EUROSYS 20](#eurosys-b)| [Trustcom 18](#trustcom-c)
 —— | [SOSP 19](#sosp-a) | —— | [ACSAC 20](#acsac-b)| [ISC 18](#isc-c)
@@ -75,6 +75,10 @@ Sinisa Matetic and Moritz Schneider, ETH Zurich; Andrew Miller, UIUC; Ari Juels,
 ------
 
 ### SP A
+
+#### 2021
+
+CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability
 
 #### 2020 
 
