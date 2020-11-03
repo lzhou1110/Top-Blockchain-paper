@@ -18,9 +18,9 @@ Collect blockchain academic papers and welcome your contributions.
 [S&P 21](#sp-a)| [SIGMOD 20](#sigmod-a)| [TDSC 19](#tdsc-a)| [DSN 20](#dsn-b)| [ASIACCS 18](#asiaccs-c)
 [CCS 20](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
 [NDSS 20](#ndss-b)| [OSDI 20](#osdi-a)| —— | [EUROSYS 20](#eurosys-b)| [Trustcom 18](#trustcom-c)
-[美密 20](#crypto)| [SOSP 19](#sosp-a) | —— | [ACSAC 20](#acsac-b)| [ISC 18](#isc-c)
-[欧密 20](#eurocrypto) | [INFOCOM 20](#infocom-a)| —— | [SRDS 20](#srds-b)| [ACISP 18](#acisp-c)
-[亚密 20](#asiacrypto)| [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 20](#socc-b)| [SecureComm 18](#securecomm-c)
+[美密 20](#crypto-a)| [SOSP 19](#sosp-a) | —— | [ACSAC 20](#acsac-b)| [ISC 18](#isc-c)
+[欧密 20](#eurocrypto-a) | [INFOCOM 20](#infocom-a)| —— | [SRDS 20](#srds-b)| [ACISP 18](#acisp-c)
+[亚密 20](#asiacrypto-a)| [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 20](#socc-b)| [SecureComm 18](#securecomm-c)
 —— | —— | —— | [ESORICS 20](#esorics-b)| [ICC 18](#icc-c)
 —— | —— | —— | [EUROSP 19](#eurosp-2019) | [ICCCN 18](#icccn-c)
 —— | —— | —— | [ICDCS 19](#icdcs-b)| ——
