@@ -2,14 +2,13 @@
 
 Collect blockchain academic papers and welcome your contributions.
 
+- NEWS! update CRYPTO/EUROCRYPTO/ASIACRYPTO 2020（Dec 3 2020）
 - NEWS! update SRDS 2020（Oct 2 2020）
 - NEWS! update DSN 2020（Oct 2 2020）
 - NEWS! update SOCC 2020（Oct 2 2020）
 - NEWS! update OSDI 2020（Oct 2 2020）
 - NEWS! update ESORICS 2020（Oct 2 2020）
-- NEWS! update Sigmod 2020（Oct 2 2020）
-- NEWS! update CSS 2020（Oct 2 2020）
-- NEWS! update ACSAC 2020（Oct 2 2020）
+
 
 ------
 
@@ -25,7 +24,6 @@ Collect blockchain academic papers and welcome your contributions.
 —— | —— | —— | [ESORICS 20](#esorics-b)| [ICC 18](#icc-c)
 —— | —— | —— | [EUROSP 19](#eurosp-2019) | [ICCCN 18](#icccn-c)
 —— | —— | —— | [ICDCS 19](#icdcs-b)| ——
-
 
 ------
 
@@ -205,26 +203,36 @@ Ting Chen (University of Electronic Science and Technology of China); Yufei Zhan
 
 - **CHECKMATE: Practical Security Analysis of Smart Contracts**<br>
   Petar Tsankov (ETH Zurich), Andrei Marian Dan (ETH Zurich), Dana Drachsler Cohen (ETH Zurich), Arthur Gervais (Imperial College London), Florian Buenzli (ETH Zurich), Martin Vechev (ETH Zurich)
+
 - **BitML: a calculus for Bitcoin smart contracts Massimo**<br>
   Bartoletti (University of Cagliari), Roberto Zunino (University of Trento)
+
 - **BEAT: Asynchronous BFT Made Practical**<br>
   Sisi Duan (University of Maryland, Baltimore County), Michael K. Reiter (University of North Carolina at Chapel Hill), Haibin Zhang (University of Maryland, Baltimore County)
+
 - **A better method to analyze blockchain consistency**<br>
   Lucianna Kiffer(Northeastern University), Abhi Shelat (Northeastern University), Rajmohan Rajaraman (Northeastern University)
+  
 - **An End-to-End System for Large Scale P2P MPC-as-a-Service and Low-Bandwidth MPC for Weak Participants (MPC)**<br>
   Assi Barak (Bar-Ilan University), Martin Hirt (ETH Zurich), Lior Koskas (Bar-Ilan University), Yehuda Lindell (Bar-Ilan University)
+  
 - **Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability**<br>
   Christian Badertscher (ETH Zurich), Peter Gazi (IOHK), Aggelos Kiayias (University of Edinburgh and IOHK), Alexander Russell (University of Connecticut), Vassilis Zikas (University of Edinburgh and IOHK)
+  
 - **nanoPI: Extreme-Scale Actively-Secure Multi-Party Computation (MPC)**<br>
   Ruiyu Zhu (Indiana University), Darion Cassel (Carnegie Mellon University), Amr Sabry (Indiana University), Yan Huang (Indiana University)
+  
 - **Secure Computation with Differentially Private Access Patterns**<br>
   Sahar Mazloom (George Mason University), S. Dov Gordon (George Mason University)
+  
 - **RapidChain: Fast Blockchain Consensus via Full Sharding**<br>
   Mahdi Zamani (Visa Research), Mahnush Movahedi (Dfinity), Mariana Raykova (Yale University)
+  
 - **FairSwap: How to fairly exchange digital goods**<br>
 Stefan Dziembowski (University of Warsaw), Lisa Eckey (TU Darmstadt), Sebastian Faust (TU Darmstadt)
 
 #### 2017
+
 - **Solidus: Confidential distributed ledger transactions via PVORM**<br>
 Ethan Cecchetti, Fan Zhang, Yan Ji, Ahmed Kosba, Ari Juels, Elaine Shi
 
@@ -302,21 +310,26 @@ Hubert Ritzdorf (ETH Zurich), Karl Wust (ETH Zurich), Arthur Gervais (Imperial C
 Alexandra-Mihaela Olteanu (EPFL and UNIL-HEC Lausanne), Kevin Huguenin (UNIL-HEC Lausanne), Italo Dacosta (EPFL), and Jean-Pierre Hubaux (EPFL)
 
 ------
+
 ## 密码三大会
 
-### CRYPTO
+### CRYPTO A
 
 #### 2020
 
 - **Order-Fairness for Byzantine Consensus**<br>
 
-### EUROCRYPTO
+------
+
+### EUROCRYPTO A
 
 #### 2020
 
-NONE
+- **NONE**<br>
 
-### ASIACRYPTO
+------
+
+### ASIACRYPTO A
 
 #### 2020
 
