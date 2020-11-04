@@ -841,7 +841,7 @@ Hanqing Liu, Na Ruan, Rongtian Du, and Weijia Jia (Shanghai Jiao Tong University
 - **uMine: a Blockchain based on Human Miners**<br>
 Henning Kopp, Frank Kargl, Christoph Bösch (Ulm University, Germany) and Andreas Peter (University of Twente, Netherlands)
 
-- **lockchain-Based Secure Data Provenance for Cloud Storage**<br>
+- **Blockchain-Based Secure Data Provenance for Cloud Storage**<br>
 Yuan Zhang (UESTC, China), Xiaodong Lin (University of Ontario Institute of Technology, Canada) and Chunxiang Xu (University of Science and Technology of China, China)
 
 - **Micropaying to a Distributed Payee with Instant Confirmation (Short)**<br>
