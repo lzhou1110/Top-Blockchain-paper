@@ -2,22 +2,18 @@
 
 Collect blockchain academic papers and welcome your contributions.
 
-- NEWS! update Crypto/Eurocrypto/Asiacrypto 2020（Dec 3 2020）
+- NEWS! update NDSS 2021（Apr 6 2021）
+- NEWS! update Usenix Security 2021（Apr 6 2021）
 - NEWS! update SRDS 2020（Oct 2 2020）
-- NEWS! update DSN 2020（Oct 2 2020）
-- NEWS! update SOCC 2020（Oct 2 2020）
-- NEWS! update OSDI 2020（Oct 2 2020）
-- NEWS! update ESORICS 2020（Oct 2 2020）
-
 
 ------
 
 信息安全四大会/密码三大会 | A类会议 | A类期刊 | B类会议 | C类会议
 :---: | :---: | :---: | :---: | :---:
-[Security 20](#usenix-security-a)| [NSDI 20](#nsdi-a)| [TIFS 18](#tifs-a)| [RAID 18](#raid-b)| [FC 20](#fc-c)
+[Security 21](#usenix-security-a)| [NSDI 20](#nsdi-a)| [TIFS 18](#tifs-a)| [RAID 18](#raid-b)| [FC 20](#fc-c)
 [S&P 21](#sp-a)| [SIGMOD 20](#sigmod-a)| [TDSC 19](#tdsc-a)| [DSN 20](#dsn-b)| [ASIACCS 18](#asiaccs-c)
 [CCS 20](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
-[NDSS 20](#ndss-b)| [OSDI 20](#osdi-a)| —— | [EUROSYS 20](#eurosys-b)| [Trustcom 18](#trustcom-c)
+[NDSS 21](#ndss-b)| [OSDI 20](#osdi-a)| —— | [EUROSYS 20](#eurosys-b)| [Trustcom 18](#trustcom-c)
 [美密 20](#crypto-a)| [SOSP 19](#sosp-a) | —— | [ACSAC 20](#acsac-b)| [ISC 18](#isc-c)
 [欧密 20](#eurocrypto-a) | [INFOCOM 20](#infocom-a)| —— | [SRDS 20](#srds-b)| [ACISP 18](#acisp-c)
 [亚密 20](#asiacrypto-a)| [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 20](#socc-b)| [SecureComm 18](#securecomm-c)
@@ -30,6 +26,19 @@ Collect blockchain academic papers and welcome your contributions.
 ## 信息安全四大会
 
 ### Usenix Security A
+
+#### 2021
+- **EOSAFE: Security Analysis of EOSIO Smart Contracts**<br>
+Ningyu He, Key Lab on HCST (MOE), Peking University; Ruiyi Zhang, PeckShield, Inc.; Haoyu Wang, Beijing University of Posts and Telecommunications; Lei Wu, Zhejiang University; Xiapu Luo, The Hong Kong Polytechnic University; Yao Guo, Key Lab on HCST (MOE), Peking University; Ting Yu, Qatar Computing Research Institute; Xuxian Jiang, PeckShield, Inc.
+
+- **SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution**<br>
+Sunbeom So, Seongjoon Hong, and Hakjoo Oh, Korea University
+
+- **Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited**<br>
+Daniel Perez and Ben Livshits, Imperial College London
+
+- **EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts**<br>
+Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi, University of Duisburg-Essen
 
 #### 2020
 
@@ -239,6 +248,23 @@ Ethan Cecchetti, Fan Zhang, Yan Ji, Ahmed Kosba, Ari Juels, Elaine Shi
 ------
 
 ### NDSS B
+
+#### 2021
+
+- **As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service**<br>
+Kai Li (Syracuse University), Jiaqi Chen (Syracuse University), Xianghong Liu (Syracuse University), Yuzhe Tang (Syracuse University), XiaoFeng Wang (Indiana University Bloomington), Xiapu Luo (Hong Kong Polytechnic University)
+ 
+- **RandRunner: Distributed Randomness from Trapdoor VDFs with Strong Uniqueness**<br>
+Philipp Schindler (SBA Research), Aljosha Judmayer (SBA Research), Markus Hittmeir (SBA Research), Nicholas Stifter (SBA Research, TU Wien), Edgar Weippl (Universität Wien)
+ 
+- **LaKSA: A Probabilistic Proof-of-Stake Protocol**<br>
+Daniel Reijsbergen (Singapore University of Technology and Design), Pawel Szalachowski (Singapore University of Technology and Design), Junming Ke (University of Tartu), Zengpeng Li (Singapore University of Technology and Design), Jianying Zhou (Singapore University of Technology and Design)
+ 
+- **SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning**<br>
+Charlie Hou (CMU, IC3), Mingxun Zhou (Peking University), Yan Ji (Cornell Tech, IC3), Phil Daian (Cornell Tech, IC3), Florian Tramèr (Stanford University), Giulia Fanti (CMU, IC3), Ari Juels (Cornell Tech, IC3)
+
+- **Bitcontracts: Supporting Smart Contracts in Legacy Blockchains**<br>
+Karl Wüst (ETH Zurich), Loris Diana (ETH Zurich), Kari Kostiainen (ETH Zurich), Ghassan Karame (NEC Labs), Sinisa Matetic (ETH Zurich), Srdjan Capkun (ETH Zurich)
 
 #### 2020
 
