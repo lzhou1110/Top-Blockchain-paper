@@ -353,6 +353,10 @@ University; Kathleen Ruan, Carnegie Mellon University; Parimarjan Negi and Lei Y
 Technology; Radhika Mittal, University of Illinois at Urbana-Champaign; Giulia Fanti, Carnegie Mellon University;
 Mohammad Alizadeh, Massachusetts Institute of Technology
 
+- **Fine-Grained Replicated State Machines for a Cluster Storage System**<br>
+
+- **Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust**<br>
+
 #### 2019 
 
 - **Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones**<br>
@@ -440,6 +444,25 @@ Yang Xiao (Virginia Tech, USA); Ning Zhang (Washington University in St. Louis, 
 
 - **Secure Balance Planning of Off-blockchain Payment Channel Networks**<br>
 Peng Li and Toshiaki Miyazaki (The University of Aizu, Japan); Wanlei Zhou (University of Technology Sydney, Australia)
+
+- **PROCESS: Privacy-Preserving On-Chain Certificate Status Service**<br>
+
+- **Pyramid: A Layered Sharding Blockchain System**<br>
+
+- **Leveraging Public-Private Blockchain Interoperability for Closed Consortium Interfacing**<br>
+
+- **A Weak Consensus Algorithm and Its Application to High-Performance Blockchain**<br>
+
+- **Code is the (F)Law: Demystifying and Mitigating Blockchain Inconsistency Attacks Caused by Software Bugs**<br>
+
+- **TiBroco: A Fast and Secure Distributed Learning Framework for Tiered Wireless Edge Networks**<br>
+
+- **A Consensus Protocol With Deterministic Finality**<br>
+
+- **On the Performance of Pipelined HotStuff**<br>
+
+- **Counter-Collusion Smart Contracts for Watchtowers in Payment Channel Networks**<br>
+
 
 #### 2019
 
