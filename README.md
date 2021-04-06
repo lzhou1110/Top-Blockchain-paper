@@ -5,7 +5,7 @@ Collect blockchain academic papers and welcome your contributions.
 - NEWS! update NDSS 2021（Apr 6 2021）
 - NEWS! update Usenix Security 2021（Apr 6 2021）
 - NEWS! update FC 2021（Apr 6 2021）
-- NEWS! update SRDS 2020（Oct 2 2020）
+- NEWS! update EUROSYS 2021（Apr 6 2021）
 
 ------
 
