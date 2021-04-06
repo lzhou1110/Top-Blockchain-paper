@@ -17,7 +17,7 @@ Collect blockchain academic papers and welcome your contributions.
 [NDSS 21](#ndss-b)| [OSDI 20](#osdi-a)| —— | [EUROSYS 21](#eurosys-b)| [Trustcom 18](#trustcom-c)
 [美密 20](#crypto-a)| [SOSP 19](#sosp-a) | —— | [ACSAC 20](#acsac-b)| [ISC 18](#isc-c)
 [欧密 20](#eurocrypto-a) | [INFOCOM 20](#infocom-a)| —— | [SRDS 20](#srds-b)| [ACISP 18](#acisp-c)
-[亚密 20](#asiacrypto-a)| [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 20](#socc-b)| [SecureComm 18](#securecomm-c)
+[亚密 20](#asiacrypto-a)| —— | —— | [SOCC 20](#socc-b)| [SecureComm 18](#securecomm-c)
 —— | —— | —— | [ESORICS 20](#esorics-b)| [ICC 18](#icc-c)
 —— | —— | —— | [EUROSP 19](#eurosp-2019) | [ICCCN 18](#icccn-c)
 —— | —— | —— | [ICDCS 19](#icdcs-b)| ——
@@ -350,9 +350,27 @@ Alexandra-Mihaela Olteanu (EPFL and UNIL-HEC Lausanne), Kevin Huguenin (UNIL-HEC
 
 ### EUROCRYPTO A
 
-#### 2020
+#### 2019
 
-- **NONE**<br>
+- **Chaya Ganesh, Claudio Orlandi, Daniel Tschudi**<br>
+Stefan Dziembowski, Lisa Eckey, Sebastian Faust, Julia Hesse, Kristina Hostáková
+
+- **Aggregate Cash Systems: A Cryptographic Investigation of Mimblewimble**<br>
+Chaya Ganesh, Claudio Orlandi, Daniel Tschudi
+
+- **Proof-of-Stake Protocols for Privacy-Aware Blockchains**<br>
+Chaya Ganesh, Claudio Orlandi, Daniel Tschudi
+
+- **Consensus Through Herding**<br>
+T.-H. Hubert Chan, Rafael Pass, Elaine Shi
+
+#### 2018
+
+- **None**<br>
+
+#### 2017
+
+- **Decentralized Anonymous Micropayments**<br>
 
 ------
 
@@ -522,33 +540,6 @@ Adiseshu Hari, Murali S. Kodialam, T. V. Lakshman
   
 - **Sybil-Proof Online Incentive Mechanisms for Crowdsensing**<br>
   Jian Lin, Ming Li, Dejun Yang, Guoliang Xue
-  
-------  
-
-### Eurocrypt A
-
-#### 2019
-
-- **Chaya Ganesh, Claudio Orlandi, Daniel Tschudi**<br>
-Stefan Dziembowski, Lisa Eckey, Sebastian Faust, Julia Hesse, Kristina Hostáková
-
-- **Aggregate Cash Systems: A Cryptographic Investigation of Mimblewimble**<br>
-Chaya Ganesh, Claudio Orlandi, Daniel Tschudi
-
-- **Proof-of-Stake Protocols for Privacy-Aware Blockchains**<br>
-Chaya Ganesh, Claudio Orlandi, Daniel Tschudi
-
-- **Consensus Through Herding**<br>
-T.-H. Hubert Chan, Rafael Pass, Elaine Shi
-
-
-#### 2018
-
-- **None**<br>
-
-#### 2017
-
-- **Decentralized Anonymous Micropayments**<br>
 
 ------
 
