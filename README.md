@@ -684,7 +684,7 @@ Jan Pennekamp, Erik Buchholz, Yannik Lockner, Markus Dahlmanns, Tiandong Xi, Mar
 
 #### 2019 
 
-None
+- **None**<br>
 
 #### 2018
 
@@ -816,7 +816,7 @@ Jianghua Liu, Jinhua Ma, Wanlei Zhou, Yang Xiang, Xinyi Huang
 
 - **Selfish Mining in Ethereum**<br>
 
-- **- **Jidar: A Jigsaw-like Data Reduction Approach Without Trust Assumptions for Bitcoin System**<br>
+- **Jidar: A Jigsaw-like Data Reduction Approach Without Trust Assumptions for Bitcoin System**<br>
 
 - **Hierarchical Edge-Cloud Computing for Mobile Blockchain Mining Game**<br>
 
