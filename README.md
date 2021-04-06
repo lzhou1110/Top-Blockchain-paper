@@ -41,6 +41,9 @@ Daniel Perez and Ben Livshits, Imperial College London
 - **EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts**<br>
 Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi, University of Duisburg-Essen
 
+- **Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications**<br>
+Liya Su, Xinyue Shen, Xiangyu Du, Xiaojing Liao, XiaoFeng Wang, and Luyi Xing, Baoxu Liu. USENIX '21 Security Symposium.
+
 #### 2020
 
 - **Pixel: Multi-signatures for Consensus**<br>
@@ -352,7 +355,7 @@ Alexandra-Mihaela Olteanu (EPFL and UNIL-HEC Lausanne), Kevin Huguenin (UNIL-HEC
 
 #### 2019
 
-- **Chaya Ganesh, Claudio Orlandi, Daniel Tschudi**<br>
+- **Multi-Party Virtual State Channels**<br>
 Stefan Dziembowski, Lisa Eckey, Sebastian Faust, Julia Hesse, Kristina Hostáková
 
 - **Aggregate Cash Systems: A Cryptographic Investigation of Mimblewimble**<br>
