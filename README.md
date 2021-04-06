@@ -14,7 +14,7 @@ Collect blockchain academic papers and welcome your contributions.
 [Security 21](#usenix-security-a)| [NSDI 20](#nsdi-a)| [TIFS 18](#tifs-a)| [RAID 18](#raid-b)| [FC 21](#fc-c)
 [S&P 21](#sp-a)| [SIGMOD 20](#sigmod-a)| [TDSC 19](#tdsc-a)| [DSN 20](#dsn-b)| [ASIACCS 18](#asiaccs-c)
 [CCS 20](#ccs-a)| —— | [TPDS 18](#tpds-a)| [ICNP 18](#icnp-b)| [ICICS 18](#icics-c)
-[NDSS 21](#ndss-b)| [OSDI 20](#osdi-a)| —— | [EUROSYS 20](#eurosys-b)| [Trustcom 18](#trustcom-c)
+[NDSS 21](#ndss-b)| [OSDI 20](#osdi-a)| —— | [EUROSYS 21](#eurosys-b)| [Trustcom 18](#trustcom-c)
 [美密 20](#crypto-a)| [SOSP 19](#sosp-a) | —— | [ACSAC 20](#acsac-b)| [ISC 18](#isc-c)
 [欧密 20](#eurocrypto-a) | [INFOCOM 20](#infocom-a)| —— | [SRDS 20](#srds-b)| [ACISP 18](#acisp-c)
 [亚密 20](#asiacrypto-a)| [EUROCRYPT 19](#eurocrypt-a)| —— | [SOCC 20](#socc-b)| [SecureComm 18](#securecomm-c)
@@ -658,6 +658,11 @@ Guanhao Wu, Xiaofeng Gao, Tao Chen, Hao Zhou, Linghe Kong, Guihai Chen
 ------  
 
 ### EUROSYS B
+
+#### 2021
+
+- **Fully Distributed Verifiable Random Functions and their Application to Decentralised Random Beacons.**<br>
+Monjur Alam, Frank Werner, Milos Prvulovic, Alenka Zajic and Baki Yilmaz, Niels Samwel, Daniel Genkin, Yuval Yarom.
 
 #### 2020
 
