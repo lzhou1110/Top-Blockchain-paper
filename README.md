@@ -138,6 +138,9 @@ Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Antoi
 - **MAD-HTLC: Because HTLC is Crazy-Cheap to Attack**<br>
 Itay Tsabary (Technion), Matan Yechieli (Technion), Alex Manuskin (ZenGo), Ittay Eyal (Technion, VMware)
 
+- **Proof-of-Learning: Definitions and Practice**<br>
+Hengrui Jia (University of Toronto and Vector Institute), Mohammad Yaghini (University of Toronto and Vector Institute), Christopher A. Choquette-Choo (University of Toronto and Vector Institute), Natalie Dullerud (University of Toronto and Vector Institute), Anvith Thudi (University of Toronto and Vector Institute), Varun Chandrasekaran (University of Wisconsin-Madison), Nicolas Papernot (University of Toronto and Vector Institute)
+
 #### 2020 
 
 - **OHIE: Blockchain Scaling Made Simple**<br>
@@ -468,9 +471,9 @@ Mohammad Alizadeh, Massachusetts Institute of Technology
 
 #### 2020
 
-- **zFalconDB: Blockchain-based Collaborative Database**<br>
+- **FalconDB: Blockchain-based Collaborative Database**<br>
 
-- **zA Transactional Perspective on Execute-order-validate Blockchains**<br>
+- **A Transactional Perspective on Execute-order-validate Blockchains**<br>
 
 
 #### 2019
