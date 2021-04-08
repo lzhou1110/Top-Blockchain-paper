@@ -3,6 +3,7 @@
 Collect blockchain academic papers and welcome your contributions.
 
 - NEWS! update NDSS 2021（Apr 6 2021）
+- NEWS! update SP 2021（Apr 6 2021）
 - NEWS! update Usenix Security 2021（Apr 6 2021）
 - NEWS! update FC 2021（Apr 6 2021）
 - NEWS! update EUROSYS 2021（Apr 6 2021）
@@ -89,7 +90,53 @@ Sinisa Matetic and Moritz Schneider, ETH Zurich; Andrew Miller, UIUC; Ari Juels,
 
 #### 2021
 
-- **CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability**<br>
+- **CanDID: Bootstrapping Decentralized Identity from Legacy Providers**<br>
+Sai Krishna Deepak Maram (Cornell Tech), Fan Zhang (Cornell Tech), Harjasleen Malvai (Cornell), Ari Juels (Cornell Tech), Alexander Frolov (Cornell), Nerla Jean-Louis (University of Illinois at Urbana-Champaign), Andrew Miller (University of Illinois at Urbana-Champaign), Tyler Kell (Cornell Tech)
+
+- **"Many-out-of-Many" Proofs and Applications to Anonymous Zether**<br>
+Benjamin E. Diamond (J.P. Morgan)
+
+- **A2L: Anonymous Atomic Locks for Scalability in Payment Channel Hubs**<br>
+Erkan Tairi (TU Wien), Pedro Moreno-Sanchez (IMDEA Software Institute), Matteo Maffei (TU Wien)
+
+- **Compact Certificates of Collective Knowledge**<br>
+Silvio Micali (Algorand and MIT), Leonid Reyzin (Algorand and Boston University), Georgios Vlachos (), Riad S. Wahby (Algorand and Stanford), Nickolai Zeldovich (Algorand and MIT)
+
+- **Ed25519 Signature Schemes: Theory and Practice**<br>
+Alexander Viand (ETH Zurich), Patrick Jattke (ETH Zurich), Anwar Hithnawi (ETH Zurich), Jacqueline Brendel (CISPA), Cas Cremers (CISPA), Dennis Jackson (ETH Zurich), Mang Zhao (CISPA - Helmholtz Center for Information Security)
+
+- **Epochal Signatures for Deniable Group Chats**<br>
+Florian Weber (TU Eindhoven), Andreas Hülsing (TU Eindhoven)
+
+- **High-Frequency Trading on Decentralized On-Chain Exchanges**<br>
+Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Christof Ferreira Torres (University of Luxembourg), Duc V Le (Purdue University), Arthur Gervais (Imperial College London), Tyler Crain (University of Sydney), Christopher Natoli (University of Sydney), Vincent Gramoli (University of Sydney and EPFL)
+
+- **Lockable Signatures for Blockchains: Scriptless Scripts for all Signatures**<br>
+Sri AravindaKrishnan Thyagarajan (Friedrich Alexander Universität Erlangen-Nürnberg), Giulio Malavolta (Max Planck Institute for Security and Privacy)
+
+- **Merkle^2: A Low-Latency Transparency Log System**<br>
+Yuncong Hu (UC Berkeley), Kian Hooshmand (UC Berkeley), Rajeswari Harika Kalidhindi (UC Berkeley), Seung Jin Yang (UC Berkeley), Raluca Popa (UC Berkeley)
+
+- **On the Anonymity Guarantees of Anonymous Proof-of-Stake Protocols**<br>
+Varun Madathil (North Carolina State University), Alessandra Scafuro (North Carolina State University), Kartik Nayak (Duke University), Markulf Kohlweiss (University of Edinburgh)
+
+- **SGUARD: Smart Contracts Made Vulnerability-Free**<br>
+Long H. Pham (Singapore Management University), Jun Sun (Singapore Management University), Tai Duy Nguyen (Singapore Management University)
+
+- **SmartPulse: Automated Checking of Temporal Properties in Smart Contracts**<br>
+Jon Stephens (The University of Texas at Austin), Kostas Ferles (The University of Texas at Austin), Benjamin Mariano (The University of Texas at Austin), Shuvendu Lahiri (Microsoft Research), Isil Dillig (The University of Texas at Austin)
+
+- **The EMV Standard: Break, Fix, Verify**<br>
+David Basin (Department of Computer Science, ETH Zurich), Ralf Sasse (Department of Computer Science, ETH Zurich), Jorge Toro-Pozo (Department of Computer Science, ETH Zurich)
+
+- **Proactive Threshold Wallets with Offline Devices**<br>
+Yashvanth Kondi (Northeastern University), Bernardo Magri (Aarhus University), Claudio Orlandi (Aarhus University), Omer Shlomovits (ZenGo X)
+
+- **On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols**<br>
+Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Antoine Cully (Imperial College London), Benjamin Livshits (Imperial College London), Arthur Gervais (Imperial College London)
+
+- **MAD-HTLC: Because HTLC is Crazy-Cheap to Attack**<br>
+Itay Tsabary (Technion), Matan Yechieli (Technion), Alex Manuskin (ZenGo), Ittay Eyal (Technion, VMware)
 
 #### 2020 
 
