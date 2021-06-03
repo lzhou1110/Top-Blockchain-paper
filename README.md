@@ -109,7 +109,7 @@ Alexander Viand (ETH Zurich), Patrick Jattke (ETH Zurich), Anwar Hithnawi (ETH Z
 Florian Weber (TU Eindhoven), Andreas Hülsing (TU Eindhoven)
 
 - **High-Frequency Trading on Decentralized On-Chain Exchanges**<br>
-Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Christof Ferreira Torres (University of Luxembourg), Duc V Le (Purdue University), Arthur Gervais (Imperial College London), Tyler Crain (University of Sydney), Christopher Natoli (University of Sydney), Vincent Gramoli (University of Sydney and EPFL)
+Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Christof Ferreira Torres (University of Luxembourg), Duc V Le (Purdue University), Arthur Gervais (Imperial College London)
 
 - **Lockable Signatures for Blockchains: Scriptless Scripts for all Signatures**<br>
 Sri AravindaKrishnan Thyagarajan (Friedrich Alexander Universität Erlangen-Nürnberg), Giulio Malavolta (Max Planck Institute for Security and Privacy)
@@ -769,7 +769,7 @@ Qingqi Pei, Enyuan Zhou, Yang Xiao, Deyu Zhang and Dongxiao Zhao.
 Yue Li, Han Liu, Zhiqiang Yang, Bin Wang, Qian Ren, Lei Wang and Bangdao Chen.
 
 - **TZ4Fabric: Executing Smart Contracts with ARM TrustZone (Practical Experience Report)**<br>
-Christina Müller, Marcus Brandenburger, Christian Cachin, Pascal Felber, Christian Göttel and Valerio Schiavoni.
+Christina Müller, Marcus Brandenburger, Christian Cachin, Pascal Felber, Christian Göttel and Valerio Schiavoni.
 
 #### 2019 
 
