@@ -126,9 +126,6 @@ Long H. Pham (Singapore Management University), Jun Sun (Singapore Management Un
 - **SmartPulse: Automated Checking of Temporal Properties in Smart Contracts**<br>
 Jon Stephens (The University of Texas at Austin), Kostas Ferles (The University of Texas at Austin), Benjamin Mariano (The University of Texas at Austin), Shuvendu Lahiri (Microsoft Research), Isil Dillig (The University of Texas at Austin)
 
-- **The EMV Standard: Break, Fix, Verify**<br>
-David Basin (Department of Computer Science, ETH Zurich), Ralf Sasse (Department of Computer Science, ETH Zurich), Jorge Toro-Pozo (Department of Computer Science, ETH Zurich)
-
 - **Proactive Threshold Wallets with Offline Devices**<br>
 Yashvanth Kondi (Northeastern University), Bernardo Magri (Aarhus University), Claudio Orlandi (Aarhus University), Omer Shlomovits (ZenGo X)
 
